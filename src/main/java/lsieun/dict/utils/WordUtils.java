@@ -73,6 +73,8 @@ public class WordUtils {
                 def.examples.add(secondPart);
             }
             else if("Picture".equals(firstPart)) {
+                if (StringUtils.isBlank(secondPart)) continue;
+
                 int lastIndex = filepath.lastIndexOf("/");
                 String dir = filepath.substring(0, lastIndex);
                 int left = secondPart.indexOf("(");
@@ -140,4 +142,41 @@ public class WordUtils {
         FileUtils.writeLines(filepath, lines);
     }
 
+    public static void create(String filepath, String vocabulary) {
+        if (vocabulary == null) return;
+        char ch = vocabulary.charAt(0);
+        String dir = filepath + File.separator + ch;
+        File dirFile = new File(dir);
+        if (!dirFile.exists()) {
+            dirFile.mkdirs();
+        }
+        String newFilePath = dir + File.separator + vocabulary + ".md";
+        System.out.println("file://" + newFilePath);
+        File file = new File(newFilePath);
+        if (file.exists()) {
+            throw new RuntimeException("File Exist: " + newFilePath);
+        }
+
+        String separator = System.getProperty("line.separator");
+        List<String> lines = new ArrayList();
+
+        lines.add(String.format("# %s%s", vocabulary, separator));
+        lines.add(separator);
+
+        lines.add(String.format("- %s: %s%s", "Word", vocabulary, separator));
+        lines.add(String.format("- %s: %s", "Cognate", separator));
+        lines.add(separator);
+        lines.add(String.format("- %s: %s", "Type", separator));
+        lines.add(String.format("- %s: %s", "Meaning", separator));
+        lines.add(String.format("- %s: %s", "Chinese", separator));
+        lines.add(String.format("- %s: %s", "Tags", separator));
+        lines.add(String.format("- %s: %s", "Synonyms", separator));
+        lines.add(String.format("- %s: %s", "Antonyms", separator));
+        lines.add(String.format("- %s: %s", "Similar", separator));
+        lines.add(String.format("- %s: %s", "Eg.", separator));
+        lines.add(String.format("- %s: %s", "Picture", separator));
+        lines.add(separator);
+
+        FileUtils.writeLines(newFilePath, lines);
+    }
 }

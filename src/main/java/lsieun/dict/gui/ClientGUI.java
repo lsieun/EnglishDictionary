@@ -19,6 +19,8 @@ public class ClientGUI extends JFrame {
     public static final int HEIGHT = 720;
     public static final String DEFAULT_SEARCH_TEXT = "请输入单词...";
 
+    public static int total_words = 0;
+
     private Trie trie = new Trie();
     private Map<String, Word> dict_map = new HashMap();
 
@@ -32,6 +34,7 @@ public class ClientGUI extends JFrame {
     public void init() {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary";
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
+        ClientGUI.total_words = fileList.size();
 
         List<Word> wordList = new ArrayList();
         for(String str : fileList) {
@@ -60,6 +63,7 @@ public class ClientGUI extends JFrame {
         textArea.setSelectedTextColor(Color.RED);
         textArea.setLineWrap(true);        // 激活自动换行功能
         textArea.setWrapStyleWord(true);   // 激活断行不断字功能
+        textArea.setText("Total words: " + ClientGUI.total_words);
         this.add(textArea, BorderLayout.CENTER);
 
         // init
@@ -67,6 +71,7 @@ public class ClientGUI extends JFrame {
     }
 
     private void top() {
+        field.setFont(new Font("黑体",Font.BOLD,20));
         topPanel.add(field);
         btnSearch = new JButton("Search");
         btnClear = new JButton("Clear");
