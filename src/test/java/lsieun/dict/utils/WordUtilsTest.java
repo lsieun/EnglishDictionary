@@ -1,12 +1,9 @@
 package lsieun.dict.utils;
 
-import static org.junit.Assert.*;
-
 import java.util.List;
 
 import org.junit.Test;
 
-import lsieun.dict.core.Definition;
 import lsieun.dict.core.Word;
 
 public class WordUtilsTest {
@@ -15,7 +12,7 @@ public class WordUtilsTest {
     public void testParse() {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary";
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
-        for(String str : fileList) {
+        for (String str : fileList) {
             Word w = WordUtils.parse(str);
             System.out.println(w);
         }
@@ -23,7 +20,7 @@ public class WordUtilsTest {
 
     @Test
     public void testRewrite() {
-        String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary/vocabulary/s/squirrelly.md";
+        String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary/vocabulary/s/slap.md";
         WordUtils.rewrite(filepath);
     }
 
@@ -31,7 +28,7 @@ public class WordUtilsTest {
     public void testRewriteAll() {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary";
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
-        for(String str : fileList) {
+        for (String str : fileList) {
             WordUtils.rewrite(str);
         }
     }
@@ -39,8 +36,18 @@ public class WordUtilsTest {
     @Test
     public void testCreate() {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary/vocabulary";
-        String vocabulary = "wiggle";
-        WordUtils.create(filepath, vocabulary);
+        String vocabulary = "aesthetic";
+        WordUtils.create(filepath, vocabulary, "");
+    }
+
+    @Test
+    public void testNewCreate() {
+        WordUtils.create("", "nc");
+    }
+
+    @Test
+    public void testAddDefinition() {
+        WordUtils.addDefinition("implication", "nc");
     }
 
 }
