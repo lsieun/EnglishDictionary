@@ -30,6 +30,7 @@ public class WordUtils {
                 firstPart = firstPart.replaceFirst("- ", "");
             }
             secondPart = secondPart.trim();
+            secondPart = secondPart.replaceAll("( )\\1+", "");
 
             if ("Word".equals(firstPart)) {
                 w = new Word();
@@ -40,6 +41,16 @@ public class WordUtils {
 
             if ("Cognate".equals(firstPart)) {
                 w.cognate = secondPart;
+                continue;
+            }
+
+            if ("Story".equals(firstPart)) {
+                if (StringUtils.isBlank(secondPart)) continue;
+
+                if (w.stories == null) {
+                    w.stories = new ArrayList();
+                }
+                w.stories.add(secondPart);
                 continue;
             }
 
@@ -109,7 +120,25 @@ public class WordUtils {
         return w;
     }
 
-    public static void rewrite(String filepath) {
+    public static void rewriteWord(String vocabulary) {
+        if(StringUtils.isBlank(vocabulary)) return;
+        vocabulary = vocabulary.trim();
+        char ch = vocabulary.charAt(0);
+        String filepath = PropertyUtils.getProperty("english.dictionary.filepath");
+        filepath += File.separator + "vocabulary";
+        String dir = filepath + File.separator + ch;
+        String newFilePath = dir + File.separator + vocabulary + ".md";
+        System.out.println("file://" + newFilePath);
+
+        File file = new File(newFilePath);
+        if (!file.exists()) {
+            System.out.println("File Not Exist: file://" + newFilePath);
+            return;
+        }
+        rewriteFile(newFilePath);
+    }
+
+    public static void rewriteFile(String filepath) {
         Word w = parse(filepath);
         List<String> lines = getWordLines(w);
         FileUtils.writeLines(filepath, lines);
@@ -119,7 +148,7 @@ public class WordUtils {
         String filepath = PropertyUtils.getProperty("english.dictionary.filepath");
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
         for (String str : fileList) {
-            WordUtils.rewrite(str);
+            WordUtils.rewriteFile(str);
         }
     }
 
@@ -130,44 +159,55 @@ public class WordUtils {
         lines.add(LINE_SEPARATOR);
 
         lines.add(String.format("- %s: %s%s", "Word", w.name, LINE_SEPARATOR));
-        if (w.cognate != null) {
+        if (StringUtils.isNotBlank(w.cognate)) {
             lines.add(String.format("- %s: %s%s", "Cognate", w.cognate, LINE_SEPARATOR));
+        }
+        if (w.stories != null && w.stories.size() > 0) {
+            for (String story : w.stories) {
+                lines.add(String.format("- %s: %s%s", "Story", story, LINE_SEPARATOR));
+            }
         }
         lines.add(LINE_SEPARATOR);
 
         if (w.definitions != null) {
             for (Definition def : w.definitions) {
                 lines.add(String.format("- %s: %s%s", "Type", def.type, LINE_SEPARATOR));
-                if (def.plural != null) {
+                if (StringUtils.isNotBlank(def.plural)) {
                     lines.add(String.format("- %s: %s%s", "Plural", def.plural, LINE_SEPARATOR));
                 }
-                if (def.single != null) {
+                if (StringUtils.isNotBlank(def.single)) {
                     lines.add(String.format("- %s: %s%s", "Single", def.single, LINE_SEPARATOR));
                 }
-                if (def.comparative != null) {
+                if (StringUtils.isNotBlank(def.comparative)) {
                     lines.add(String.format("- %s: %s%s", "Comparative", def.comparative, LINE_SEPARATOR));
                 }
                 lines.add(String.format("- %s: %s%s", "Meaning", def.meaning_en, LINE_SEPARATOR));
                 lines.add(String.format("- %s: %s%s", "Chinese", def.meaning_ch, LINE_SEPARATOR));
-                if (def.tags != null) {
+                if (StringUtils.isNotBlank(def.tags)) {
                     lines.add(String.format("- %s: %s%s", "Tags", def.tags, LINE_SEPARATOR));
                 }
-                if (def.synonyms != null) {
+                else {
+                    lines.add(String.format("- %s: %s", "Tags", LINE_SEPARATOR));
+                }
+                if (StringUtils.isNotBlank(def.synonyms)) {
                     lines.add(String.format("- %s: %s%s", "Synonyms", def.synonyms, LINE_SEPARATOR));
                 }
-                if (def.antonyms != null) {
+                if (StringUtils.isNotBlank(def.antonyms)) {
                     lines.add(String.format("- %s: %s%s", "Antonyms", def.antonyms, LINE_SEPARATOR));
                 }
-                if (def.similar != null) {
+                if (StringUtils.isNotBlank(def.similar)) {
                     lines.add(String.format("- %s: %s%s", "Similar", def.similar, LINE_SEPARATOR));
                 }
-                if (def.use != null) {
+                if (StringUtils.isNotBlank(def.use)) {
                     lines.add(String.format("- %s: %s%s", "Use", def.use, LINE_SEPARATOR));
                 }
-                if (def.examples != null) {
+                if (def.examples != null && def.examples.size() > 0) {
                     for (String str : def.examples) {
                         lines.add(String.format("- %s: %s%s", "Eg.", str, LINE_SEPARATOR));
                     }
+                }
+                else {
+                    lines.add(String.format("- %s: %s", "Eg.", LINE_SEPARATOR));
                 }
 
                 if (def.pictures != null) {
@@ -175,6 +215,7 @@ public class WordUtils {
                         lines.add(String.format("- %s: %s%s", "Picture", str, LINE_SEPARATOR));
                     }
                 }
+
                 lines.add(LINE_SEPARATOR);
             }
 
@@ -190,6 +231,7 @@ public class WordUtils {
 
         lines.add(String.format("- %s: %s%s", "Word", vocabulary, LINE_SEPARATOR));
         lines.add(String.format("- %s: %s", "Cognate", LINE_SEPARATOR));
+        lines.add(String.format("- %s: %s", "Story", LINE_SEPARATOR));
         lines.add(LINE_SEPARATOR);
 
         lines.addAll(getDefinitionLines(type));
@@ -245,13 +287,16 @@ public class WordUtils {
     }
 
     public static void create(String vocabulary, String type) {
+        if(StringUtils.isBlank(vocabulary)) return;
+        vocabulary = vocabulary.trim();
         String filepath = PropertyUtils.getProperty("english.dictionary.filepath");
         filepath += File.separator + "vocabulary";
         create(filepath, vocabulary, type);
     }
 
     public static void create(String filepath, String vocabulary, String type) {
-        if (vocabulary == null) return;
+        if(StringUtils.isBlank(vocabulary)) return;
+        vocabulary = vocabulary.trim();
         char ch = vocabulary.charAt(0);
         String dir = filepath + File.separator + ch;
         File dirFile = new File(dir);
@@ -262,7 +307,7 @@ public class WordUtils {
         System.out.println("file://" + newFilePath);
         File file = new File(newFilePath);
         if (file.exists()) {
-            throw new RuntimeException("File Exist: " + newFilePath);
+            throw new RuntimeException("File Exist: file://" + newFilePath);
         }
 
         List<String> lines = getWordLines(vocabulary, type);
@@ -272,7 +317,8 @@ public class WordUtils {
     }
 
     public static void addDefinition(String vocabulary, String type) {
-        if (vocabulary == null) return;
+        if(StringUtils.isBlank(vocabulary)) return;
+        vocabulary = vocabulary.trim();
 
         String dict_path = PropertyUtils.getProperty("english.dictionary.filepath");
         String vocabulary_path = dict_path + File.separator + "vocabulary";

@@ -4,7 +4,6 @@ import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-import java.awt.event.MouseMotionListener;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -23,10 +22,10 @@ import lsieun.dict.utils.*;
 import lsieun.utils.StringUtils;
 
 public class ClientGUI extends JFrame {
-    public static final int WIDTH = 960;
-    public static final int HEIGHT = 720;
+    public static final int WIDTH = 1200;
+    public static final int HEIGHT = 600;
     public static final String DEFAULT_SEARCH_TEXT = "请输入单词...";
-    public static final int CANDIDATE_NUM = 20;
+    public static final int CANDIDATE_NUM = 25;
     public static final String CANDIDATE_DEFAULT_TEXT = "                    ";
 
     public static int total_words = 0;
@@ -36,16 +35,19 @@ public class ClientGUI extends JFrame {
 
     private JPanel topPanel;
     private JPanel leftPanel;
-    private JPanel statusBar;
+    private JPanel bottomPanel;
     private JButton btnSearch;
     private JButton btnClear;
     private JButton btnRebuid;
+    private JComboBox wordType = new JComboBox();
+    private JButton btnNew = new JButton("New");
+    private JButton btnAdd = new JButton("Add");
+    private JLabel statusBar = new JLabel();
     private JTextField searchField = new JTextField(DEFAULT_SEARCH_TEXT, 25);
     private List<JButton> candidate_button_list = new ArrayList();
     private JTextArea textArea = new JTextArea("", 20, 30);
 
     public void init() {
-        System.out.println(CANDIDATE_DEFAULT_TEXT.length());
         ClientGUI.total_words = 0;
         trie = new Trie();
         dict_map = new HashMap();
@@ -82,6 +84,9 @@ public class ClientGUI extends JFrame {
         textArea.setLineWrap(true);        // 激活自动换行功能
         textArea.setWrapStyleWord(true);   // 激活断行不断字功能
         textArea.setText("Total words: " + ClientGUI.total_words);
+        JScrollPane js = new JScrollPane(textArea);
+        js.setBounds(0, 187, 590, 98);
+        js.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
         textArea.addMouseListener(new MouseListener() {
             @Override
             public void mouseClicked(MouseEvent e) {
@@ -115,14 +120,13 @@ public class ClientGUI extends JFrame {
 
             }
         });
-        this.add(textArea, BorderLayout.CENTER);
+        this.add(js, BorderLayout.CENTER);
 
-        statusBar = new JPanel(new FlowLayout(FlowLayout.LEFT));
-        statusBar.setBorder(new CompoundBorder(new LineBorder(Color.DARK_GRAY),
+        bottomPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
+        bottomPanel.setBorder(new CompoundBorder(new LineBorder(Color.DARK_GRAY),
                 new EmptyBorder(4, 4, 4, 4)));
-        final JLabel status = new JLabel();
-        statusBar.add(status);
-        this.add(statusBar, BorderLayout.SOUTH);
+        bottom();
+        this.add(bottomPanel, BorderLayout.SOUTH);
 
         // init
         FrameUtils.initFrame(this, WIDTH, HEIGHT);
@@ -137,6 +141,21 @@ public class ClientGUI extends JFrame {
         topPanel.add(btnSearch);
         topPanel.add(btnClear);
         topPanel.add(btnRebuid);
+        wordType.addItem("adjective");
+        wordType.addItem("noun");
+        wordType.addItem("noun [C]");
+        wordType.addItem("noun [U]");
+        wordType.addItem("noun [C or U]");
+        wordType.addItem("noun [S]");
+        wordType.addItem("verb");
+        wordType.addItem("verb [T]");
+        wordType.addItem("verb [I]");
+        wordType.addItem("verb [I or T]");
+        wordType.addItem("adverb");
+
+        topPanel.add(wordType);
+        topPanel.add(btnNew);
+        topPanel.add(btnAdd);
 
         Document doc = searchField.getDocument();
         doc.addDocumentListener(new DocumentListener() {
@@ -176,6 +195,14 @@ public class ClientGUI extends JFrame {
                 }
                 //ClientGUI.this.textArea.requestFocus();
             }
+
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                if (e.getButton() == MouseEvent.BUTTON3) {
+                    searchField.setText("");
+                    searchField.paste();
+                }
+            }
         });
 
         btnSearch.addMouseListener(new MouseAdapter() {
@@ -199,6 +226,28 @@ public class ClientGUI extends JFrame {
                 ClientGUI.this.clear();
             }
         });
+
+        btnNew.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                Object item = wordType.getSelectedItem();
+                String type = (String) item;
+                String str = searchField.getText().trim();
+                if (str == null || "".equals(str)) return;
+                WordUtils.create(str, type);
+            }
+        });
+
+        btnAdd.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                Object item = wordType.getSelectedItem();
+                String type = (String) item;
+                String str = searchField.getText().trim();
+                if (StringUtils.isBlank(str)) return;
+                WordUtils.addDefinition(str, type);
+            }
+        });
     }
 
     private void left() {
@@ -220,6 +269,10 @@ public class ClientGUI extends JFrame {
 
         }
 
+    }
+
+    private void bottom() {
+        bottomPanel.add(statusBar);
     }
 
     private void resetCandidateButtions() {
