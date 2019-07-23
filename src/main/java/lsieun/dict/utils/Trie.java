@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Trie {
+    public static final char[] chars = new char[]{
+            'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
+            'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
+            'u', 'v', 'w', 'x', 'y', 'z', '-'};
+
     private TrieNode root;
 
     public Trie() {
@@ -62,7 +67,6 @@ public class Trie {
     }
 
 
-
     boolean isEmpty() {
         return root == null;
     }
@@ -93,16 +97,41 @@ public class Trie {
         if (current == null) return null;
 
         List<String> resultList = new ArrayList();
-        for (char ch = 'a'; ch <= 'z'; ch++) {
+        for (int i = 0; i < chars.length; i++) {
+            char ch = chars[i];
             TrieNode subNode = current.children.get(ch);
             if (subNode == null) continue;
             if (subNode.endOfWord) {
                 resultList.add(subNode.content);
             }
-            else {
-                List<String> list = findAllWords(subNode);
-                resultList.addAll(list);
+
+            List<String> list = findAllWords(subNode);
+            resultList.addAll(list);
+
+        }
+        return resultList;
+    }
+
+    public static List<String> findAllWords(TrieNode current, int count) {
+        if (count <= 0) return null;
+        if (current == null) return null;
+
+        List<String> resultList = new ArrayList();
+        for (int i = 0; i < chars.length; i++) {
+            char ch = chars[i];
+            TrieNode subNode = current.children.get(ch);
+            if (subNode == null) continue;
+            if (subNode.endOfWord) {
+                resultList.add(subNode.content);
+                if (resultList.size() >= count) break;
             }
+
+            int diff = count - resultList.size();
+            List<String> list = findAllWords(subNode, diff);
+            if (list == null || list.size() < 1) continue;
+            resultList.addAll(list);
+            if (resultList.size() >= count) break;
+
         }
         return resultList;
     }

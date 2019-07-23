@@ -12,7 +12,7 @@ public class Word {
         String separator = System.getProperty("line.separator");
         StringBuilder sb = new StringBuilder();
         sb.append(String.format("%s: %s%s", "Word", name, separator));
-        if (cognate != null) {
+        if (cognate != null && !"".equals(cognate)) {
             sb.append(String.format("%s: %s%s", "Cognate", cognate, separator));
         }
         sb.append(separator);

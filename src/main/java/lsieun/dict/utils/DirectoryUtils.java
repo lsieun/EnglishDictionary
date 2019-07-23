@@ -47,6 +47,7 @@ public class DirectoryUtils {
             List<String> list = getAllMarkdownFiles(subDir);
             fileNameList.addAll(list);
         }
+        System.out.println("Read Vocabulary Files: " + fileNameList.size());
         return fileNameList;
     }
 
