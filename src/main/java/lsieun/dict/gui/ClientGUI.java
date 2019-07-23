@@ -3,12 +3,17 @@ package lsieun.dict.gui;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.awt.event.MouseMotionListener;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 import javax.swing.*;
+import javax.swing.border.CompoundBorder;
+import javax.swing.border.EmptyBorder;
+import javax.swing.border.LineBorder;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import javax.swing.text.Document;
@@ -31,6 +36,7 @@ public class ClientGUI extends JFrame {
 
     private JPanel topPanel;
     private JPanel leftPanel;
+    private JPanel statusBar;
     private JButton btnSearch;
     private JButton btnClear;
     private JButton btnRebuid;
@@ -59,7 +65,7 @@ public class ClientGUI extends JFrame {
 
     public void launchFrame() {
         // top textArea
-        topPanel = new JPanel();
+        topPanel = new JPanel(new FlowLayout(FlowLayout.LEFT));
 //        topPanel.setBackground(Color.RED);
         top();
         this.add(topPanel, BorderLayout.NORTH);
@@ -76,7 +82,47 @@ public class ClientGUI extends JFrame {
         textArea.setLineWrap(true);        // 激活自动换行功能
         textArea.setWrapStyleWord(true);   // 激活断行不断字功能
         textArea.setText("Total words: " + ClientGUI.total_words);
+        textArea.addMouseListener(new MouseListener() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                if (e.getButton() == 3) {
+                    String text = textArea.getSelectedText();
+                    if (StringUtils.isNotBlank(text)) {
+                        textArea.copy();
+                        System.out.println("Copy: " + text);
+                    }
+                }
+
+            }
+
+            @Override
+            public void mousePressed(MouseEvent e) {
+
+            }
+
+            @Override
+            public void mouseReleased(MouseEvent e) {
+
+            }
+
+            @Override
+            public void mouseEntered(MouseEvent e) {
+
+            }
+
+            @Override
+            public void mouseExited(MouseEvent e) {
+
+            }
+        });
         this.add(textArea, BorderLayout.CENTER);
+
+        statusBar = new JPanel(new FlowLayout(FlowLayout.LEFT));
+        statusBar.setBorder(new CompoundBorder(new LineBorder(Color.DARK_GRAY),
+                new EmptyBorder(4, 4, 4, 4)));
+        final JLabel status = new JLabel();
+        statusBar.add(status);
+        this.add(statusBar, BorderLayout.SOUTH);
 
         // init
         FrameUtils.initFrame(this, WIDTH, HEIGHT);
