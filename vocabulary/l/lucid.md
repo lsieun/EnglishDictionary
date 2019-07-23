@@ -5,6 +5,8 @@
 - Type: adjective
 - Meaning: clearly expressed and easy to understand
 - Chinese: 这里强调的是“一个人讲出的话”是清楚的表达出来，因而也让人容易理解。这里强调“结果”
+- Tags: 
+- Eg.: 
 
 - Type: adjective
 - Meaning: (of a person) thinking or speaking clearly
