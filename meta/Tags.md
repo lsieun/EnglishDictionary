@@ -6,6 +6,9 @@ person::mind
 person::emotion
 person::behavior
 
+person::hand
+person::attainments  人的某种技巧的造诣
+
 human::head
 human::body
 human::arms
@@ -29,6 +32,8 @@ things:state:chaos
 
 force::attract
 force::repel
+
+situation::difficult
 
 ## 生物
 
