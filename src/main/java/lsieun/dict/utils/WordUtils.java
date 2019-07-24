@@ -29,8 +29,11 @@ public class WordUtils {
             if (firstPart.startsWith("- ")) {
                 firstPart = firstPart.replaceFirst("- ", "");
             }
+            if (StringUtils.isBlank(firstPart)) continue;
+
             secondPart = secondPart.trim();
             secondPart = secondPart.replaceAll("( )\\1+", "");
+            if (StringUtils.isBlank(secondPart)) continue;
 
             if ("Word".equals(firstPart)) {
                 w = new Word();
@@ -122,20 +125,23 @@ public class WordUtils {
 
     public static void rewriteWord(String vocabulary) {
         if(StringUtils.isBlank(vocabulary)) return;
+
+        String parentpath = PropertyUtils.getProperty("english.dictionary.filepath");
+        parentpath += File.separator + "vocabulary";
+
         vocabulary = vocabulary.trim();
         char ch = vocabulary.charAt(0);
-        String filepath = PropertyUtils.getProperty("english.dictionary.filepath");
-        filepath += File.separator + "vocabulary";
-        String dir = filepath + File.separator + ch;
-        String newFilePath = dir + File.separator + vocabulary + ".md";
-        System.out.println("file://" + newFilePath);
+        String childpath = ch + File.separator + vocabulary + ".md";
 
-        File file = new File(newFilePath);
+        String filepath = parentpath + File.separator + childpath.toLowerCase();
+        System.out.println("file://" + filepath);
+
+        File file = new File(filepath);
         if (!file.exists()) {
-            System.out.println("File Not Exist: file://" + newFilePath);
+            System.out.println("File Not Exist: file://" + filepath);
             return;
         }
-        rewriteFile(newFilePath);
+        rewriteFile(filepath);
     }
 
     public static void rewriteFile(String filepath) {
@@ -294,26 +300,26 @@ public class WordUtils {
         create(filepath, vocabulary, type);
     }
 
-    public static void create(String filepath, String vocabulary, String type) {
+    public static void create(String parentpath, String vocabulary, String type) {
         if(StringUtils.isBlank(vocabulary)) return;
         vocabulary = vocabulary.trim();
         char ch = vocabulary.charAt(0);
-        String dir = filepath + File.separator + ch;
+        String dir = parentpath + File.separator + String.valueOf(ch).toLowerCase();
         File dirFile = new File(dir);
         if (!dirFile.exists()) {
             dirFile.mkdirs();
         }
-        String newFilePath = dir + File.separator + vocabulary + ".md";
-        System.out.println("file://" + newFilePath);
-        File file = new File(newFilePath);
+        String filepath = dir + File.separator + vocabulary.toLowerCase() + ".md";
+        System.out.println("file://" + filepath);
+        File file = new File(filepath);
         if (file.exists()) {
-            throw new RuntimeException("File Exist: file://" + newFilePath);
+            throw new RuntimeException("File Exist: file://" + filepath);
         }
 
         List<String> lines = getWordLines(vocabulary, type);
 
 
-        FileUtils.writeLines(newFilePath, lines);
+        FileUtils.writeLines(filepath, lines);
     }
 
     public static void addDefinition(String vocabulary, String type) {

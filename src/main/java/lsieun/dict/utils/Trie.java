@@ -3,6 +3,8 @@ package lsieun.dict.utils;
 import java.util.ArrayList;
 import java.util.List;
 
+import lsieun.utils.StringUtils;
+
 public class Trie {
     public static final char[] chars = new char[]{
             'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j',
@@ -16,6 +18,9 @@ public class Trie {
     }
 
     public void insert(String str) {
+        if (StringUtils.isBlank(str)) return;
+        str = str.trim().toLowerCase();
+
         TrieNode current = root;
 
         StringBuilder sb = new StringBuilder();
@@ -35,6 +40,9 @@ public class Trie {
     }
 
     public TrieNode getNode(String str) {
+        if (StringUtils.isBlank(str)) return null;
+        str = str.trim().toLowerCase();
+
         TrieNode current = root;
 
         for (int i = 0; i < str.length(); i++) {

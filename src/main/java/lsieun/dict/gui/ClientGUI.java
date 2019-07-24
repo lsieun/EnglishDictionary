@@ -60,7 +60,7 @@ public class ClientGUI extends JFrame {
             Word w = WordUtils.parse(str);
             wordList.add(w);
             trie.insert(w.name);
-            dict_map.put(w.name, w);
+            dict_map.put(w.name.toLowerCase(), w);
             ClientGUI.total_words++;
         }
     }
@@ -292,6 +292,7 @@ public class ClientGUI extends JFrame {
         //
         String str = searchField.getText();
         if(StringUtils.isBlank(str) || DEFAULT_SEARCH_TEXT.equalsIgnoreCase(str)) return;
+        str = str.trim().toLowerCase();
         System.out.println(str);
         TrieNode node = ClientGUI.this.trie.getNode(str);
         if(node == null) {
