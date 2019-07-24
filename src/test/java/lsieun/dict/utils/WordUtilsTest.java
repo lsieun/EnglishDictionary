@@ -20,8 +20,13 @@ public class WordUtilsTest {
 
     @Test
     public void testRewrite() {
-        String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary/vocabulary/s/slap.md";
-        WordUtils.rewrite(filepath);
+        String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary/vocabulary/p/perspective.md";
+        WordUtils.rewriteFile(filepath);
+    }
+
+    @Test
+    public void testRewriteWord() {
+        WordUtils.rewriteWord("shoo");
     }
 
     @Test
@@ -29,8 +34,13 @@ public class WordUtilsTest {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary";
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
         for (String str : fileList) {
-            WordUtils.rewrite(str);
+            WordUtils.rewriteFile(str);
         }
+    }
+
+    @Test
+    public void testNewRewriteAll() {
+        WordUtils.rewriteAll();
     }
 
     @Test
