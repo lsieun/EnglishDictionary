@@ -9,5 +9,4 @@
 - Tags: 
 - Use: ~ sth.~ (sb) doing sth
 - Eg.: Terrorism can never be condoned.决不能容忍恐怖主义。
-- Eg.: 
 

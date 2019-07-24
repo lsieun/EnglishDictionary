@@ -10,7 +10,7 @@
 
 - Type: noun [U]
 - Meaning: the art of creating an effect of depth and distance in a picture by representing people and things that are far away as being smaller than those that are nearer the front
-- Chinese: 
+- Chinese: 透视法
 - Tags: 
 - Eg.: We learnt how to draw buildings in perspective.我们学习如何用透视法画建筑物。
 - Eg.: The tree on the left is out of perspective. 左侧的树不成比例。
@@ -26,7 +26,6 @@
 - Eg.: a report that looks at the education system from the perspective of deaf people从聋人的角度看待教育制度的报告
 - Eg.: His experience abroad provides a wider perspective on the problem.他在国外的经历使他以更广阔的视角看待这个问题。
 - Eg.: Because of its geographical position, Germany's perspective on the situation in Russia is very different from Washington's.
-- Eg.: 
 
 - Type: noun [U]
 - Meaning: the ability to think about problems and decisions in a reasonable way without exaggerating their importance
