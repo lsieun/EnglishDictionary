@@ -13,24 +13,24 @@ public class WordUtilsTest {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary";
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
         for (String str : fileList) {
-            Word w = WordUtils.parse(str);
+            Word w = WordUtils.parseFile(str);
             System.out.println(w);
         }
     }
 
     @Test
-    public void testRewrite() {
+    public void testRewriteWord() {
+        WordUtils.rewriteWord("dutch");
+    }
+
+    @Test
+    public void testRewriteFile() {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary/vocabulary/p/perspective.md";
         WordUtils.rewriteFile(filepath);
     }
 
     @Test
-    public void testRewriteWord() {
-        WordUtils.rewriteWord("shoo");
-    }
-
-    @Test
-    public void testRewriteAll() {
+    public void testRewriteDir() {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary";
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
         for (String str : fileList) {
@@ -39,25 +39,25 @@ public class WordUtilsTest {
     }
 
     @Test
-    public void testNewRewriteAll() {
+    public void testRewriteAll() {
         WordUtils.rewriteAll();
     }
 
     @Test
-    public void testCreate() {
+    public void testCreate_Old() {
         String filepath = "/home/liusen/Workspace/git-repo/EnglishDictionary/vocabulary";
         String vocabulary = "aesthetic";
         WordUtils.create(filepath, vocabulary, "");
     }
 
     @Test
-    public void testNewCreate() {
-        WordUtils.create("", "nc");
+    public void testCreate() {
+        WordUtils.create("", "vt");
     }
 
     @Test
     public void testAddDefinition() {
-        WordUtils.addDefinition("implication", "nc");
+        WordUtils.addDefinition("", "adj");
     }
 
 }
