@@ -6,6 +6,7 @@
   - noun [U]: Uncountable or singular noun: a noun that has no plural.
   - noun [S]: A singular noun.
   - noun [C or U]
+  - noun [plural]
 - verb
   - verb [T]
   - verb [I]

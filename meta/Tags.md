@@ -6,6 +6,7 @@ person::mind
 person::emotion
 person::behavior
 
+person::thought
 person::hand
 person::attainments  人的某种技巧的造诣
 
@@ -35,6 +36,11 @@ force::repel
 
 situation::difficult
 
+field::art
+field::geography
+
+climate
+
 ## 生物
 
 creature::animal
@@ -44,3 +50,20 @@ creature::insect
 habitat::sea
 habitat::grass
 habitat::forest
+
+plant::crop
+
+interesting, attention
+food
+difference
+shop: 商店；店铺a building or part of a building where you can buy goods or services
+country
+tools
+landscape, nature
+
+味觉：taste
+
+fame
+
+fruit
+drink
