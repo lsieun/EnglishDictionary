@@ -13,7 +13,13 @@ public class WordUtils {
 
     public static final String LINE_SEPARATOR = System.getProperty("line.separator");
 
-    public static Word parse(String filepath) {
+    public static Word parseWord(String word) {
+        String filepath = getWordFilePath(word);
+        return parseFile(filepath);
+    }
+
+    public static Word parseFile(String filepath) {
+        checkFileExist(filepath);
         List<String> lines = FileUtils.readLines(filepath);
 
         Word w = null;
@@ -21,7 +27,9 @@ public class WordUtils {
         for (String line : lines) {
             if (StringUtils.isBlank(line)) continue;
             if (line.startsWith("#")) continue;
+
             int index = line.indexOf(":");
+            if (index < 0) continue;
 
             String firstPart = line.substring(0, index);
             String secondPart = line.substring(index + 1);
@@ -29,10 +37,11 @@ public class WordUtils {
             if (firstPart.startsWith("- ")) {
                 firstPart = firstPart.replaceFirst("- ", "");
             }
+            firstPart = firstPart.trim();
             if (StringUtils.isBlank(firstPart)) continue;
 
             secondPart = secondPart.trim();
-            secondPart = secondPart.replaceAll("( )\\1+", "");
+            secondPart = secondPart.replaceAll("( )\\1+", " ");
             if (StringUtils.isBlank(secondPart)) continue;
 
             if ("Word".equals(firstPart)) {
@@ -123,29 +132,14 @@ public class WordUtils {
         return w;
     }
 
-    public static void rewriteWord(String vocabulary) {
-        if(StringUtils.isBlank(vocabulary)) return;
-
-        String parentpath = PropertyUtils.getProperty("english.dictionary.filepath");
-        parentpath += File.separator + "vocabulary";
-
-        vocabulary = vocabulary.trim();
-        char ch = vocabulary.charAt(0);
-        String childpath = ch + File.separator + vocabulary + ".md";
-
-        String filepath = parentpath + File.separator + childpath.toLowerCase();
-        System.out.println("file://" + filepath);
-
-        File file = new File(filepath);
-        if (!file.exists()) {
-            System.out.println("File Not Exist: file://" + filepath);
-            return;
-        }
+    public static void rewriteWord(String word) {
+        String filepath = getWordFilePath(word);
         rewriteFile(filepath);
     }
 
     public static void rewriteFile(String filepath) {
-        Word w = parse(filepath);
+        checkFileExist(filepath);
+        Word w = parseFile(filepath);
         List<String> lines = getWordLines(w);
         FileUtils.writeLines(filepath, lines);
     }
@@ -153,8 +147,8 @@ public class WordUtils {
     public static void rewriteAll() {
         String filepath = PropertyUtils.getProperty("english.dictionary.filepath");
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
-        for (String str : fileList) {
-            WordUtils.rewriteFile(str);
+        for (String file : fileList) {
+            WordUtils.rewriteFile(file);
         }
     }
 
@@ -292,33 +286,23 @@ public class WordUtils {
         return lines;
     }
 
-    public static void create(String vocabulary, String type) {
-        if(StringUtils.isBlank(vocabulary)) return;
-        vocabulary = vocabulary.trim();
-        String filepath = PropertyUtils.getProperty("english.dictionary.filepath");
-        filepath += File.separator + "vocabulary";
-        create(filepath, vocabulary, type);
+    public static void create(String word, String type) {
+        if(StringUtils.isBlank(word)) return;
+        String filepath = getWordFilePath(word);
+        create(filepath, word, type);
     }
 
-    public static void create(String parentpath, String vocabulary, String type) {
-        if(StringUtils.isBlank(vocabulary)) return;
-        vocabulary = vocabulary.trim();
-        char ch = vocabulary.charAt(0);
-        String dir = parentpath + File.separator + String.valueOf(ch).toLowerCase();
-        File dirFile = new File(dir);
-        if (!dirFile.exists()) {
-            dirFile.mkdirs();
-        }
-        String filepath = dir + File.separator + vocabulary.toLowerCase() + ".md";
-        System.out.println("file://" + filepath);
+    public static void create(String filepath, String word, String type) {
         File file = new File(filepath);
         if (file.exists()) {
             throw new RuntimeException("File Exist: file://" + filepath);
         }
+        File dirFile = file.getParentFile();
+        if (!dirFile.exists()) {
+            dirFile.mkdirs();
+        }
 
-        List<String> lines = getWordLines(vocabulary, type);
-
-
+        List<String> lines = getWordLines(word, type);
         FileUtils.writeLines(filepath, lines);
     }
 
@@ -338,9 +322,33 @@ public class WordUtils {
         }
 
         System.out.println("file://" + filepath);
-        Word w = parse(filepath);
+        Word w = parseFile(filepath);
         List<String> lines = getWordLines(w);
         lines.addAll(getDefinitionLines(type));
         FileUtils.writeLines(filepath, lines);
+    }
+
+    private static String getWordFilePath(String word) {
+        if (StringUtils.isBlank(word)) return null;
+        word = word.trim();
+
+        char ch = word.charAt(0);
+        String childpath = String.format("%s/%s.md", ch, word);
+        childpath = childpath.toLowerCase();
+
+        String root_path = PropertyUtils.getProperty("english.dictionary.filepath") + File.separator + "vocabulary";
+        String filepath = root_path + File.separator + childpath.toLowerCase();
+        System.out.println("file://" + filepath);
+        return filepath;
+    }
+
+    private static void checkFileExist(String filepath) {
+        if (StringUtils.isNotBlank(filepath)) {
+            File file = new File(filepath);
+            if (file.exists()) {
+                return;
+            }
+        }
+        throw new RuntimeException("File Not Exist: file://" + filepath);
     }
 }

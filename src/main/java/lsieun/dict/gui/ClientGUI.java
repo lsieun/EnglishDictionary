@@ -57,7 +57,7 @@ public class ClientGUI extends JFrame {
 
         List<Word> wordList = new ArrayList();
         for (String str : fileList) {
-            Word w = WordUtils.parse(str);
+            Word w = WordUtils.parseFile(str);
             wordList.add(w);
             trie.insert(w.name);
             dict_map.put(w.name.toLowerCase(), w);

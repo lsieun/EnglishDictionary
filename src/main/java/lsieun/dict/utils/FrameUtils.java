@@ -22,7 +22,8 @@ public class FrameUtils {
         frame.setLocationRelativeTo(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         // 设置ICON
-        frame.setIconImage(Toolkit.getDefaultToolkit().createImage("circle.png"));
+        String imagePath = FrameUtils.class.getClassLoader().getResource("circle.png").getPath();
+        frame.setIconImage(Toolkit.getDefaultToolkit().createImage(imagePath));
         frame.setVisible(true);
     }
 
