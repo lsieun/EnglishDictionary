@@ -324,9 +324,4 @@ public class ClientGUI extends JFrame {
         textArea.setText("Total words: " + ClientGUI.total_words);
     }
 
-    public static void main(String[] args) {
-        ClientGUI client = new ClientGUI();
-        client.init();
-        client.launchFrame();
-    }
 }

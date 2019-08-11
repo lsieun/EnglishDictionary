@@ -239,6 +239,7 @@ public class WordUtils {
         return lines;
     }
 
+
     public static List<String> getDefinitionLines(String type) {
         if ("adj".equalsIgnoreCase(type)) {
             type = "adjective";
@@ -286,6 +287,15 @@ public class WordUtils {
         return lines;
     }
 
+    /**
+     *
+     * @param word 单词
+     * @param type 单词类型
+     * adj=adjective, nc=noun [C], nu=noun [U], ns=noun [S],
+     * ncu=noun [C or U], vi=verb [I], vt=verb [T], vit=verb [I or T],
+     * adv=adverb
+     * @return
+     */
     public static void create(String word, String type) {
         if(StringUtils.isBlank(word)) return;
         String filepath = getWordFilePath(word);
