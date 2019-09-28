@@ -10,4 +10,5 @@
 - Tags: person::energy::empty, emotion::bad, emotion::strong, emotion::annoy
 - Eg.: I had a very trying day at work.
 - Eg.: He can be trying at times.
+- Eg.: These are trying times for all of us. 对我们所有人来说，这是最难熬的时期。
 
