@@ -11,8 +11,6 @@ import lsieun.utils.io.FileUtils;
 
 public class WordUtils {
 
-    public static final String LINE_SEPARATOR = System.getProperty("line.separator");
-
     public static Word parseWord(String word) {
         String filepath = getWordFilePath(word);
         return parseFile(filepath);
@@ -155,68 +153,68 @@ public class WordUtils {
     public static List<String> getWordLines(Word w) {
         List<String> lines = new ArrayList();
 
-        lines.add(String.format("# %s%s", w.name, LINE_SEPARATOR));
-        lines.add(LINE_SEPARATOR);
+        lines.add(String.format("# %s", w.name));
+        lines.add("");
 
-        lines.add(String.format("- %s: %s%s", "Word", w.name, LINE_SEPARATOR));
+        lines.add(String.format("- %s: %s", "Word", w.name));
         if (StringUtils.isNotBlank(w.cognate)) {
-            lines.add(String.format("- %s: %s%s", "Cognate", w.cognate, LINE_SEPARATOR));
+            lines.add(String.format("- %s: %s", "Cognate", w.cognate));
         }
         if (w.stories != null && w.stories.size() > 0) {
             for (String story : w.stories) {
-                lines.add(String.format("- %s: %s%s", "Story", story, LINE_SEPARATOR));
+                lines.add(String.format("- %s: %s", "Story", story));
             }
         }
-        lines.add(LINE_SEPARATOR);
+        lines.add("");
 
         if (w.definitions != null) {
             for (Definition def : w.definitions) {
-                lines.add(String.format("- %s: %s%s", "Type", def.type, LINE_SEPARATOR));
+                lines.add(String.format("- %s: %s", "Type", def.type));
                 if (StringUtils.isNotBlank(def.plural)) {
-                    lines.add(String.format("- %s: %s%s", "Plural", def.plural, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Plural", def.plural));
                 }
                 if (StringUtils.isNotBlank(def.single)) {
-                    lines.add(String.format("- %s: %s%s", "Single", def.single, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Single", def.single));
                 }
                 if (StringUtils.isNotBlank(def.comparative)) {
-                    lines.add(String.format("- %s: %s%s", "Comparative", def.comparative, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Comparative", def.comparative));
                 }
-                lines.add(String.format("- %s: %s%s", "Meaning", def.meaning_en, LINE_SEPARATOR));
-                lines.add(String.format("- %s: %s%s", "Chinese", def.meaning_ch, LINE_SEPARATOR));
+                lines.add(String.format("- %s: %s", "Meaning", def.meaning_en));
+                lines.add(String.format("- %s: %s", "Chinese", def.meaning_ch));
                 if (StringUtils.isNotBlank(def.tags)) {
-                    lines.add(String.format("- %s: %s%s", "Tags", def.tags, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Tags", def.tags));
                 }
                 else {
-                    lines.add(String.format("- %s: %s", "Tags", LINE_SEPARATOR));
+                    lines.add(String.format("- %s: ", "Tags"));
                 }
                 if (StringUtils.isNotBlank(def.synonyms)) {
-                    lines.add(String.format("- %s: %s%s", "Synonyms", def.synonyms, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Synonyms", def.synonyms));
                 }
                 if (StringUtils.isNotBlank(def.antonyms)) {
-                    lines.add(String.format("- %s: %s%s", "Antonyms", def.antonyms, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Antonyms", def.antonyms));
                 }
                 if (StringUtils.isNotBlank(def.similar)) {
-                    lines.add(String.format("- %s: %s%s", "Similar", def.similar, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Similar", def.similar));
                 }
                 if (StringUtils.isNotBlank(def.use)) {
-                    lines.add(String.format("- %s: %s%s", "Use", def.use, LINE_SEPARATOR));
+                    lines.add(String.format("- %s: %s", "Use", def.use));
                 }
                 if (def.examples != null && def.examples.size() > 0) {
                     for (String str : def.examples) {
-                        lines.add(String.format("- %s: %s%s", "Eg.", str, LINE_SEPARATOR));
+                        lines.add(String.format("- %s: %s", "Eg.", str));
                     }
                 }
                 else {
-                    lines.add(String.format("- %s: %s", "Eg.", LINE_SEPARATOR));
+                    lines.add(String.format("- %s: ", "Eg."));
                 }
 
                 if (def.pictures != null) {
                     for (String str : def.pictures) {
-                        lines.add(String.format("- %s: %s%s", "Picture", str, LINE_SEPARATOR));
+                        lines.add(String.format("- %s: %s", "Picture", str));
                     }
                 }
 
-                lines.add(LINE_SEPARATOR);
+                lines.add("");
             }
 
         }
@@ -226,13 +224,13 @@ public class WordUtils {
     public static List<String> getWordLines(String vocabulary, String type) {
         List<String> lines = new ArrayList();
 
-        lines.add(String.format("# %s%s", vocabulary, LINE_SEPARATOR));
-        lines.add(LINE_SEPARATOR);
+        lines.add(String.format("# %s", vocabulary));
+        lines.add("");
 
-        lines.add(String.format("- %s: %s%s", "Word", vocabulary, LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Cognate", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Story", LINE_SEPARATOR));
-        lines.add(LINE_SEPARATOR);
+        lines.add(String.format("- %s: %s", "Word", vocabulary));
+        lines.add(String.format("- %s: ", "Cognate"));
+        lines.add(String.format("- %s: ", "Story"));
+        lines.add("");
 
         lines.addAll(getDefinitionLines(type));
 
@@ -270,20 +268,20 @@ public class WordUtils {
         }
 
         List<String> lines = new ArrayList();
-        lines.add(String.format("- %s: %s%s", "Type", type, LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Plural", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Single", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Comparative", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Meaning", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Chinese", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Tags", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Synonyms", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Antonyms", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Similar", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Use", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Eg.", LINE_SEPARATOR));
-        lines.add(String.format("- %s: %s", "Picture", LINE_SEPARATOR));
-        lines.add(LINE_SEPARATOR);
+        lines.add(String.format("- %s: %s", "Type", type));
+        lines.add(String.format("- %s: ", "Plural"));
+        lines.add(String.format("- %s: ", "Single"));
+        lines.add(String.format("- %s: ", "Comparative"));
+        lines.add(String.format("- %s: ", "Meaning"));
+        lines.add(String.format("- %s: ", "Chinese"));
+        lines.add(String.format("- %s: ", "Tags"));
+        lines.add(String.format("- %s: ", "Synonyms"));
+        lines.add(String.format("- %s: ", "Antonyms"));
+        lines.add(String.format("- %s: ", "Similar"));
+        lines.add(String.format("- %s: ", "Use"));
+        lines.add(String.format("- %s: ", "Eg."));
+        lines.add(String.format("- %s: ", "Picture"));
+        lines.add("");
         return lines;
     }
 

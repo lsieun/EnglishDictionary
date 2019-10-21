@@ -9,8 +9,6 @@ import lsieun.utils.io.FileUtils;
 
 public class IdiomUtils {
 
-    public static final String LINE_SEPARATOR = System.getProperty("line.separator");
-
     public static void addIdiom(String idiom) {
         addItem(idiom, "idiom");
     }
@@ -55,11 +53,11 @@ public class IdiomUtils {
         String[] array = line.split(",");
 
         List<String> lines = new ArrayList();
-        lines.add(String.format("# %s%s", str, LINE_SEPARATOR));
-        lines.add(LINE_SEPARATOR);
+        lines.add(String.format("# %s", str));
+        lines.add("");
 
         for(String element : array) {
-            lines.add(String.format("- %s: %s", element, LINE_SEPARATOR));
+            lines.add(String.format("- %s: ", element));
         }
         return lines;
 
