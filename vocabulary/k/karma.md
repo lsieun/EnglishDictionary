@@ -8,5 +8,5 @@
 - Meaning: the sum of sb's good and bad actions in one of their lives, believed to decide what will happen to them in the next life
 - Chinese: 因果报应；业（据信为可决定来生的个人善恶行为）
 - Tags: religion
-- Eg.: 
+- Eg.: Certainly you will have brought karma with you, and that in part will have determined the course of your life. 当然你们会带着【业力】随身，它决定了你人世旅程的整体方向。
 
