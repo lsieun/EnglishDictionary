@@ -1,7 +1,6 @@
 # be in for
 
 - Word: be in for
-- Type: 
 - Meaning: To anticipate or be very likely to experience something, usually that which will be unpleasant or undesirable
 - Chinese: 就要体验到；免不了遭受
 - Tags: 
