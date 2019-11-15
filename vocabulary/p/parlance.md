@@ -1,0 +1,20 @@
+# parlance
+
+- Word: parlance
+- Cognate: 
+- Story: 
+
+- Type: noun [C]
+- Plural: 
+- Single: 
+- Comparative: 
+- Meaning: a particular way of using words or expressing yourself, for example one used by a particular group
+- Chinese: 说法；术语；用语
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Similar: 
+- Use: 
+- Eg.: in common/legal/modern parlance 用普通╱法律╱现代用语
+- Picture: 
+

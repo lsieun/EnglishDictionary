@@ -35,4 +35,11 @@ git commit --message "docs(todo): `date '+%Y.%m.%d %H:%M:%S'`"
 git commit --message "chore(config): README.md, .gitignore, pom.xml"
 ```
 
+## English Dictionary Online
+
+- [vocabulary.com](https://www.vocabulary.com/)
+
+Finally, a dictionary with a soul.
+
+Our dictionary was written for humans, by humans. Look up a word, and you’ll read a friendly explanation that you'll actually remember. It’s as if your favorite teacher were explaining it to you.
 
