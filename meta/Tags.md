@@ -9,12 +9,22 @@ person::behavior::good
 person::behavior::bad
 person::talk
 
+person::related
+person::brain
+person::state
+
+GOT: Game Of Thrones
+
+Pride and Prejudice
+
 heart
 heart::kind 出于好心的
 
 illness 疾病
 
 pain 身体或心灵上痛苦
+
+transport: 交通（公交、火车）
 
 advice 提供建议
 provide 提供某种“资源”
@@ -126,6 +136,8 @@ relation::replace
 - `45–65`: age::middle-age
 - `65–75`: age::senior
 - `75+`:: age::elderly
+
+value: 一件事物对人的“价值”
 
 心性
 
@@ -280,12 +292,14 @@ rule 规则
 rule::obey
 rule::break
 
+standard: a standard that other similar items can be compared to
+
 ## 地方
 
 - place
 - place::country
 - place::protection
-- place::shop 商店；店铺a building or part of a building where you can buy goods or services
+- place::shop 商店；店铺 a building or part of a building where you can buy goods or services
 
 space::outer  外太空的东西
 

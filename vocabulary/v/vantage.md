@@ -8,5 +8,6 @@
 - Meaning: a position that provides an advantage
 - Chinese: 优越的地位；有利情况
 - Tags: 
+- Similar: vintage
 - Eg.: The trick is to move up and down from the general to the specific to provide different vantage point. 策略是从一般到特殊反复转换，可提供不同的制高点。
 
