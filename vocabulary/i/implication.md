@@ -1,11 +1,12 @@
 # implication
 
 - Word: implication
+- Cognate: imply
 
 - Type: noun [C or U]
 - Meaning: an occasion when you seem to suggest something without saying it directly
 - Chinese: 含意；暗指
-- Tags: 
+- Tags: meaning
 - Eg.: The implication in his article is that being a housewife is greatly inferior to every other occupation. 他那篇文章的含意是，当家庭主妇远远不如所有其他职业。
 - Eg.: From what she said, the implication was that they were splitting up.
 - Eg.: She accused the party and, by implication, its leader too.

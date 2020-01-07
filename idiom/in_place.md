@@ -1,7 +1,7 @@
 # in place
 
 - Word: in place
-- Meaning: in the position or location in which somebody or something belongs or ought to be
-- Chinese: 在适当的位置；在合适的位置
+- Meaning: without leaving the position that you are in. The British expression is on the spot
+- Chinese: 不离开原来的位置
 - Tags: 
 - Eg.: 
