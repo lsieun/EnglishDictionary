@@ -27,3 +27,18 @@
 - Eg.: He retired from the job on health grounds. 他因健康原因退职
 - Eg.: Employers cannot discriminate on grounds of age. 雇主不得有年龄歧视
 
+- Type: verb [T]
+- Plural: 
+- Single: 
+- Comparative: 
+- Meaning: to be based firmly on something
+- Chinese: 基于……之上
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Similar: 
+- Use: 
+- Eg.: Fiction should be grounded in reality.
+- Eg.: Most phobias(恐怖症；对…的恐惧症) are grounded in childhood experiences.
+- Picture: 
+

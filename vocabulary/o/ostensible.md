@@ -13,7 +13,7 @@
 - Tags: 
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: obsolete
 - Use: 
 - Eg.: The ostensible reason for his absence was illness. 他假托生病缺勤。
 - Picture: 

@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: old and no longer used
 - Chinese: 古体的；已不通用的
-- Tags: 
+- Tags: obsolete
 - Synonyms: 
 - Antonyms: 
 - Similar: 
