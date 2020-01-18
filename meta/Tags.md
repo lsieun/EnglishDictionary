@@ -13,12 +13,24 @@ person::related
 person::brain
 person::state
 
+attitude 态度
+
+face
+
+light
+
+fame 名利情中的“名”
+money 名利情中的“利”
+emotion 名利情中的“情”
+
 GOT: Game Of Thrones
 
 Pride and Prejudice
 
 heart
 heart::kind 出于好心的
+
+development::good 事物向好的方面发展
 
 illness 疾病
 

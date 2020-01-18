@@ -8,3 +8,17 @@
 - Tags: 
 - Eg.: Fate had ordained that they would never meet again. 他们命里注定永远不会再相见
 
+- Type: verb [T]
+- Plural: 
+- Single: 
+- Comparative: 
+- Meaning: to make sb a priest, minister or rabbi
+- Chinese: 授予圣秩（品）；授予圣职
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Similar: 
+- Use: ~ sb (as sth). ~ sb + noun
+- Eg.: He was ordained (as) a priest last year. 他去年被授以神父圣职。
+- Picture: 
+

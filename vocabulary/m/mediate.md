@@ -13,7 +13,7 @@
 - Tags: 
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: meditate
 - Use: 
 - Eg.: Educational success is mediated by economic factors. 经济因素影响着教育的成功。
 - Picture: 
