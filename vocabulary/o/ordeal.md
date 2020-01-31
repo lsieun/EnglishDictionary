@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: a difficult or unpleasant experience
 - Chinese: 磨难；折磨；煎熬；严酷的考验
-- Tags: 
+- Tags: experience
 - Synonyms: 
 - Antonyms: 
 - Similar: 

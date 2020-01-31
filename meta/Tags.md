@@ -15,7 +15,11 @@ person::state
 
 attitude 态度
 
+destroy
+
 face
+
+info 提供某种信息
 
 light
 

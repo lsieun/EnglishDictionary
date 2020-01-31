@@ -5,7 +5,7 @@
 - Type: verb [T]
 - Meaning: to give sb information about sth, especially sth that was previously secret
 - Chinese: 揭露；透露
-- Tags: 
+- Tags: secret
 - Synonyms: divulge
 - Eg.: The spokesman refused to disclose details of the takeover to the press. 发言人拒绝向新闻界透露公司收购的详细情况。（主语是“人”）
 - Eg.: The report discloses that human error was to blame for the accident. 报告披露这次事故是人为原因造成的。（主语是“物”）

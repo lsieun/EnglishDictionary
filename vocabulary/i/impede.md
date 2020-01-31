@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: to delay or stop the progress of sth
 - Chinese: 阻碍；阻止
-- Tags: 
+- Tags: development
 - Synonyms: 
 - Antonyms: 
 - Similar: 

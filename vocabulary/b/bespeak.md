@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: to show or suggest sth
 - Chinese: 展现；显示
-- Tags: 
+- Tags: info
 - Synonyms: 
 - Antonyms: 
 - Similar: 

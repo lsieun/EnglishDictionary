@@ -6,7 +6,7 @@
 
 - Type: adjective
 - Meaning: difficult to deal with
-- Chinese: 难对付的
+- Chinese: 难对付的（其实就是“难”，困难重重）
 - Tags: person::energy::empty, emotion::bad, emotion::strong, emotion::annoy
 - Eg.: I had a very trying day at work.
 - Eg.: He can be trying at times.

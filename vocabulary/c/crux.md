@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: the most important or difficult part of a problem or an issue
 - Chinese: （难题或问题的）关键，最难点，症结
-- Tags: 
+- Tags: important
 - Synonyms: 
 - Antonyms: 
 - Similar: 
