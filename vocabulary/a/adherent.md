@@ -3,8 +3,8 @@
 - Word: adherent
 
 - Type: noun [C]
-- Meaning: a person who supports a political party or set of ideas
-- Chinese: （政党、思想的）拥护者，追随者，信徒
+- Meaning: a person who strongly supports a particular person, principle, or set of ideas
+- Chinese: 拥护者，追随者，信徒
 - Tags: person
-- Eg.: 
+- Eg.: She has been an adherent of home schooling for years.
 

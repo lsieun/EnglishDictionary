@@ -13,7 +13,7 @@
 - Tags: 
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: devious
 - Use: 
 - Eg.: deviant behaviour/sexuality 偏常行为╱性行为
 - Picture: 

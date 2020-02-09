@@ -7,6 +7,7 @@
 - Meaning: to cause pain or trouble to sb/sth over a period of time
 - Chinese: 给…造成长时间的痛苦（或麻烦）；困扰；折磨；使受煎熬
 - Tags: 
+- Similar: fatigue
 - Use: ~ sb/sth (with sth)
 - Eg.: Financial problems have been plaguing their new business partners.
 - Eg.: to be plagued by doubt 为疑虑所困扰

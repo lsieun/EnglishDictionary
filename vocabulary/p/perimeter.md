@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: the outside edge of an area of land
 - Chinese: （土地的）外缘，边缘（过去，我总是理解成“周长”；现在，才知道它的本意是一件东西的“边缘”）
-- Tags: 
+- Tags: edge
 - Synonyms: 
 - Antonyms: 
 - Similar: 

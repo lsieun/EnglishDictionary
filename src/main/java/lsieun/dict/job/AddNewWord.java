@@ -4,6 +4,6 @@ import lsieun.dict.utils.WordUtils;
 
 public class AddNewWord {
     public static void main(String[] args) {
-        WordUtils.create("charlatan", "nc");
+        WordUtils.create(Common.WORD, Common.TYPE);
     }
 }

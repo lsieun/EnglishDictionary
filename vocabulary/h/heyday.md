@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: the time when sb/sth had most power or success, or was most popular
 - Chinese: 最为强大（或成功、繁荣）的时期
-- Tags: 
+- Tags: time
 - Synonyms: 
 - Antonyms: 
 - Similar: 

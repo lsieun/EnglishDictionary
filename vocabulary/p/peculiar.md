@@ -7,10 +7,10 @@
 - Type: adjective
 - Meaning: strange or unusual, especially in a way that is unpleasant or worrying
 - Chinese: 怪异的；奇怪的；不寻常的
-- Tags: case::unusual
+- Tags: unusual
 - Similar: pillar
 - Eg.: a peculiar smell/taste 奇怪的气味╱味道
 - Eg.: There was something peculiar in the way he smiled. 他笑起来有点怪。
 - Eg.: I had a peculiar feeling we'd met before. 我有一种奇怪的感觉，觉得我们以前见过面。
-- Eg.: For some peculiar reason , she refused to come inside. 出于某种奇怪的原因，她拒绝到里面来。
+- Eg.: For some peculiar reason, she refused to come inside. 出于某种奇怪的原因，她拒绝到里面来。
 

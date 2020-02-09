@@ -6,7 +6,7 @@
 
 - Type: verb [T]
 - Meaning: to keep a particular thought or feeling in your mind for a very long time
-- Chinese: 隐匿；怀抱(恶意) （以前上演的时候，我经常想，这个人真讨厌，这就是harbor）
+- Chinese: 隐匿；怀抱(恶意) （以前上学的时候，我经常想，这个人真讨厌，这就是harbor）
 - Tags: person::emotion
 - Eg.: 
 

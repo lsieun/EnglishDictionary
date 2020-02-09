@@ -65,7 +65,10 @@ public class IdiomUtils {
 
     private static String getFilePath(String idiom, String kind) {
         if (StringUtils.isBlank(idiom)) return null;
-        idiom = idiom.replaceAll(" ", "_").replaceAll("'","");
+        idiom = idiom.replaceAll(" ", "_")
+                .replaceAll("'","")
+                .replaceAll("\\(","")
+                .replaceAll("\\)","");
         idiom = idiom.toLowerCase();
 
         String root_path = PropertyUtils.getProperty("english.dictionary.filepath") + File.separator + kind;
