@@ -1,27 +1,22 @@
 package lsieun.dict.utils;
 
-import java.io.*;
-import java.net.*;
-import java.util.List;
+import java.io.BufferedInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.Map;
 import java.util.Optional;
 
 public class NetWorkUtils {
-    static {
-        byte[] address = {54, (byte) 192, (byte) 151,77};
-        try {
-            InetAddress lessWrongWithname = InetAddress.getByAddress("www.vocabulary.com", address);
-        } catch (UnknownHostException e) {
-            e.printStackTrace();
-        }
-    }
-
     public static Optional<byte[]> fetch(final String url, Map<String, String> headers) {
         try {
             URL u = new URL(url);
             HttpURLConnection uc = (HttpURLConnection) u.openConnection();
-            uc.setConnectTimeout(10000);
-            uc.setReadTimeout(30000);
+            uc.setConnectTimeout(Const.CONNECT_TIMEOUT);
+            uc.setReadTimeout(Const.READ_TIMEOUT);
             uc.setRequestProperty("user-agent", "Mozilla/5.0");
 
             for (Map.Entry<String, String> field : headers.entrySet()) {
@@ -42,14 +37,14 @@ public class NetWorkUtils {
                     final InputStream in = uc.getInputStream();
                     BufferedInputStream bin = new BufferedInputStream(in);
             ) {
-                byte[] buff = new byte[256 * 1024];
+                byte[] buff = new byte[Const.BUFF_SIZE];
                 for (int len = bin.read(buff); len != -1; len = bin.read(buff)) {
                     bao.write(buff, 0, len);
                 }
             }
             uc.disconnect();
 
-            final byte[] bytes = bao.toByteArray();
+            byte[] bytes = bao.toByteArray();
             return Optional.of(bytes);
 
         } catch (MalformedURLException e) {

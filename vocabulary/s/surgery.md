@@ -1,6 +1,7 @@
 # surgery
 
 - Word: surgery
+- Story: There are a lot of kinds of surgery in the world. Some are very serious, like brain surgery and heart surgery. Others are minor, like getting your appendix removed. In most cases, you'll be unconscious for surgery, to make it easier for the surgeon to get the job done. You can also call the room where surgeries are done a surgery, and talk about the field of surgery.
 
 - Type: noun [U]
 - Meaning: medical treatment of injuries or diseases that involves cutting open a person's body and often removing or replacing some parts; the branch of medicine connected with this treatment

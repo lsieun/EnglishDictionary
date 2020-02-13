@@ -10,6 +10,7 @@
 - para: parallel, parable, paranormal
 - per: persevere, peruse
 - peri: 周围、周边、边缘 perimeter
+- psych: =mind, psychiatric
 - un: unforeseen
 - ob
 - pre

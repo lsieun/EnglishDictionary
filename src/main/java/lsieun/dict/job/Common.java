@@ -1,6 +1,11 @@
 package lsieun.dict.job;
 
 public class Common {
-    public static final String WORD = "gold";
-    public static final String TYPE = "nu";
+    public static String WORD = "mastery";
+    public static String TYPE = "nu";
+
+    public static void set(String word, String type) {
+        Common.WORD = word;
+        Common.TYPE = type;
+    }
 }

@@ -1,5 +1,6 @@
 package lsieun.dict.job;
 
+import lsieun.dict.utils.ContentUtils;
 import lsieun.dict.utils.NetWorkUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -30,21 +31,19 @@ public class Vocabulary {
         }
 
         final byte[] bytes = result.get();
-        String html = new String(bytes, StandardCharsets.UTF_8);
-        final Document doc = Jsoup.parse(html);
-        Element divBlock = doc.select("div.blurb").first();
-        final Elements ps = divBlock.select("p");
-        ps.forEach(item -> System.out.println(item.text()));
+        String html = ContentUtils.toStr(bytes);
+        ContentUtils.story(html);
+
     }
 
     public static Map<String, String> getHeaders() {
         Map<String, String> headers = new HashMap<>();
         headers.put("accept", "text/html, */*; q=0.01");
         headers.put("referer", "https://www.vocabulary.com/dictionary/");
-        headers.put("sec-fetch-dest", "empty");
-        headers.put("sec-fetch-mode", "cors");
-        headers.put("sec-fetch-site", "same-origin");
-        headers.put("x-requested-with", "XMLHttpRequest");
+//        headers.put("sec-fetch-dest", "empty");
+//        headers.put("sec-fetch-mode", "cors");
+//        headers.put("sec-fetch-site", "same-origin");
+//        headers.put("x-requested-with", "XMLHttpRequest");
         return headers;
     }
 }
