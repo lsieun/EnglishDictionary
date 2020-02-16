@@ -14,7 +14,7 @@
 - Tags: 
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: marital
 - Use: 
 - Eg.: 
 - Picture: 
