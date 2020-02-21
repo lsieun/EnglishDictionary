@@ -4,8 +4,8 @@ import lsieun.dict.utils.WordUtils;
 
 public class AddNewWord {
     public static void main(String[] args) {
-        Common.set("sanity", "nu");
-        WordUtils.create(Common.WORD, Common.TYPE);
+        Common.set("agenda", "nu");
+        WordUtils.try_create(Common.WORD, Common.TYPE);
         Vocabulary_Socket.lookup(Common.WORD);
     }
 }

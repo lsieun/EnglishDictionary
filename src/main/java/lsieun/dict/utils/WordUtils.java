@@ -58,7 +58,7 @@ public class WordUtils {
                 if (StringUtils.isBlank(secondPart)) continue;
 
                 if (w.stories == null) {
-                    w.stories = new ArrayList();
+                    w.stories = new ArrayList<>();
                 }
                 w.stories.add(secondPart);
                 continue;
@@ -70,7 +70,7 @@ public class WordUtils {
                 def.type = secondPart;
 
                 if (w.definitions == null) {
-                    w.definitions = new ArrayList();
+                    w.definitions = new ArrayList<>();
                 }
                 w.definitions.add(def);
                 continue;
@@ -89,23 +89,19 @@ public class WordUtils {
                 def.single = secondPart;
             } else if ("Comparative".equals(firstPart)) {
                 def.comparative = secondPart;
-            }
-            else if ("Synonyms".equals(firstPart)) {
+            } else if ("Synonyms".equals(firstPart)) {
                 def.synonyms = secondPart;
-            }
-            else if ("Antonyms".equals(firstPart)) {
+            } else if ("Antonyms".equals(firstPart)) {
                 def.antonyms = secondPart;
-            }
-            else if ("Similar".equals(firstPart)) {
+            } else if ("Similar".equals(firstPart)) {
                 def.similar = secondPart;
-            }
-            else if ("Use".equals(firstPart)) {
+            } else if ("Use".equals(firstPart)) {
                 def.use = secondPart;
             } else if ("Tags".equals(firstPart)) {
                 def.tags = secondPart;
             } else if ("Eg.".equals(firstPart)) {
                 if (def.examples == null) {
-                    def.examples = new ArrayList();
+                    def.examples = new ArrayList<>();
                 }
                 def.examples.add(secondPart);
             } else if ("Picture".equals(firstPart)) {
@@ -117,8 +113,8 @@ public class WordUtils {
                 int right = secondPart.indexOf(")");
                 String picture = dir + File.separator + secondPart.substring(left + 1, right);
                 if (def.pictures == null) {
-                    def.pictures = new ArrayList();
-                    def.picture_pathes = new ArrayList();
+                    def.pictures = new ArrayList<>();
+                    def.picture_pathes = new ArrayList<>();
                 }
                 def.pictures.add(secondPart);
                 def.picture_pathes.add(picture);
@@ -145,13 +141,14 @@ public class WordUtils {
     public static void rewriteAll() {
         String filepath = PropertyUtils.getProperty("english.dictionary.filepath");
         List<String> fileList = DirectoryUtils.getVocabularyFiles(filepath);
+        if (fileList == null || fileList.size() < 1) return;
         for (String file : fileList) {
             WordUtils.rewriteFile(file);
         }
     }
 
     public static List<String> getWordLines(Word w) {
-        List<String> lines = new ArrayList();
+        List<String> lines = new ArrayList<>();
 
         lines.add(String.format("# %s", w.name));
         lines.add("");
@@ -183,8 +180,7 @@ public class WordUtils {
                 lines.add(String.format("- %s: %s", "Chinese", def.meaning_ch));
                 if (StringUtils.isNotBlank(def.tags)) {
                     lines.add(String.format("- %s: %s", "Tags", def.tags));
-                }
-                else {
+                } else {
                     lines.add(String.format("- %s: ", "Tags"));
                 }
                 if (StringUtils.isNotBlank(def.synonyms)) {
@@ -203,8 +199,7 @@ public class WordUtils {
                     for (String str : def.examples) {
                         lines.add(String.format("- %s: %s", "Eg.", str));
                     }
-                }
-                else {
+                } else {
                     lines.add(String.format("- %s: ", "Eg."));
                 }
 
@@ -222,7 +217,7 @@ public class WordUtils {
     }
 
     public static List<String> getWordLines(String vocabulary, String type) {
-        List<String> lines = new ArrayList();
+        List<String> lines = new ArrayList<>();
 
         lines.add(String.format("# %s", vocabulary));
         lines.add("");
@@ -241,33 +236,25 @@ public class WordUtils {
     public static List<String> getDefinitionLines(String type) {
         if ("adj".equalsIgnoreCase(type)) {
             type = "adjective";
-        }
-        else if("nc".equalsIgnoreCase(type)) {
+        } else if ("nc".equalsIgnoreCase(type)) {
             type = "noun [C]";
-        }
-        else if("nu".equalsIgnoreCase(type)) {
+        } else if ("nu".equalsIgnoreCase(type)) {
             type = "noun [U]";
-        }
-        else if("ns".equalsIgnoreCase(type)) {
+        } else if ("ns".equalsIgnoreCase(type)) {
             type = "noun [S]";
-        }
-        else if("ncu".equalsIgnoreCase(type)) {
+        } else if ("ncu".equalsIgnoreCase(type)) {
             type = "noun [C or U]";
-        }
-        else if("vi".equalsIgnoreCase(type)) {
+        } else if ("vi".equalsIgnoreCase(type)) {
             type = "verb [I]";
-        }
-        else if("vt".equalsIgnoreCase(type)) {
+        } else if ("vt".equalsIgnoreCase(type)) {
             type = "verb [T]";
-        }
-        else if("vit".equalsIgnoreCase(type)) {
+        } else if ("vit".equalsIgnoreCase(type)) {
             type = "verb [I or T]";
-        }
-        else if("adv".equalsIgnoreCase(type)) {
+        } else if ("adv".equalsIgnoreCase(type)) {
             type = "adverb";
         }
 
-        List<String> lines = new ArrayList();
+        List<String> lines = new ArrayList<>();
         lines.add(String.format("- %s: %s", "Type", type));
         lines.add(String.format("- %s: ", "Plural"));
         lines.add(String.format("- %s: ", "Single"));
@@ -286,18 +273,24 @@ public class WordUtils {
     }
 
     /**
-     *
      * @param word 单词
      * @param type 单词类型
-     * adj=adjective, nc=noun [C], nu=noun [U], ns=noun [S],
-     * ncu=noun [C or U], vi=verb [I], vt=verb [T], vit=verb [I or T],
-     * adv=adverb
-     * @return
+     *             adj=adjective, nc=noun [C], nu=noun [U], ns=noun [S],
+     *             ncu=noun [C or U], vi=verb [I], vt=verb [T], vit=verb [I or T],
+     *             adv=adverb
      */
     public static void create(String word, String type) {
-        if(StringUtils.isBlank(word)) return;
+        if (StringUtils.isBlank(word)) return;
         String filepath = getWordFilePath(word);
         create(filepath, word, type);
+    }
+
+    public static void try_create(String word, String type) {
+        try {
+            create(word, type);
+        } catch (RuntimeException ex) {
+            ex.printStackTrace();
+        }
     }
 
     public static void create(String filepath, String word, String type) {
@@ -307,7 +300,8 @@ public class WordUtils {
         }
         File dirFile = file.getParentFile();
         if (!dirFile.exists()) {
-            dirFile.mkdirs();
+            boolean flag = dirFile.mkdirs();
+            if (!flag) throw new RuntimeException("Folder can not be created: " + dirFile);
         }
 
         List<String> lines = getWordLines(word, type);
@@ -315,7 +309,7 @@ public class WordUtils {
     }
 
     public static void addDefinition(String vocabulary, String type) {
-        if(StringUtils.isBlank(vocabulary)) return;
+        if (StringUtils.isBlank(vocabulary)) return;
         vocabulary = vocabulary.trim();
 
         String dict_path = PropertyUtils.getProperty("english.dictionary.filepath");
