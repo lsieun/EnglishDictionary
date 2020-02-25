@@ -1,7 +1,8 @@
 # by the same token
 
 - Word: by the same token
-- Meaning: In the same way, for the same reason. You use "by the same token" to introduce a statement that you think is true for the same reasons that were given for a previous statement.
-- Chinese: 由于同样原因
-- Tags: 
-- Eg.: If you give up exercise, your muscles shrink and fat increases. By the same token, if you expend more energy you will lose fat.
+- Meaning: In the same way, for the same reason. Because of the same causes or the same reasons as what was previously stated.
+- Chinese: 由于同样的原因；依此类推
+- Tags: reason
+- Eg.: I'm not good at math and, by the same token, I struggle with scientific equations.
+- Eg.: When crime increases, house prices plummet by the same token.

@@ -1,6 +1,7 @@
 # comprehensible
 
 - Word: comprehensible
+- Cognate: comprehend
 
 - Type: adjective
 - Meaning: that can be understood by sb
