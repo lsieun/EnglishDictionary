@@ -7,7 +7,7 @@
 - Type: adjective
 - Meaning: more interested in your own thoughts and feelings than in spending time with other people； shy, quiet, and preferring to spend time alone rather than often being with other people
 - Chinese: 是一种状态，是对自己的思想的感受更加感兴趣，而不是对与人们交往更感兴趣
-- Tags: 
+- Tags: disposition, character
 - Eg.: an introverted child
 - Eg.: When she started school, she became cautious, quiet and introverted.
 

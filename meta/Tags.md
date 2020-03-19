@@ -15,6 +15,10 @@ person::state
 
 attitude 态度
 
+perception 洞察力；悟性 the ability to understand the true nature of sth
+
+complete 完备的，该有的东西都有了
+
 destroy
 
 face
