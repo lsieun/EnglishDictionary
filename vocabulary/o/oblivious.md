@@ -12,11 +12,11 @@
 - Meaning: not aware of sth
 - Chinese: 不知道；未注意；未察觉
 - Tags: 
-- Synonyms: 
+- Synonyms: dismiss
 - Antonyms: 
 - Similar: obvious
 - Use: 
 - Eg.: He drove off, oblivious of the damage he had caused. 他驾车而去，没有注意到他所造成的损害。
-- Eg.: 
-- Picture: You eventually become oblivious to the noise. 你终究会变得不在意吵闹声的。
+- Eg.: You eventually become oblivious to the noise. 你终究会变得不在意吵闹声的。
+- Picture:
 

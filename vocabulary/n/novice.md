@@ -8,6 +8,6 @@
 - Meaning: a person who is new and has little experience in a skill, job or situation;
 - Chinese: 新手；初学者
 - Tags: 
-- Similar: vice
+- Similar: vice, invoice
 - Eg.: 
 

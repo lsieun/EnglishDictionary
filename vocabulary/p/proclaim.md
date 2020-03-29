@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: to publicly and officially tell people about sth important
 - Chinese: 宣布；宣告；声明
-- Tags: 
+- Tags: talk
 - Synonyms: 
 - Antonyms: 
 - Similar: 

@@ -7,6 +7,6 @@
 - Type: adjective
 - Meaning: taking care to do things carefully and correctly
 - Chinese: 勤勉认真的；一丝不苟的
-- Tags: 
+- Tags: attitude
 - Eg.: a conscientious student/teacher/worker 勤勉认真的学生；一丝不苟的老师；认真负责的工人
 

@@ -9,5 +9,6 @@
 - Chinese: 宣布断绝与…的关系（我觉得从两个角度来把握这个词的意思，第一个角度是“放弃”，第二个角度，以一种“公开的、公共场合、正式场合下来宣布断绝与……的关系”）
 - Tags: disown
 - Synonyms: disown
+- Similar: denounce
 - Eg.: Deeply disturbed by his experience, he resolved to renounce the world and search for the cause of so much suffering. 从他的经验感到非常不安，他决定要弃绝这世界，寻找造成这么多痛苦的原因。
 

@@ -11,9 +11,9 @@
 - Comparative: 
 - Meaning: connected with God or a god; considered to be holy
 - Chinese: 
-- Tags: 
+- Tags: religion, attitude
 - Synonyms: 
-- Antonyms: 
+- Antonyms: desecrate
 - Similar: 
 - Use: 
 - Eg.: a sacred image/shrine/temple 圣像；圣地；圣殿

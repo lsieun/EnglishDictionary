@@ -7,7 +7,8 @@
 - Type: verb [T]
 - Meaning: to look like or be similar to another person or thing
 - Chinese: 看起来像；显得像；像
-- Tags: 
+- Tags:
+- Similar: assemble
 - Use: ~ sb/sth
 - Eg.: She closely resembles her sister. 她和她姐姐很像。
 - Eg.: So many hotels resemble each other. 许多酒店看上去都差不多。

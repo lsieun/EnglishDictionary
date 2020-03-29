@@ -11,7 +11,7 @@
 - Comparative: 
 - Meaning: impressive to look at; making a strong impression
 - Chinese: 壮观的；使人印象深刻的
-- Tags: 
+- Tags: impression
 - Synonyms: 
 - Antonyms: 
 - Similar: 

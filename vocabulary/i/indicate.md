@@ -13,7 +13,7 @@
 - Tags: info
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: dictate
 - Use: 
 - Eg.: Record profits in the retail market indicate a boom in the economy. 零售市场上有史以来的最高利润显示出经济的突飞猛进。
 - Eg.: Research indicates that eating habits are changing fast. 研究显示，饮食习惯正迅速改变。

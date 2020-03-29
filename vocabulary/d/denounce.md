@@ -13,7 +13,7 @@
 - Tags: criticize; talk
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: renounce
 - Use: 
 - Eg.: She publicly denounced the government's handling of the crisis. 她公开谴责政府处理这场危机的方式。
 - Eg.: The project was denounced as a scandalous waste of public money. 这项工程被斥责为可耻的公款挥霍。
