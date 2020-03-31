@@ -7,5 +7,3 @@
 - Chinese: 很难达成的事物
 - Tags: difficult
 - Eg.: His idea may be a stretch, but it's not outside the realm of possibility.
-- Eg.: Playing a budding opera star was not much of a stretch for this classically trained singer.
-

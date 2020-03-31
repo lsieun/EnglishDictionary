@@ -1,3 +1,5 @@
 # nature disaster
 
-tsunami 海啸
+## sea
+
+- tsunami 海啸

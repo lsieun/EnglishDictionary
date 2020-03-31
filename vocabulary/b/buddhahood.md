@@ -9,7 +9,7 @@
 - Single: 
 - Comparative: 
 - Meaning: the state of spiritual enlightenment attained by the Buddha
-- Chinese: 佛果；佛性
+- Chinese: 佛果
 - Tags: 
 - Synonyms: 
 - Antonyms: 

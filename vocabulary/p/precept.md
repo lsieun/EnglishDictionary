@@ -8,5 +8,6 @@
 - Meaning: a rule about how to behave or what to think
 - Chinese: （思想、行为的）准则，规范
 - Tags: 
-- Eg.: 
+- Similar: perception
+- Eg.:
 

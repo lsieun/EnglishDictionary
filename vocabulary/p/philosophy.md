@@ -2,7 +2,9 @@
 
 - Word: philosophy
 - Cognate: 
-- Story: 
+- Story: The noun philosophy means the study of proper behavior, and the search for wisdom.
+- Story: The original meaning of the word philosophy comes from the Greek roots philo- meaning "love" and -sophos, or "wisdom." When someone studies philosophy they want to understand how and why people do certain things and how to live a good life. In other words, they want to know the meaning of life. Add the suffix -er to philosophy, and you get a word for someone whose job it is to think these big thoughts.
+- Story: 本质上就是“爱智慧”
 
 - Type: noun [U]
 - Plural: 
