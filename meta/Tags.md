@@ -1,5 +1,10 @@
 # Tags
 
+## target
+
+target::things 用于描述事、物
+target::person 用户描述人
+
 ## 人
 
 person::mind

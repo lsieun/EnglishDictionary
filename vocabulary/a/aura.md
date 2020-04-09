@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: a feeling or particular quality that is very noticeable and seems to surround a person or place
 - Chinese: 气氛；氛围；气质
-- Tags: 
+- Tags: quality
 - Synonyms: 
 - Antonyms: 
 - Similar: 

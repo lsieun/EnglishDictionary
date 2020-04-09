@@ -13,7 +13,7 @@
 - Tags: medical
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: aperture
 - Use: 
 - Eg.: 
 - Picture: 

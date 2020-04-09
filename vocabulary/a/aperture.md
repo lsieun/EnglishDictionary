@@ -13,7 +13,7 @@
 - Tags: 
 - Synonyms: 
 - Antonyms: 
-- Similar: 
+- Similar: acupuncture
 - Use: 
 - Eg.: 
 - Picture: 

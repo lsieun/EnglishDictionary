@@ -8,5 +8,6 @@
 - Meaning: seeming to be everywhere or in several places at the same time
 - Chinese: 似乎无所不在的；十分普遍的
 - Tags: 
+- Synonyms: omnipresent
 - Eg.: the ubiquitous bicycles of university towns 大学城里处处可见的自行车
 

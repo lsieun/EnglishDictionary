@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: one of the principles or beliefs that a theory or larger set of beliefs is based on
 - Chinese: 原则；信条；教义
-- Tags: 
+- Tags: religion
 - Synonyms: 
 - Antonyms: 
 - Similar: 

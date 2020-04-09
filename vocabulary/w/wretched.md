@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: feeling ill/sick or unhappy
 - Chinese: 感到不适的；难受的；不愉快的
-- Tags: emotion
+- Tags: emotion, medical
 - Synonyms: 
 - Antonyms: 
 - Similar: 
