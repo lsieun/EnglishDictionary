@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: care in what you say or do, in order to keep sth secret or to avoid causing embarrassment to or difficulty for sb; the quality of being discreet
 - Chinese: 谨慎；慎重；审慎
-- Tags: 
+- Tags: attitude
 - Synonyms: 
 - Antonyms: 
 - Similar: 

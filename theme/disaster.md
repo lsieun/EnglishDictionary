@@ -1,0 +1,17 @@
+# nature disaster
+
+- disaster: 灾难；灾祸；灾害 an unexpected event, such as a very bad accident, a flood or a fire, that kills a lot of people or causes a lot of damage
+
+## human
+
+- famine: 饥荒 a lack of food during a long period of time in a region
+
+## earth
+
+- earthquake: 地震 a sudden, violent shaking of the earth's surface
+
+## sea
+
+- tsunami 海啸
+
+- hurricane: （尤指西大西洋的）飓风 a violent storm with very strong winds, especially in the western Atlantic Ocean

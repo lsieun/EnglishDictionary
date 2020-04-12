@@ -2,6 +2,8 @@
 
 Much of humankind's history can be traced by its effort to alter the terrain. We've made mountains into meadows(草地；牧场), rivers into lakes, and prairies into roads, all to make the terrain more livable for us.
 
+- volcano: 火山 a mountain with a large opening at the top through which gases and lava(= hot liquid rock) are forced out into the air, or have been in the past
+
 - jungle: （热带）丛林，密林 an area of tropical forest where trees and plants grow very thickly
 - basin: 流域 an area of land around a large river with streams running down into it; 盆地；凹地；海盆a place where the earth's surface is lower than in other areas of the world
 - forest: 森林；林区 a large area of land that is thickly covered with trees

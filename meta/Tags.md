@@ -136,6 +136,8 @@ person::hand
 person::attainments  人的某种技巧的造诣
 
 - social::fame  名声，它是在一个社会群体当中的状态（一个人的内在能力/品质，外化为其他人的评价）
+- social::status 社会地位
+- social::wealth 社会财富
 
 human::head
 human::body

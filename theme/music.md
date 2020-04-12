@@ -7,6 +7,8 @@
 - concert hall
 - chorus: 合唱曲 a piece of music, usually part of a larger work, that is written for a choir(= a group of singers)
 
+- tune: 曲调；曲子 a series of musical notes that are sung or played in a particular order to form a piece of music
+
 ## instrument
 
 - string: （管弦乐团的）弦乐器，弦乐器组 the group of musical instruments in an orchestra that have strings , for example violins; the people who play them。比如：小提琴（violin）、大提琴（cello）
@@ -18,6 +20,7 @@
 - violin: 小提琴 a musical instrument with strings, that you hold under your chin and play with a bow，属于弦乐器（string）
 - cello: 大提琴 a musical instrument with strings, shaped like a large violin. The player sits down and holds the cello between his or her knees.，属于弦乐器（string）
 - flute: 长笛 a musical instrument of the woodwind group, shaped like a thin pipe. The player holds it sideways and blows across a hole at one end.
+- guitar: 吉他或六弦琴 a musical instrument that usually has six strings, that you play with your fingers or with a plectrum
 
 ## 作者（人）
 
