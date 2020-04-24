@@ -7,3 +7,5 @@
 
 - splendid: 壮丽的；雄伟的；豪华的；华丽的 very impressive; very beautiful
 - spectacular: 壮观的；壮丽的；令人惊叹的 very impressive
+- magnificent: 壮丽的；宏伟的；值得赞扬的 extremely attractive and impressive; deserving praise
+- marvelous: 奇异的;奇迹般的;惊人的 extremely impressive or with many good qualities

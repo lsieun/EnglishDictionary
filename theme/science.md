@@ -9,3 +9,8 @@
 - statistic: 统计数字；统计资料a collection of information shown in numbers; 统计学 the science of collecting and analysing statistics
 - biology: 生物学 the scientific study of the life and structure of plants and animals
 - chemistry: 化学 the scientific study of the structure of substances, how they react when combined or in contact with one another, and how they behave under different conditions
+- philosophy: 哲学 the study of the nature and meaning of the universe and of human life
+
+## physics
+
+- electron: 电子 a very small piece of matter (= a substance) with a negative electric charge, found in all atoms

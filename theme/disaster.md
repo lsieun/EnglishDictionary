@@ -1,6 +1,9 @@
 # nature disaster
 
 - disaster: 灾难；灾祸；灾害 an unexpected event, such as a very bad accident, a flood or a fire, that kills a lot of people or causes a lot of damage
+- hazard: 危险；危害 a thing that can be dangerous or cause damage
+- flood: 洪水；水灾 a large amount of water covering an area that is usually dry
+- drought: 久旱；旱灾 a long period of time when there is little or no rain
 
 ## human
 

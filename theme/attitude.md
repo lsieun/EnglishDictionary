@@ -8,3 +8,5 @@
 - modest: 谦虚的；谦逊的 not talking much about your own abilities or possessions
 - cautious: 小心的；谨慎的 being careful about what you say or do, especially to avoid danger or mistakes; not taking any risks
 - discretion: 谨慎；慎重；审慎 care in what you say or do, in order to keep sth secret or to avoid causing embarrassment to or difficulty for sb; the quality of being discreet
+- meticulous: 细心的；小心翼翼的 paying careful attention to every detail
+- sincere: 诚实的；坦率的 saying only what you really think or feel

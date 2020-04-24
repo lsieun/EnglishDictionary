@@ -4,12 +4,23 @@
 
 - divine: 天赐的；上帝的；神的 coming from or connected with God or a god
 
+## religion
+
+- ritual: 仪规；礼节；（尤指）宗教仪式 a series of actions that are always performed in the same way, especially as part of a religious ceremony
+- rite: （宗教等的）仪式，典礼 a ceremony performed by a particular group of people, often for religious purposes
+- saint: （因其言行而被基督教会追封的）圣人，圣徒 a person that the Christian Church recognizes as being very holy, because of the way they have lived or died
+
 ## between human and religion
 
 - spiritual: 精神的；心灵的 connected with the human spirit, rather than the body or physical things
 
-your spiritual home
-在精神上认同的某个地方；精神家园the place where you are happiest, especially a country where you feel you belong more than in your own country because you share the ideas and attitudes of the people who live there
+your spiritual home 在精神上认同的某个地方；精神家园 the place where you are happiest, especially a country where you feel you belong more than in your own country because you share the ideas and attitudes of the people who live there
+
+- divine intervention: 神圣的介入；神圣干涉；神圣介入
+
+很多时候神迹代表一个季节改变的景象，也代表「神圣的介入」（divine intervention）已经进入我们这世界的空间与时间。
+
+The power is given names, e.g. divine intervention, imagination, grace, God, but what ever it is called it is a real force. 这种力量有各种称呼，例如，神圣的干预、想象力、善、上帝，但无论叫什么，它是一种真正的力量。
 
 - secular: 现世的；世俗的；非宗教的 not connected with spiritual or religious matters
 
@@ -17,6 +28,10 @@ your spiritual home
 
 - humanity: 人性 the state of being a person rather than a god, an animal or a machine 人道；仁慈 the quality of being kind to people and animals by making sure that they do not suffer more than is necessary
 - prayer: 祷告，祈祷（的内容）words that you say to God giving thanks or asking for help 祈祷文；经文 a fixed form of words that you can say when you speak to God
+
+- pilgrimage: 朝圣之旅 a journey to a holy place for religious reasons
+
+
 - sin: 罪，罪恶，罪过（对神的冒犯或对宗教戒律、道德规范的违犯）an offence against God or against a religious or moral law
 
 七宗罪（Seven Deadly Sins）

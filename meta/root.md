@@ -7,5 +7,6 @@
 - jud: judge, prejudge, prejudice
 - miss: dismissive
 - stall: install
+- trans: transformation, transmission
 
 

@@ -2,11 +2,6 @@
 
 - emotion: 强烈的感情；激情；情感；情绪 a strong feeling such as love, fear or anger; the part of a person's character that consists of feelings
 
-## 一个人的感情
-
-- delight: 高兴；愉快；快乐 a feeling of great pleasure
-
-
 
 ### 不高兴/不愤怒
 
