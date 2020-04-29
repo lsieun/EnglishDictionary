@@ -76,3 +76,5 @@
 - sneaker: 运动鞋；便鞋 a shoe that you wear for sports or as informal clothing
 
 ![](images/sneaker.jpg)
+
+- heel: （鞋、靴子等的）后跟 the raised part on the bottom of a shoe, boot, etc. that makes the shoe, etc. higher at the back 女高跟鞋 a pair of women's shoes that have high heels

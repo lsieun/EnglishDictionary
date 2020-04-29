@@ -9,6 +9,7 @@
 - middle school: （美国为 11 到 14 岁儿童所设的）中学，初中(in the US) a school for children between the ages of about 11 and 14
 - elementary school: （美国）小学(in the US) a school for children between the ages of about 6 and 12
 - primary school: 小学 a school for children between the ages of 5 and 11
+- kindergarten: 学前班 a school or class to prepare children aged five for school
 
 - first degree: （大学的）初级学位，学士学位 an academic qualification given by a university or college, for example a BA or BSc, that is given to sb who does not already have a degree in that subject
 - bachelor's degree: 学士学位；本科学位 a first university degree. A degree that you can study for after your bachelor’s degree is called a master's degree.

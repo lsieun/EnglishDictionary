@@ -1,6 +1,7 @@
 # agriculture
 
 - agriculture: 农业；农学；农艺 the science or practice of farming
+- plantation: 种植园，种植场（尤指热带国家种植咖啡、甘蔗、橡胶等的大庄园）a large area of land, especially in a hot country, where crops such as coffee, sugar, rubber, etc. are grown
 
 ## 灌溉
 
@@ -18,3 +19,7 @@
 我觉得，plow和plough是同一个词的变形。
 
 ![](images/plough.jpg)
+
+## 肥料
+
+- fertilizer: 肥料 a substance added to soil to make plants grow more successfully

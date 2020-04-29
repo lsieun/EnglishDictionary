@@ -5,6 +5,7 @@
 - courtyard: （通常为城堡、大宅第等的）庭院，院子，天井 an open space that is partly or completely surrounded by buildings and is usually part of a castle, a large house, etc.
 
 - garden: （住宅旁或周围的）园圃，花园，果园，菜园 a piece of land next to or around your house where you can grow flowers, fruit, vegetables, etc., usually with a lawn(= an area of grass)
+- lawn: 草坪；草地 an area of ground covered in short grass in a garden/yard or park, or used for playing a game on
 
 - hedge: 树篱 a row of bushes or small trees planted close together, usually along the edge of a field, garden/yard or road
 

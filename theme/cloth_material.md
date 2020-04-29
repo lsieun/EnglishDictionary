@@ -9,6 +9,7 @@ cotton是植物产的，wool是羊毛（动物）产的，silk是蚕（虫子）
 - silk: （蚕）丝fine soft thread produced by silkworms
 - fur: （动物浓厚的）软毛 the soft thick mass of hair that grows on the body of some animals 人造毛皮 an artificial material that looks and feels like fur
 - leather: 皮革 material made by removing the hair or fur from animal skins and preserving the skins using special processes
+- nylon: 尼龙 a very strong artificial material, used for making clothes, rope, brushes, etc.
 
 
 

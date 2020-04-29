@@ -16,6 +16,7 @@
 
 - stainless: 不锈钢；不锈的 resisting rust or corrosion
 - stain: 污点；污渍 a dirty mark on sth, that is difficult to remove
+- stainless steel: 不锈钢 a type of steel that does not rust (= change colour)
 
 ## 容器
 

@@ -3,6 +3,15 @@
 - calm sea: 无浪海面；风平浪静的海面
 - marine: 海的；海产的；海生的 connected with the sea and the creatures and plants that live there
 
+## sea
+
+- sea: 海 a large area of salt water that is part of an ocean or surrounded by land
+- ocean: 大海；海洋 the mass of salt water that covers most of the earth's surface （五大洋之一的）洋 one of the five large areas that the ocean is divided into
+
+- atlantic: 大西洋的 relating to or situated in or near the Atlantic Ocean
+- pacific: 平静的 peaceful or loving peace 太平洋；太平洋的 relating to the Pacific Ocean, or to the territories that surround it or are surrounded by it
+
+
 ## 海边
 
 - harbor: 海港,港口;港湾 an area of water near the land where it is safe for boats to stay. A port is a harbor where passengers and goods can be taken on and off

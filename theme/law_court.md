@@ -23,6 +23,7 @@
 
 ## 过程
 
+- sue: 控告；提起诉讼 to make a claim against sb in court about sth that they have said or done to harm you
 - sentence: 判决；宣判；判刑 to say officially in court that sb is to receive a particular punishment
 
 ## criminal

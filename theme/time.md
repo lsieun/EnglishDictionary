@@ -10,6 +10,7 @@
 
 - age-old: 古老的；已存在很久的 having existed for a very long time
 - leisure: 闲暇；空闲；休闲 time that is spent doing what you enjoy when you are not working or studying
+- heyday: 最为强大（或成功、繁荣）的时期 the time when sb/sth had most power or success, or was most popular
 
 
 ## 早晚

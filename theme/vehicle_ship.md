@@ -10,8 +10,22 @@
 
 - steamship: 蒸汽轮船；蒸汽船 a ship driven by steam
 
-- voyage: 航行；（尤指）航海，航天 a long journey, especially by sea or in space
+## 船的一部分
+
+- deck: 甲板；舱面 the top outside floor of a ship or boat
+
+## 船上的人
 
 - sailor: 水手；海员 a person who works on a ship as a member of the crew
+- naval: 海军的 connected with the navy of a country
+
+## 船上的货物
+
 - container: 集装箱；货柜 a large metal or wooden box of a standard size in which goods are packed so that they can easily be lifted onto a ship, train, etc. to be transported
+
+
+
+## 航行
+
+- voyage: 航行；（尤指）航海，航天 a long journey, especially by sea or in space
 - cruise: 乘船游览；航行 a journey by sea, visiting different places, especially as a holiday/vacation

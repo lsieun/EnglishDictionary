@@ -17,6 +17,7 @@
 ## Attack
 
 - hawk: 鹰；隼 a strong fast bird of prey(= a bird that kills other creatures for food)
+- eagle: 雕 a large bird of prey(= a bird that kills other creatures for food) with a sharp curved beak and very good sight
 
 ## Night
 

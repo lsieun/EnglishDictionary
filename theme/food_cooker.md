@@ -5,6 +5,7 @@
 ## 瓶子
 
 - jar: （玻璃）罐子；广口瓶 a round glass container, with a lid, used for storing food, especially jam, honey , etc.
+- tin: 罐；罐头盒；罐头 a metal container in which food and drink is sold; the contents of one of these containers
 
 ## 壶
 

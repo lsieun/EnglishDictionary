@@ -6,5 +6,5 @@
 - clothe: 给…穿衣 to dress sb/yourself
 
 
-- embroidery: 绣花；刺绣图案；刺绣品 patterns that are sewn onto cloth using threads of various colours; cloth that is decorated in this way
+
 

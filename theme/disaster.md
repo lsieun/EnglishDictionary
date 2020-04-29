@@ -4,6 +4,7 @@
 - hazard: 危险；危害 a thing that can be dangerous or cause damage
 - flood: 洪水；水灾 a large amount of water covering an area that is usually dry
 - drought: 久旱；旱灾 a long period of time when there is little or no rain
+- cataclysm: （突然降临的）大灾难，大灾变，大动乱 a sudden disaster or a violent event that causes change, for example a flood or a war
 
 ## human
 

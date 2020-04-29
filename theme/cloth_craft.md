@@ -11,6 +11,8 @@ weave表示“织布机”织出一大部块布，knit表示用两根大长针�
 ## 手工
 
 - patch: 补丁；补块 a small piece of material that is used to cover a hole in sth or to make a weak area stronger, or as decoration
+- embroidery: 绣花；刺绣图案；刺绣品 patterns that are sewn onto cloth using threads of various colours; cloth that is decorated in this way
+- handkerchief: 手帕；纸巾 a small piece of material or paper that you use for blowing your nose, etc.
 
 ## machine
 

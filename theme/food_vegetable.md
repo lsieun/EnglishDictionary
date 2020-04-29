@@ -1,6 +1,7 @@
 # food vegetable
 
 - vegetable: 蔬菜 a plant or part of a plant that is eaten as food. Potatoes, beans and onions are all vegetables.
+- salad: （生吃的）蔬菜色拉，蔬菜沙拉 a mixture of raw vegetables such as lettuce , tomato and cucumber , usually served with other food as part of a meal
 
 ## 做菜
 
@@ -10,6 +11,7 @@
 ## 瓜
 
 - pumpkin: 南瓜；南瓜大果 a large round vegetable with thick orange skin. The seeds can be dried and eaten and the soft flesh can be cooked as a vegetable or in sweet pies.
+- cucumber: 黄瓜 a long vegetable with dark green skin and light green flesh, that is usually eaten raw
 
 
 ## 豆

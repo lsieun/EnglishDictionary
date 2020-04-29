@@ -1,4 +1,6 @@
-# nature water
+# nature freshwater
+
+- freshwater: 淡水的 having water that is not salty 淡水中生长的 living in water that is not the sea and is not salty
 
 ## lake
 
@@ -18,6 +20,10 @@
 
 ## river
 
+- ditch: 沟；渠 a long channel dug at the side of a field or road, to hold or take away water
+
+![](images/ditch.jpg)
+
 - stream: 小河；溪 a small narrow river
 
 ![](images/stream.jpg)
@@ -27,12 +33,6 @@
 
 - canal: 运河；灌溉渠 a long straight passage dug in the ground and filled with water for boats and ships to travel along; a smaller passage used for carrying water to fields, crops, etc.
 
-## sea
-
-- sea: 海 a large area of salt water that is part of an ocean or surrounded by land
-- ocean: 大海；海洋 the mass of salt water that covers most of the earth's surface （五大洋之一的）洋 one of the five large areas that the ocean is divided into
-
-- atlantic: 大西洋的 relating to or situated in or near the Atlantic Ocean
 
 ## Other
 

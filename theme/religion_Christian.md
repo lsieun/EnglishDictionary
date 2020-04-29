@@ -16,6 +16,10 @@
 - Bishop: 主教 a senior priest in charge of the work of the Church in a city or district
 - priest: （天主教、圣公会、东正教的）司祭，神父，司铎 a person who is qualified to perform religious duties and ceremonies in the Roman Catholic, Anglican and Orthodox Churches
 
+## Action
+
+- preach: 布道，讲道（尤指教堂中礼拜时）to give a religious talk in a public place, especially in a church during a service
+
 ## Building
 
 - church: （基督教的）教堂，礼拜堂 a building where Christians go to worship

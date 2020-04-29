@@ -1,5 +1,8 @@
 # foot bread
 
+- flour: （尤指小麦的）面粉；（谷物磨成的）粉 a fine white or brown powder made from grain, especially wheat , and used in cooking for making bread, cakes, etc.
+- powder: 粉末；细面 a dry mass of very small fine pieces or grains
+
 ## 西方
 
 - loaf: 一条（面包）an amount of bread that has been shaped and baked in one piece
@@ -17,3 +20,7 @@
 - rice: 大米；稻米；稻 short, narrow white or brown grain grown on wet land in hot countries as food; the plant that produces this grain
 - noodle: 面条 a long thin strip of pasta, used especially in Chinese and Italian cooking
 - dumpling: 小面团；汤团；饺子 a small ball of dough (= a mixture of flour, fat and water) that is cooked and served with meat dishes
+
+## other
+
+- yeast: 酵母；酵母菌 a fungus used in making beer and wine, or to make bread rise

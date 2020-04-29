@@ -3,6 +3,8 @@
 - optimum: 最佳的；最适宜的 the best possible; producing the best possible results
 - minimum: 最低的；最小的；最低限度的 the smallest that is possible or allowed; extremely small
 - supreme: （程度）很大的，最大的 very great or the greatest in degree
+- superb: 极佳的；卓越的；质量极高的 excellent; of very good quality
+- utmost: 最大的；极度的 greatest; most extreme
 
 ## person
 

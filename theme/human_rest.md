@@ -9,6 +9,7 @@
 
 - fatigue: 疲劳；劳累 a feeling of being extremely tired, usually because of hard work or exercise
 - heavy fatigue: 过度疲劳
+- exhaust: 使筋疲力尽；使疲惫不堪 to make sb feel very tired
 
 ## before sleep
 

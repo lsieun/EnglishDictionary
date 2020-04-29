@@ -11,7 +11,7 @@
 - Comparative: 
 - Meaning: behaving in a dishonest or indirect way, or tricking people, in order to get sth; using indirect ways to get what you want, esp. without showing your real purpose
 - Chinese: 不诚实的；不直率的；欺诈的
-- Tags: 
+- Tags: moral
 - Synonyms: 
 - Antonyms: 
 - Similar: deviant

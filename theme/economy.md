@@ -6,6 +6,8 @@
 - prosperity: 兴旺；繁荣；成功；昌盛 the state of being successful, especially in making money
 - prosperous: 繁荣的；成功的；兴旺的 rich and successful。示例： prosperous countries 繁荣的国家
 
+- inflation: 通货膨胀；通胀率 a general rise in the prices of services and goods in a particular country, resulting in a fall in the value of money; the rate at which this happens 充气 the act or process of filling sth with air or gas
+
 ## 人的角色
 
 - consumer: 消费者；顾客；用户 a person who buys goods or uses services
