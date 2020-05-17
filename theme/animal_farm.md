@@ -19,6 +19,7 @@
 
 - puppy: 小狗；幼犬 a young dog
 - dog: 狗；犬 an animal with four legs and a tail, often kept as a pet or trained for work, for example hunting or guarding buildings. There are many types of dog, some of which are wild.
+- hound: 猎犬；猎狗 a dog that can run fast and has a good sense of smell, used for hunting
 
 ## farm
 
@@ -37,6 +38,7 @@
 驴
 
 - donkey: 驴 an animal of the horse family, with short legs and long ears. People ride donkeys or use them to carry heavy loads.
+- mule: 骡子 an animal that has a horse and a donkey as parents, used especially for carrying loads
 
 猪
 

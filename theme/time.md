@@ -12,6 +12,8 @@
 - leisure: 闲暇；空闲；休闲 time that is spent doing what you enjoy when you are not working or studying
 - heyday: 最为强大（或成功、繁荣）的时期 the time when sb/sth had most power or success, or was most popular
 
+- in the time to come
+- future:
 
 ## 早晚
 
@@ -23,4 +25,4 @@
 
 - timetable: 时间表；时刻表 a list showing the times at which particular events will happen
 
-
+- pastime: 消遣；休闲活动 something that you enjoy doing when you are not working

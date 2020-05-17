@@ -20,3 +20,4 @@
 - poplar: 杨，杨树（树干高，木质较软）a tall straight tree with soft wood
 - polar: 极地的；近地极的；南极（或北极）的 connected with, or near the North or South Pole
 
+- walnut: 核桃树；胡桃树 the tree on which walnuts grow 核桃；胡桃 the light brown nut of the walnut tree that has a rough surface and a hard round shell in two halves

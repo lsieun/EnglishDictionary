@@ -23,4 +23,5 @@
 ## lower
 
 - knee: 膝；膝盖；膝关节 the joint between the top and bottom parts of the leg where it bends in the middle
+- kneel: 跪；跪着；跪下 to be in or move into a position where your body is supported on your knee or knees
 - ankle: 踝；踝关节 the joint connecting the foot to the leg

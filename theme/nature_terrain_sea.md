@@ -22,6 +22,7 @@
 ## 人工
 
 - dock: 船坞；船埠；码头 a part of a port where ships are repaired, or where goods are put onto or taken off them
+- pier: （突入湖、河、海中的）码头；突码头 a long low structure built in a lake, river or the sea and joined to the land at one end, used by boats to allow passengers to get on and off
 
 ## 近陆地
 

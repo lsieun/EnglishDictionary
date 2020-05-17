@@ -38,6 +38,7 @@
 豹
 
 - leopard: 豹 a large animal of the cat family, that has yellowish-brown fur with black spots. Leopards live in Africa and southern Asia.
+- panther: 黑豹 a black leopard (= a large wild animal of the cat family)
 
 狼
 

@@ -6,3 +6,4 @@
 ## 思考不清楚
 
 - baffle: 使困惑；难住 to confuse sb completely; to be too difficult or strange for sb to understand or explain
+- bewilder: 使迷惑；使糊涂 to confuse sb

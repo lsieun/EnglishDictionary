@@ -20,6 +20,7 @@
 铁
 
 - iron: 铁 a chemical element. Iron is a hard strong metal that is used to make steel and is also found in small quantities in blood and food.
+- steel: 钢 a strong hard metal that is made of a mixture of iron and carbon
 
 铝
 

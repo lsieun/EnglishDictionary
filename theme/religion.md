@@ -10,6 +10,8 @@
 - rite: （宗教等的）仪式，典礼 a ceremony performed by a particular group of people, often for religious purposes
 - saint: （因其言行而被基督教会追封的）圣人，圣徒 a person that the Christian Church recognizes as being very holy, because of the way they have lived or died
 
+- sect: 派别；宗派 a small group of people who belong to a particular religion but who have some beliefs or practices which separate them from the rest of the group
+
 ## between human and religion
 
 - spiritual: 精神的；心灵的 connected with the human spirit, rather than the body or physical things

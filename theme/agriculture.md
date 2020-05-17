@@ -23,3 +23,4 @@
 ## 肥料
 
 - fertilizer: 肥料 a substance added to soil to make plants grow more successfully
+- manure: 粪肥；肥料 the waste matter from animals that is spread over or mixed with the soil to help plants and crops grow

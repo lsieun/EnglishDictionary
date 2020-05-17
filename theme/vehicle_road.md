@@ -9,3 +9,7 @@
 - avenue: 林荫道（尤指通往大住宅者）a wide straight road with trees on both sides, especially one leading to a big house
 
 ![](images/avenue.jpg)
+
+- pavement: （马路边的）人行道 a flat part at the side of a road for people to walk on
+
+![](images/pavement.jpg)

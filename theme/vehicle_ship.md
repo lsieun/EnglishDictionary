@@ -13,6 +13,7 @@
 ## 船的一部分
 
 - deck: 甲板；舱面 the top outside floor of a ship or boat
+- mast: 桅杆；船桅 a tall pole on a boat or ship that supports the sails
 
 ## 船上的人
 

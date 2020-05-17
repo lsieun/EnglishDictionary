@@ -21,7 +21,10 @@
 
 ## 类型
 
+- fiction: 小说 a type of literature that describes imaginary people and events, not real ones
+- friction: 摩擦 the action of one object or surface moving against another
 - fictional works: 科幻作品
+- prose: 散文 writing that is not poetry
 
 ## book
 

@@ -9,9 +9,9 @@
 - Plural: 
 - Single: 
 - Comparative: 
-- Meaning: if a part of your body issore , it is painful, and often red, especially because of infection or because a muscle has been used too much
+- Meaning: if a part of your body is sore, it is painful, and often red, especially because of infection or because a muscle has been used too much
 - Chinese: （发炎）疼痛的；酸痛的
-- Tags: 
+- Tags: medical, ailment, ill
 - Synonyms: 
 - Antonyms: 
 - Similar: 

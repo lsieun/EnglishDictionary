@@ -1,5 +1,13 @@
 # company
 
+## 公司
+
+- corporate: 公司的 connected with a corporation
+- corporation: 大公司 a large business company
+- company: 公司；商号；商行 a business organization that makes money by producing or selling goods or services
+
+## 全体工作人员
+
 - crew: （轮船、飞机等上面的）全体工作人员 all the people working on a ship, plane, etc.
 - faculty: （某高等院校的）全体教师 all the teachers of a particular university or college
 - staff: 全体职工（或雇员）all the workers employed in an organization considered as a group

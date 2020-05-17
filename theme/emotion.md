@@ -3,6 +3,14 @@
 - emotion: 强烈的感情；激情；情感；情绪 a strong feeling such as love, fear or anger; the part of a person's character that consists of feelings
 
 
+- anger and happiness
+- love and hate
+- enjoyment and dislike
+- admiration and disdain
+- fondness and aversion
+
+
+
 ### 不高兴/不愤怒
 
 - solemn: 冷峻的；表情严肃的 not happy or smiling; 庄严的；严正的；郑重的done, said, etc. in a very serious and sincere way

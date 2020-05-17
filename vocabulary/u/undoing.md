@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: the reason why sb fails at sth or is unsuccessful in life
 - Chinese: 失败的原因
-- Tags: 
+- Tags: failure
 - Synonyms: 
 - Antonyms: 
 - Similar: 

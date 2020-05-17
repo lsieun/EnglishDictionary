@@ -1,6 +1,6 @@
 # ratchet up
 
-- Word: ratchet (sth)↔up
+- Word: ratchet (sth) up
 - Type: 
 - Meaning: to increase, or make sth increase, repeatedly and by small amounts
 - Meaning_ch: （使）逐渐小幅增长

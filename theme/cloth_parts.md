@@ -39,6 +39,8 @@
 
 ![](images/dress_2.jpg)
 
+- frock: 连衣裙；女装 a dress
+
 ## legs
 
 - trousers: 裤子a piece of clothing that covers the body from the waist down and is divided into two parts to cover each leg separately

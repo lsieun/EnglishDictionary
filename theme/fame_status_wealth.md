@@ -22,4 +22,10 @@
 
 ## 富
 
+- extravagant: 奢侈的；挥霍的；铺张浪费的 spending a lot more money or using a lot more of sth than you can afford or than is necessary
 - luxury: 奢侈的享受；奢华 the enjoyment of special and expensive things, particularly food and drink, clothes and surroundings
+
+
+## Status
+
+- bourgeois: 中产阶级的 belonging to the middle class 追求名利且平庸的；世俗的 interested mainly in possessions and social status and supporting traditional values 资产阶级的；资本家的 supporting the interests of capitalism

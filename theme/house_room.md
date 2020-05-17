@@ -6,6 +6,8 @@
 
 ![](images/corridor.jpg)
 
+- porch: 门廊；门厅 a small area at the entrance to a building, such as a house or a church, that is covered by a roof and often has walls
+
 ## 会议
 
 - chamber: 会议厅 a hall in a public building that is used for formal meetings

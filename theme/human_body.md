@@ -35,6 +35,7 @@
 
 ## hip
 
+- butt: 屁股 the part of the body that you sit on
 - perineum: 会阴 the area between the anus and the scrotum or vulva
 - anus: 肛门 the opening in a person's bottom through which solid waste leaves the body
 - scrotum: 阴囊 the bag of skin that contains the testicles in men and most male animals
@@ -43,6 +44,7 @@
 ## arms
 
 - forearm: 前臂 the part of the arm between the elbow and the wrist
+- wrist: 手腕；腕关节 the joint between the hand and the arm
 
 ## hands
 

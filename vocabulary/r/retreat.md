@@ -2,7 +2,7 @@
 
 - Word: retreat
 
-- Type: noun [C or U]
+- Type: noun
 - Meaning: a period of time when sb stops their usual activities and goes to a quiet place for prayer and thought
 - Chinese: 静修期间
 - Tags: religion

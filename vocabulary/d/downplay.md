@@ -6,7 +6,7 @@
 
 - Type: verb [T]
 - Meaning: to make people think that sth is less important than it really is
-- Chinese: 让人们相应那件事情好像并不是那么重要
+- Chinese: 让人们相信那件事情好像并不是那么重要
 - Tags: 
 - Use: ~ sth
 - Eg.: The coach is downplaying the team's poor performance.教练对这个队的拙劣表现不以为然。

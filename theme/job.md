@@ -11,6 +11,7 @@
 - butcher: 屠夫；肉贩 a person whose job is cutting up and selling meat in a shop/store or killing animals for this purpose
 - carpenter: 木工；木匠 a person whose job is making and repairing wooden objects and structures
 - cashier: 出纳员 a person whose job is to receive and pay out money in a bank, shop/store, hotel, etc.
+- clerk: 职员；簿记员；文书 a person whose job is to keep the records or accounts in an office, shop/store, etc.
 - consultant: 顾问 a person who knows a lot about a particular subject and is employed to give advice about it to other people
 - electrician: 电工；电气技师 a person whose job is to connect, repair, etc. electrical equipment
 - farmer: 农场主；农人 a person who owns or manages a farm

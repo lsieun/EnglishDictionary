@@ -10,4 +10,4 @@
 
 ## 味道
 
-
+- crisp: 脆的；酥脆的 pleasantly hard and dry

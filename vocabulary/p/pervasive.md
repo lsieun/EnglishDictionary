@@ -3,6 +3,7 @@
 - Word: pervasive
 - Story: When something is pervasive, it's everywhere. Common things are pervasive — like greed and cheap perfume(香水；香料).
 - Story: Ever notice how certain trends seem to spread all over the place? When something — like a hairstyle — is super-common, it's pervasive. Pervasive things can't be escaped. Playing video games is pervasive among kids. Talking about the weather is pervasive among adults. Ideas, diseases, habits, and all sorts of things can be pervasive. If you're sick of seeing something because you're seeing it again and again, it must be pervasive.
+- Story: pervasive = per(到处) + vasive(vade,invade走)
 
 - Type: adjective
 - Meaning: present or noticeable in every part of a thing or place
