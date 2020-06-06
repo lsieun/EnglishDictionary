@@ -33,3 +33,9 @@
 - northwest:
 
 - bearing: （用罗盘测定的）方位 a direction measured from a fixed point using a compass
+
+## 改变方向
+
+- deflect: （尤指击中某物后）偏斜，转向，使偏斜，使转向 to change direction or make sth change direction, especially after hitting sth
+- defect: 缺点；缺陷；毛病 a fault in sth or in the way it has been made which means that it is not perfect
+- diversion: 转向；转移；偏离 the act of changing the direction that sb/sth is following, or what sth is used for 转移视线（或注意力）的事物 something that takes your attention away from sb/sth while sth else is happening

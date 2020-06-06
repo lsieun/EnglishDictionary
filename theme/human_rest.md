@@ -5,12 +5,6 @@
 - sleep: 睡觉；睡眠 the natural state of rest in which your eyes are closed, your body is not active, and your mind is not conscious
 - snooze: （尤指在白天）小睡，打盹 to have a short light sleep, especially during the day and usually not in bed
 
-## 疲劳
-
-- fatigue: 疲劳；劳累 a feeling of being extremely tired, usually because of hard work or exercise
-- heavy fatigue: 过度疲劳
-- exhaust: 使筋疲力尽；使疲惫不堪 to make sb feel very tired
-
 ## before sleep
 
 - yawn: 打哈欠 to open your mouth wide and breathe in deeply through it, usually because you are tired or bored

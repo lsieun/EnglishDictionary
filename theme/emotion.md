@@ -1,7 +1,7 @@
 # Emotion
 
 - emotion: 强烈的感情；激情；情感；情绪 a strong feeling such as love, fear or anger; the part of a person's character that consists of feelings
-
+- sentiment: （基于情感的）观点，看法；情绪 a feeling or an opinion, especially one based on emotions
 
 - anger and happiness
 - love and hate

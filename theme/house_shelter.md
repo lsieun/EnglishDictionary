@@ -37,3 +37,4 @@
 - shelter: （尤指用以躲避风雨或攻击的）遮蔽物，庇护处，避难处a structure built to give protection, especially from the weather or from attack 居所；住处 the fact of having a place to live or stay, considered as a basic human need
 - tent: 帐篷；帐棚 a shelter made of a large sheet of canvas, nylon , etc. that is supported by poles and ropes fixed to the ground, and is used especially for camping
 
+- haven: 安全的地方；保护区；避难所 a place that is safe and peaceful where people or animals are protected

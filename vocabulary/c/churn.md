@@ -5,7 +5,7 @@
 - Story: A churn(搅拌器) is a container that you fill with cream and then agitate(摇动) until the cream becomes butter. You may have only bought butter at the store, but your ancestors probably used a traditional plunger-type churn to make their own.
 - Story: The verb churn means to mix cream until it turns into butter, separating out the buttermilk. You can make your own butter by churning it in a jar if you don't have a churn, shaking heavy cream until it becomes solid. To churn can also simply mean to agitate, like a boat might churn in a turbulent ocean, or your stomach might churn with anxiety about your big test the next day.
 
-- Type: verb [I]
+- Type: verb
 - Plural: 
 - Single: 
 - Comparative: 

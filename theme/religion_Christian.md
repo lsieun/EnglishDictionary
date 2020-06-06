@@ -16,10 +16,18 @@
 - Bishop: 主教 a senior priest in charge of the work of the Church in a city or district
 - priest: （天主教、圣公会、东正教的）司祭，神父，司铎 a person who is qualified to perform religious duties and ceremonies in the Roman Catholic, Anglican and Orthodox Churches
 
+- nun: 修女；尼姑 a member of a religious community of women who promise to serve God all their lives and often live together in a convent
+
 ## Action
 
 - preach: 布道，讲道（尤指教堂中礼拜时）to give a religious talk in a public place, especially in a church during a service
+- salvation: 得救；救恩；救世 the state of being saved from the power of evil
+
+## Day
+
+- Easter: 复活节（纪念耶稣复活，在三月或四月的一个星期日）(in the Christian religion) a Sunday in March or April when Christians remember the death of Christ and his return to life
 
 ## Building
 
 - church: （基督教的）教堂，礼拜堂 a building where Christians go to worship
+- chapel: （学校、监狱、私人宅院等基督教徒礼拜用的）小教堂 a small building or room used for Christian worship in a school, prison, large private house, etc.

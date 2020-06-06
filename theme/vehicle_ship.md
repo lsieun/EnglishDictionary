@@ -10,10 +10,13 @@
 
 - steamship: 蒸汽轮船；蒸汽船 a ship driven by steam
 
+- barge: 驳船（运河、河流上运载客货的大型平底船） a large boat with a flat bottom, used for carrying goods and people on canals and rivers
+
 ## 船的一部分
 
 - deck: 甲板；舱面 the top outside floor of a ship or boat
 - mast: 桅杆；船桅 a tall pole on a boat or ship that supports the sails
+- oar: 船桨；桨 a long pole with a flat blade at one end that is used for rowing a boat
 
 ## 船上的人
 

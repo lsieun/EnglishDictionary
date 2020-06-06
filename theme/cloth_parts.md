@@ -4,6 +4,7 @@
 
 - collar: 衣领；领子 the part around the neck of a shirt, jacket or coat that usually folds down
 - tie: 领带 a long narrow piece of cloth worn around the neck, especially by men, with a knot in front
+- scarf: 围巾；披巾；头巾 a piece of cloth that is worn around the neck, for example for warmth or decoration. Women also wear scarves over their shoulders or hair.
 
 ## arms
 
@@ -42,6 +43,8 @@
 - frock: 连衣裙；女装 a dress
 
 ## legs
+
+- underwear: 内衣；衬衣 clothes that you wear under other clothes and next to the skin
 
 - trousers: 裤子a piece of clothing that covers the body from the waist down and is divided into two parts to cover each leg separately
 - pants: 裤子trousers

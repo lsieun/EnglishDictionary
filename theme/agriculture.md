@@ -10,9 +10,11 @@
 
 ## soil
 
+- hoe: 锄头 a garden tool with a long handle and a blade, used for breaking up soil and removing weeds (= plants growing where they are not wanted)
 - soil: 土壤 the top layer of the earth in which plants, trees, etc. grow
 - till: 耕作；犁地 to prepare and use land for growing crops
 - plow: 犁地；耕作；耕犁 to break up soil and turn it over into furrows
+- sow: 播种 to scatter or plant seed on an area of land in order to grow crops
 - furrow: 犁沟；沟；车辙 a long narrow cut in the ground, especially one made by a plough for planting seeds in
 - plough: 犁 a large piece of farming equipment with one or several curved blades, pulled by a tractor or by animals. It is used for digging and turning over soil, especially before seeds are planted.
 

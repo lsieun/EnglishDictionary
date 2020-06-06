@@ -15,6 +15,8 @@
 - in the time to come
 - future:
 
+- bygone: 很久以前的；以往的 happening or existing a long time ago
+
 ## 早晚
 
 - timely: 及时的；适时的 happening at exactly the right time

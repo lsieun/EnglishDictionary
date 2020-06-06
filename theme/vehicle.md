@@ -3,6 +3,8 @@
 - transportation: 运输；交通 the act or business of carrying somebody or something from one place to another, usually in a vehicle
 - vehicle: 交通工具；车辆 a thing that is used for transporting people or goods from one place to another, such as a car or lorry/truck
 
+- internal-combustion: 【机】内燃的
+
 - motor: 发动机；马达 a device that uses electricity, petrol/gas, etc. to produce movement and makes a machine, a vehicle, a boat, etc. work
 
 - pedestrian: 行人；步行者 a person walking in the street and not travelling in a vehicle
@@ -10,6 +12,8 @@
 - carriage: （旧时载客的）四轮马车 a road vehicle, usually with four wheels, that is pulled by one or more horses and was used in the past to carry people
 - wagon: 四轮载重马车（或牛车）a vehicle with four wheels, pulled by horses or oxen and used for carrying heavy loads
 - cart: （两轮或四轮）运货马车 a vehicle with two or four wheels that is pulled by a horse and used for carrying loads
+
+- helmet: 头盔；防护帽 a type of hard hat that protects the head, worn, for example, by a police officer, a soldier or a person playing some sports
 
 ## car/bus
 

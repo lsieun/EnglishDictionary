@@ -9,5 +9,11 @@
 
 - growl: 低声吼叫 to make a low sound in the throat, usually as a sign of anger
 - groan: 呻吟；叹息；哼哼 to make a long deep sound because you are annoyed, upset or in pain, or with pleasure
+- hoarse: 嘶哑的；沙哑的 sounding rough and unpleasant, especially because of a sore throat
+- hush: 安静；别说话；别叫喊 to be quiet; to stop talking or crying
 - moan: 呻吟 to make a long deep sound, usually expressing unhappiness, suffering
 - uproar: 吵闹；喧嚣；叫喊 a situation in which people shout and make a lot of noise because they are angry or upset about sth
+
+## insect
+
+- buzz: 嗡嗡声；蜂鸣声 a continuous sound like the one that a bee, a buzzer or other electronic device makes

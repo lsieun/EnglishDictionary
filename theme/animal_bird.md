@@ -10,6 +10,8 @@
 
 ![](images/pigeon.jpg)
 
+- woodpecker: 啄木鸟 a bird with a long beak that it uses to make holes in trees when it is looking for insects to eat
+
 ## water
 
 - crane: 鹤 a large bird with long legs and a long neck 起重机；吊车 a tall machine with a long arm, used to lift and move building materials and other heavy objects

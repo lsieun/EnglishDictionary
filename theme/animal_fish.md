@@ -6,8 +6,9 @@
 
 ## water
 
-- frog: 蛙；青蛙 a small animal with smooth skin, that lives both on land and in water(= is an amphibian ) . Frogs have very long back legs for jumping, and no tail.
+- frog: 蛙；青蛙 a small animal with smooth skin, that lives both on land and in water(= is an amphibian) . Frogs have very long back legs for jumping, and no tail.
 
 ## sea
 
+- salmon: 鲑；大麻哈鱼 a large fish with silver skin and pink flesh that is used for food. Salmon live in the sea but swim up rivers to lay their eggs.
 - whale: 鲸 a very large animal that lives in the sea and looks like a very large fish. There are several types of whale, some of which are hunted.

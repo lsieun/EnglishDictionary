@@ -1,5 +1,7 @@
 # food utensil
 
+- utensil: （家庭）用具，器皿；家什 a tool that is used in the house
+
 ## 刀/勺/叉
 
 刀

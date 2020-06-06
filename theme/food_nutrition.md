@@ -4,3 +4,4 @@
 - nutrient: 营养素；营养物 a substance that is needed to keep a living thing alive and to help it to grow
 
 - protein: 蛋白质 a natural substance found in meat, eggs, fish, some vegetables, etc. There are many different proteins and they are an essential part of what humans and animals eat to help them grow and stay healthy.
+- cholesterol: 胆固醇 a substance found in blood, fat and most tissues of the body. Too much cholesterol can cause heart disease.

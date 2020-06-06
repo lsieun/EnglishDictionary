@@ -5,4 +5,4 @@
 
 ## 治疗
 
-
+- clinical: 临床的；临床诊断的 relating to the examination and treatment of patients and their illnesses

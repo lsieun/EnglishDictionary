@@ -15,3 +15,4 @@
 ## 冬天
 
 - frost: 霜 the thin white layer of ice that forms when the temperature drops below 0˚C
+- hail: 雹；冰雹 small balls of ice that fall like rain

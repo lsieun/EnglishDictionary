@@ -5,10 +5,11 @@
 - wine: 水果酿的汁
 
 - beverage: （除水以外的）饮料 any type of drink except water
+- carbonated beverages: 碳酸饮料类
 
 laws governing the sale of alcoholic beverages 控制酒类销售的法规
 
-
+- brew: 酿制（啤酒）to make beer 沏（茶）；煮（咖啡）to make a hot drink of tea or coffee
 
 ## tea
 

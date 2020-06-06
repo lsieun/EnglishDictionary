@@ -4,3 +4,5 @@
 - handbag: 小手提包；（尤指）坤包 a small bag for money, keys, etc., carried especially by women
 
 ![](images/handbag.jpg)
+
+- suitcase: （旅行用的）手提箱 a case with flat sides and a handle, used for carrying clothes, etc. when you are travelling

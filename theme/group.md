@@ -21,6 +21,7 @@
 
 - assembly: 集会；（统称）集会者 the meeting together of a group of people for a particular purpose; a group of people who meet together for a particular purpose
 - association: 协会；社团 an official group of people who have joined together for a particular purpose
+- coalition: 联合；结合；联盟 the act of two or more groups joining together
 - commission: （通常为政府管控或调查某事的）委员会 an official group of people who have been given responsibility to control sth, or to find out about sth, usually for the government
 - committee: （投票选出的）委员会 a group of people who are chosen, usually by a larger group, to make decisions or to deal with a particular subject
 - congress: 代表大会 a large formal meeting or series of meetings where representatives from different groups discuss ideas, make decisions, etc.
@@ -29,5 +30,6 @@
 - panel: 专家咨询组；（广播、电视上的）讨论小组 a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio
 - parliament: （投票选出的）议会；国会 the group of people who are elected to make and change the laws of a country
 - rally: 公众集会，群众大会（尤指支持某信念或政党）a large public meeting, especially one held to support a particular idea or political party
+- symposium: 专题讨论会；研讨会；小型讨论会 a meeting at which experts have discussions about a particular subject; a small conference
 - union: 联合；结合；合并 the act of joining two or more things together; the state of being joined together 工会 an organization of workers, usually in a particular industry, that exists to protect their interests, improve conditions of work, etc. 协会；联合会；会社；俱乐部 an association or a club for people or organizations with the same interest
 

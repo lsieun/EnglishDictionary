@@ -11,6 +11,9 @@
 
 - sneeze: 打喷嚏 to have air come suddenly and noisily out through your nose and mouth in a way that you cannot control, for example because you have a cold
 
+- bruise: 青肿；瘀伤；碰伤 a blue, brown or purple mark that appears on the skin after sb has fallen, been hit, etc.
+- cripple: 伤残人；残疾人；跛子；瘸子 a person who is unable to walk or move normally because of a disease or injury
+
 ## 长期
 
 - bedridden: 长期卧床的 having to stay in bed all the time because you are sick, injured or old

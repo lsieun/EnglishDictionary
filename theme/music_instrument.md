@@ -12,6 +12,7 @@
 - cello: 大提琴 a musical instrument with strings, shaped like a large violin. The player sits down and holds the cello between his or her knees.，属于弦乐器（string）
 - flute: 长笛 a musical instrument of the woodwind group, shaped like a thin pipe. The player holds it sideways and blows across a hole at one end.
 - guitar: 吉他或六弦琴 a musical instrument that usually has six strings, that you play with your fingers or with a plectrum
+- harp: 竖琴 a large musical instrument with strings stretched on a vertical frame, played with the fingers
 - trumpet: 小号；喇叭 a brass musical instrument made of a curved metal tube that you blow into, with three valves for changing the note
 - bugle: 军号 a musical instrument like a small trumpet , used in the army for giving signals
 

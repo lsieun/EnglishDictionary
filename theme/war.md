@@ -8,6 +8,8 @@
 
 - treaty: （国家之间的）条约，协定 a formal agreement between two or more countries
 
+- siege: （军队对城镇的）围困，包围，围攻，封锁 a military operation in which an army tries to capture a town by surrounding it and stopping the supply of food, etc. to the people inside （警察对建筑物的）包围，封锁 a situation in which the police surround a building where people are living or hiding, in order to make them come out
+
 ## 人
 
 - commander: 负责人；（尤指）司令官，指挥官a person who is in charge of sth, especially an officer in charge of a particular group of soldiers or a military operation

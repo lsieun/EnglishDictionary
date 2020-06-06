@@ -5,12 +5,10 @@
 - science: 科学；自然科学 knowledge about the structure and behaviour of the natural and physical world, based on facts that you can prove, for example by experiments
 
 
-
-- statistic: 统计数字；统计资料a collection of information shown in numbers; 统计学 the science of collecting and analysing statistics
+- astronomy: 天文学 the scientific study of the sun, moon, stars, planets, etc.
 - biology: 生物学 the scientific study of the life and structure of plants and animals
 - chemistry: 化学 the scientific study of the structure of substances, how they react when combined or in contact with one another, and how they behave under different conditions
 - philosophy: 哲学 the study of the nature and meaning of the universe and of human life
+- physics: 物理学 the scientific study of matter and energy and the relationships between them, including the study of forces, heat, light, sound, electricity and the structure of atoms
+- statistic: 统计数字；统计资料 a collection of information shown in numbers; 统计学 the science of collecting and analysing statistics
 
-## physics
-
-- electron: 电子 a very small piece of matter (= a substance) with a negative electric charge, found in all atoms

@@ -19,6 +19,8 @@
 
 - bay: （海或湖的）湾 a part of the sea, or of a large lake, partly surrounded by a wide curve of the land
 
+- strait: 海峡；（连结两大水域的）水道 a narrow passage of water that connects two seas or large areas of water
+
 ## 人工
 
 - dock: 船坞；船埠；码头 a part of a port where ships are repaired, or where goods are put onto or taken off them

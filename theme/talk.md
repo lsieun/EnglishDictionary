@@ -1,6 +1,11 @@
 # Talk
 
+- verbal: 口头（而非书面）的 spoken, not written
+
 - slogan: 标语；口号 a word or phrase that is easy to remember, used for example by a political party or in advertising to attract people's attention or to suggest an idea quickly
+
+- mutter: 嘀咕；嘟囔 to speak or say sth in a quiet voice that is difficult to hear, especially because you are annoyed about sth
+- utter: 出声；说；讲 to make a sound with your voice; to say sth
 
 ## 暗示
 

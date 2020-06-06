@@ -2,6 +2,7 @@
 
 - writing: 写；书写；写作 the activity of writing , in contrast to reading, speaking, etc. （专职）写作；著书立说 the activity of writing books, articles, etc., especially as a job
 
+- shorthand: 速记（法）a quick way of writing using special signs or abbreviations, used especially to record what sb is saying
 
 - journal: （某学科或行业的）报纸，刊物，杂志 a newspaper or magazine that deals with a particular subject or profession
 
@@ -13,6 +14,7 @@
 
 - author: 著者；作者；作家 a person who writes books or the person who wrote a particular book
 
+- manuscript: 手稿；原稿 a copy of a book, piece of music, etc. before it has been printed （印刷术发明以前书籍或文献的）手写本，手抄本 a very old book or document that was written by hand before printing was invented
 
 - article: （报刊上的）文章，论文，报道 a piece of writing about a particular subject in a newspaper or magazine
 - plot: 故事情节；布局 the series of events that form the story of a novel, play, film/movie, etc.

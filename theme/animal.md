@@ -5,6 +5,8 @@
 - herd: 兽群；牧群 a group of animals of the same type that live and feed together
 - herb: 草本 a plant with a soft stem that dies down after flowering
 
+- amphibian: 两栖动物 any animal that can live both on land and in water. Amphibians have cold blood and skin without scales. Frogs, toads(蟾蜍) and newts(蝾螈) are all amphibians.
+- reptile: 爬行动物 any animal that has cold blood and skin covered in scales, and that lays eggs. Snakes, crocodiles and tortoises are all reptiles.
 
 ## 声音
 

@@ -5,3 +5,5 @@
 
 - braise: 炖 to cook meat or vegetables very slowly with a little liquid in a closed container
 - stew: 炖的菜，煨的菜（有肉和蔬菜）a dish of meat and vegetables cooked slowly in liquid in a container that has a lid
+
+- sprinkle: 撒；洒；把…撒（或洒）在…上 to shake small pieces of sth or drops of a liquid on sth

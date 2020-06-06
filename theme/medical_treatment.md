@@ -12,3 +12,4 @@
 ## 打针
 
 - injection: 注射 an act of injecting sb with a drug or other substance
+- infusion: （药物等的）输注；输液用药物 an act of slowly putting a drug or other substance into a person's vein ; the drug that is used in this way

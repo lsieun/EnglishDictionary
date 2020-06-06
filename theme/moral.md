@@ -9,6 +9,9 @@
 - orthodox: 普遍接受的；正统的；规范的 generally accepted or approved of; following generally accepted beliefs 正统信仰的；正宗教义的 following closely the traditional beliefs and practices of a religion
 - virtuous: 品行端正的；品德高的；有道德的 behaving in a very good and moral way
 
+- ethics: 道德标准;伦理标准;道德伦理 a system of moral principles governing the appropriate conduct for a person or group
+- ethos: （某团体或社会的）道德思想，道德观 the moral ideas and attitudes that belong to a particular group or society
+
 ## 道德败坏的
 
 - depravity: 堕落；腐化 the state of being morally bad

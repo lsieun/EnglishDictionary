@@ -16,6 +16,7 @@
   - 信息传递
 
 - poverty: 贫穷；贫困 the state of being poor
+- thrifty: 节约的；节俭的 careful about spending money and not wasting things
 
 ## 津贴
 
@@ -23,7 +24,7 @@
 
 how much do you get as monthly allowance from your parents? How do you spent it? 你每个月从父母那里得到多少零用钱？你怎样用它们？
 
-
+- bonus: 奖金；红利 an extra amount of money that is added to a payment, especially to sb's wages as a reward
 
 
 

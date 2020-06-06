@@ -16,6 +16,10 @@
 - governor: （美国的）州长 a person who is chosen to be in charge of the government of a state in the US
 - politician: 从政者；政治家 a person whose job is concerned with politics, especially as an elected member of parliament, etc.
 
+- premier: （尤用于报章等）首相，总理 used especially in newspapers, etc. to mean ‘prime minister’
+
 ## 外交
 
 - ambassador: 大使；使节；代表 an official who lives in a foreign country as the senior representative there of his or her own country
+- consul: 领事 a government official who is the representative of his or her country in a foreign city
+- diplomat: 外交官 a person whose job is to represent his or her country in a foreign country, for example, in an embassy

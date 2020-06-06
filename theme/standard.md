@@ -10,4 +10,11 @@
 
 - benchmark: 基准 something that can be measured and used as a standard that other things can be compared with
 
+- threshold: 阈；界；起始点 the level at which sth starts to happen or have an effect 门槛；门口 the floor or ground at the bottom of a doorway , considered as the entrance to a building or room
+
 - gauge: 测量仪器（或仪表）；计量器 an instrument for measuring the amount or level of sth （用于估计或判断的）事实，依据，尺度，标准 a fact or an event that can be used to estimate or judge sth
+
+## 使用标准
+
+- calibrate: 定标，校准，校正（刻度，以使测量准确）to mark units of measurement on an instrument such as a thermometer so that it can be used for measuring sth accurately
+- calibration: 定标；校准；校正 the act of calibrating

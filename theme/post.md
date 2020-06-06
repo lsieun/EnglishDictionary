@@ -1,6 +1,7 @@
 # post
 
 - post: 邮政；邮递；邮寄 the official system used for sending and delivering letters, packages, etc.
+- postal: 邮政的；邮递的 connected with the official system for sending and delivering letters, etc.
 
 ## person
 

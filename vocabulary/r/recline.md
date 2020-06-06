@@ -2,7 +2,7 @@
 
 - Word: recline
 
-- Type: verb [I]
+- Type: verb
 - Meaning: to sit or lie in a relaxed way, with your body leaning backwards
 - Chinese: 斜倚；斜躺；向后倚靠
 - Tags: 

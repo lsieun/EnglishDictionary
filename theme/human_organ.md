@@ -31,5 +31,6 @@
 ![](images/liver.jpg)
 
 - bowel: 肠 the tube along which food passes after it has been through the stomach, especially the end where waste is collected before it is passed out of the body
+- bowl: 碗；钵；盆 a deep round dish with a wide open top, used especially for holding food or liquid
 
 ![](images/bowel.jpg)
