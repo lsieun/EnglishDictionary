@@ -11,3 +11,7 @@
 - peppercorn: 胡椒粒；干胡椒籽 a dried berry from a tropical plant, that is crushed to make pepper
 
 - mustard: 芥末酱 a thick cold yellow or brown sauce that tastes hot and spicy and is usually eaten with meat
+
+## 液体调料
+
+- vinegar: 醋 a liquid with a bitter taste made from malt(麦芽) (= a type of grain) or wine, used to add flavour to food or to preserve it

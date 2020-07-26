@@ -6,12 +6,15 @@ cotton是植物产的，wool是羊毛（动物）产的，silk是蚕（虫子）
 
 - cotton: 棉，棉花（植株）a plant grown in warm countries for the soft white hairs around its seeds that are used to make cloth and thread
 - wool: （羊等的）绒，毛 the soft fine hair that covers the body of sheep, goats and some other animals
+- woolen: 羊毛;毛线 knitted or woven using wool
+- woollen: 毛纺的；羊毛的；毛料的；毛线的 made of wool
 - silk: （蚕）丝 fine soft thread produced by silkworms
 - fur: （动物浓厚的）软毛 the soft thick mass of hair that grows on the body of some animals 人造毛皮 an artificial material that looks and feels like fur
 - leather: 皮革 material made by removing the hair or fur from animal skins and preserving the skins using special processes
 - nylon: 尼龙 a very strong artificial material, used for making clothes, rope, brushes, etc.
 - linen: 亚麻布 a type of cloth made from flax , used to make high-quality clothes, sheets, etc.
-
+- velvet: 丝绒；立绒；经绒；天鹅绒 a type of cloth made from silk, cotton or nylon, with a thick soft surface
+- flannel: 法兰绒 a type of soft light cloth, containing cotton or wool, used for making clothes
 
 
 ## 合成品

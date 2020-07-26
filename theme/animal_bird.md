@@ -1,5 +1,7 @@
 # animal bird
 
+- cuckoo: 杜鹃（鸟）；布谷鸟 a bird with a call that sounds like its name. Cuckoos leave their eggs in the nests of other birds
+
 鸽子: dove是白色的鸽子，而pigeon是灰色的鸽子
 
 - dove: 鸽子（白鸽常作为和平的象征）a bird of the pigeon family. The white dove is often used as a symbol of peace. 鸽派人物，温和派人物（尤指愿意和平与谈判而不愿战争的从政者）a person, especially a politician, who prefers peace and discussion to war
@@ -10,7 +12,12 @@
 
 ![](images/pigeon.jpg)
 
+- lark: 百灵鸟；云雀 a small brown bird with a pleasant song
 - woodpecker: 啄木鸟 a bird with a long beak that it uses to make holes in trees when it is looking for insects to eat
+
+- sparrow: 麻雀 a small brown and grey bird, common in many parts of the world
+
+- peck: 啄；鹐 to move the beak forward quickly and hit or bite sth
 
 ## water
 

@@ -5,4 +5,10 @@
 
 - annual: 每年的；一年一次的；年度的 happening or done once every year
 
+an annual meeting/event/report 年会；一年一度的大事；年度报告
+
+- annually: 一年一次地 once a year
+
+The exhibition is held annually. 这个展览每年举行一次。
+
 - once in a while: 偶尔;有时 sometimes, but not very often

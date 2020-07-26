@@ -6,3 +6,4 @@
 - rupture: （体内组织等的）断裂，破裂 an injury in which sth inside the body breaks apart or bursts
 
 - rejoice: 非常高兴；深感欣喜 to express great happiness about sth
+- revel: 狂欢作乐 to spend time enjoying yourself in a noisy, enthusiastic way

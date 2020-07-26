@@ -10,6 +10,7 @@
 - virtuous: 品行端正的；品德高的；有道德的 behaving in a very good and moral way
 
 - ethics: 道德标准;伦理标准;道德伦理 a system of moral principles governing the appropriate conduct for a person or group
+- ethnic: 民族的；种族的 connected with or belonging to a nation, race or people that shares a cultural tradition
 - ethos: （某团体或社会的）道德思想，道德观 the moral ideas and attitudes that belong to a particular group or society
 
 ## 道德败坏的

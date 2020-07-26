@@ -21,3 +21,11 @@
 - scandal: 丑行；使人震惊的丑事；丑闻 behaviour or an event that people think is morally or legally wrong and causes public feelings of shock or anger
 - citizen: 公民 a person who has the legal right to belong to a particular country
 - diplomatic: 外交的；从事外交的connected with managing relations between countries(= diplomacy) 有手腕的；灵活变通的；策略的；圆通的having or showing skill in dealing with people in difficult situations
+
+- bureaucracy: 官僚主义；官僚作风 the system of official rules and ways of doing things that a government or an organization has, especially when these seem to be too complicated
+
+## government change
+
+政府变更、倒台
+
+- rebellion: （对权威的）反抗，不服从 an attempt by some of the people in a country to change their government, using violence

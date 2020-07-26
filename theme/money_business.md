@@ -3,6 +3,7 @@
 - finance: 资金 money used to run a business, an activity or a project
 - finance: （个人、组织、国家的）财力，财源，财务管理 the money available to a person, an organization or a country
 
+- dividend: 红利；股息；股利 an amount of the profits that a company pays to people who own shares in the company
 
 ## Company 公司
 

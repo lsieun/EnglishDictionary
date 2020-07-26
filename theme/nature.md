@@ -6,6 +6,8 @@
 - rainbow: 虹；彩虹 a curved band of different colours that appears in the sky when the sun shines through rain
 - thunder: 雷；雷声 the loud noise that you hear after a flash of lightning , during a storm
 
+- wilderness: 未开发的地区；荒无人烟的地区；荒野 a large area of land that has never been developed or used for growing crops because it is difficult to live there
+
 ## sun
 
 - sunrise: 日出 the time when the sun first appears in the sky in the morning

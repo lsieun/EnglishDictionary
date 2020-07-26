@@ -4,3 +4,4 @@
 - forever: 长久地 a very long time
 - infinite: 无限的；无穷尽的 without limits; without end
 - permanent: 永久的；永恒的；长久的 lasting for a long time or for all time in the future; existing all the time
+- perpetual: 不间断的；持续的；长久的 continuing for a long period of time without interruption

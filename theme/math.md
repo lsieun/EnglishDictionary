@@ -1,6 +1,10 @@
 # math
 
+- algebra: 代数学 a type of mathematics in which letters and symbols are used to represent quantities
 - calculus: 微积分（学） the type of mathematics that deals with rates of change, for example in the slope of a curve or the speed of a falling object
+- geometry: 几何（学）the branch of mathematics that deals with the measurements and relationships of lines, angles, surfaces and solids
+
+- perpendicular: 垂直的；成直角的 forming an angle of 90˚ with another line or surface; vertical and going straight up
 
 ## shape
 

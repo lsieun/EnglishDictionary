@@ -1,6 +1,11 @@
 # metal
 
 - metal: 金属 a type of solid mineral substance that is usually hard and shiny and that heat and electricity can travel through, for example tin, iron and gold
+- metallic: 金属制的；含金属的 made of or containing metal
+
+- corrode: 腐蚀；侵蚀 to destroy sth slowly, especially by chemical action; to be destroyed in this way
+
+- zinc: 锌a chemical element. Zinc is a bluish-white metal that is mixed with copper to produce brass and is often used to cover other metals to prevent them from rusting.
 
 金
 

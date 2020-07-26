@@ -58,6 +58,7 @@
 
 - lap: （坐着时的）大腿部 the top part of your legs that forms a flat surface when you are sitting down
 - limb: 肢；臂；腿；翼；翅膀 an arm or a leg; a similar part of an animal, such as a wing
+- thigh: 大腿；股 the top part of the leg between the knee and the hip
 
 ## foot
 

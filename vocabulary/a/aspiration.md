@@ -11,7 +11,7 @@
 - Comparative: 
 - Meaning: a strong desire to have or do sth
 - Chinese: 渴望；抱负；志向
-- Tags: 
+- Tags: desire
 - Synonyms: 
 - Antonyms: 
 - Similar: inspiration, perspiration

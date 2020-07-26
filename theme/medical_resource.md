@@ -4,6 +4,7 @@
 
 ## 药片
 
+- capsule: （装药物的）胶囊 a small container which has a measured amount of a medicine inside and which dissolves when you swallow it
 - pill: 药丸；药片 a small flat round piece of medicine that you swallow without chewing it
 - injection: 注射 an act of injecting sb with a drug or other substance
 - dose: （药的）一剂，一服 an amount of a medicine or a drug that is taken once, or regularly over a period of time

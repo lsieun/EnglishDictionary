@@ -8,3 +8,4 @@
 
 - ventilate: 使（房间、建筑物等）通风；使通气 to allow fresh air to enter and move around a room, building, etc.
 
+- gust: 一阵强风；一阵狂风 a sudden strong increase in the amount and speed of wind that is blowing

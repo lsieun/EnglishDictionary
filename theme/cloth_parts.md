@@ -1,5 +1,7 @@
 # cloth parts
 
+- face mask: 面罩 something that you wear over your face to protect it
+
 ## neck
 
 - collar: 衣领；领子 the part around the neck of a shirt, jacket or coat that usually folds down
@@ -13,12 +15,15 @@
 ## hand
 
 - glove: （分手指的）手套 a covering for the hand, made of wool, leather, etc. with separate parts for each finger and the thumb
+- mitten: 连指手套 a type of glove that covers the four fingers together and the thumb separately
 
 ## upper
 
 - sweater: 毛衣，线衣（英式英语指套头无扣的；美式英语可指开襟有扣的）a knitted piece of clothing made of wool or cotton for the upper part of the body, with long sleeves. In British English the word is used to describe a piece of clothing with no buttons. In American English a sweater can have buttons and be like a jacket.
 - jacket: 夹克衫；短上衣 a piece of clothing worn on the top half of the body over a shirt, etc. that has sleeves and fastens down the front; a short, light coat
 - coat: 外套；外衣；大衣 a piece of outdoor clothing that is worn over other clothes to keep warm or dry. Coats have sleeves and may be long or short.
+- cloak: （尤指旧时的）披风，斗篷 a type of coat that has no sleeves, fastens at the neck and hangs loosely from the shoulders, worn especially in the past
+- vest: （衬衣等里面贴身穿的）背心，汗衫 a piece of underwear worn under a shirt, etc. next to the skin
 
 男式
 
@@ -71,15 +76,3 @@
 
 ![silk stockings](images/silk_stockings.jpeg)
 
-鞋子
-
-- boot: 靴子 a strong shoe that covers the foot and ankle and often the lower part of the leg 它比一般的鞋子要高一点，能够保护怀踝关节
-
-![](images/boot_01.jpg)
-
-- shoe: 鞋 one of a pair of outer coverings for your feet, usually made of leather or plastic
-- sneaker: 运动鞋；便鞋 a shoe that you wear for sports or as informal clothing
-
-![](images/sneaker.jpg)
-
-- heel: （鞋、靴子等的）后跟 the raised part on the bottom of a shoe, boot, etc. that makes the shoe, etc. higher at the back 女高跟鞋 a pair of women's shoes that have high heels

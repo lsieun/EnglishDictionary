@@ -5,6 +5,9 @@
 
 - dawn: 黎明；拂晓；破晓 the time of day when light first appears
 - dusk: 黄昏；傍晚 the time of day when the light has almost gone, but it is not yet dark
+
+- twilight: 暮色；薄暮；黄昏 the faint light or the period of time at the end of the day after the sun has gone down
+
 - sunrise: 日出 the time when the sun first appears in the sky in the morning
 - sunset: 日落；傍晚 the time when the sun goes down and night begins
 

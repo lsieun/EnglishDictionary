@@ -11,6 +11,8 @@ laws governing the sale of alcoholic beverages 控制酒类销售的法规
 
 - brew: 酿制（啤酒）to make beer 沏（茶）；煮（咖啡）to make a hot drink of tea or coffee
 
+- quench: 解（渴）；止（渴）to drink so that you no longer feel thirsty
+
 ## tea
 
 - tea: 茶；茶水 a hot drink made by pouring boiling water onto tea leaves. It may be drunk with milk or lemon and/or sugar added.
@@ -27,6 +29,7 @@ laws governing the sale of alcoholic beverages 控制酒类销售的法规
 - alcohol: 含酒精饮料；酒 drinks such as beer, wine, etc. that can make people drunk
 - beer: 啤酒 an alcoholic drink made from malt and flavoured with hops. There are many types of beer.
 - brandy: 白兰地（酒）a strong alcoholic drink made from wine
+- champagne: 香槟酒 a French sparkling white wine (= one with bubbles) that is drunk on special occasions
 - cocktail: 鸡尾酒 a drink usually made from a mixture of one or more spirits (= strong alcoholic drinks) and fruit juice. It can also be made without alcohol.
 - wine: 葡萄酒 an alcoholic drink made from the juice of grapes that has been left to ferment. There are many different kinds of wine. （用植物或除葡萄以外的水果酿制的）酒，果酒 an alcoholic drink made from plants or fruits other than grapes
 - liquor: 烈性酒 strong alcoholic drink

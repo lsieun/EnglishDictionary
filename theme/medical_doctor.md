@@ -1,5 +1,7 @@
 # medical doctor
 
+- nurse: 护士 a person whose job is to take care of sick or injured people, usually in a hospital
+
 ## 医生
 
 要开刀动手术的是外科医生，要看病开药的基本是内科医生。
@@ -11,6 +13,7 @@
 - pathologist: 病理学医生；病理学家 a doctor who studies pathology and examines dead bodies to find out the cause of death
 - pathology: 病理学 the scientific study of diseases
 
+- dentist: 牙科医生 a person whose job is to take care of people's teeth
 - chemist: 药剂师；药商 a person whose job is to prepare and sell medicines, and who works in a shop
 - prescription: 处方；药方 an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's shop/drugstore
 

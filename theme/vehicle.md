@@ -15,13 +15,15 @@
 
 - helmet: 头盔；防护帽 a type of hard hat that protects the head, worn, for example, by a police officer, a soldier or a person playing some sports
 
+- trolley: 手推车；手拉车 a small vehicle with wheels that can be pushed or pulled along and is used for carrying things
+
 ## car/bus
 
 - auto: 汽车 a car
 - cab: 出租车；计程车；的士 a taxi （公共汽车、火车、卡车的）驾驶室the place where the driver sits in a bus, train or lorry/truck
 - car: 小汽车；轿车 a road vehicle with an engine and four wheels that can carry a small number of passengers
 - taxi: 出租汽车；计程车；的士 a car with a driver that you pay to take you somewhere. Taxis usually have meters which show how much money you have to pay.
-
+- pickup: 轻型货车；敞篷小货车；皮卡货车 a vehicle with low sides and no roof at the back used, for example, by farmers
 
 ## truck
 

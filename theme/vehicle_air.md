@@ -1,9 +1,12 @@
 # vehicle air
 
+- glider: 滑翔机 a light aircraft that flies without an engine
+
 ## 太空
 
 - spacecraft: 宇宙飞船；太空船 a vehicle that travels in space
 - space station: 太空站；宇宙空间站 a large structure that is sent into space and remains above the earth as a base for people working and travelling in space
+- aerospace: 航空航天工业 the industry of building aircraft, vehicles and equipment to be sent into space
 
 ## airplane
 
@@ -12,6 +15,7 @@
 
 - plane: 飞机 a flying vehicle with wings and one or more engines
 - airplane: 飞机
+- airborne: 在空中 in the air
 - aerial: 空中的；空气中的；地表以上的 in the air; existing above the ground
 - aeroplane: 飞机 a flying vehicle with wings and one or more engines
 
@@ -47,6 +51,8 @@
 ## 货物
 
 - cargo: （船或飞机装载的）货物 the goods carried in a ship or plane
+
+- parachute: 降落伞 a device that is attached to people or objects to make them fall slowly and safely when they are dropped from an aircraft. It consists of a large piece of thin cloth that opens out in the air to form an umbrella shape.
 
 ## board
 

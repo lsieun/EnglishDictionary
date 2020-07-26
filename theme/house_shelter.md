@@ -5,9 +5,15 @@
 ## 广泛意义的住所
 
 - dwelling: 住宅；住所；公寓 a house, flat/apartment, etc. where a person lives
+- dwell: 居住；栖身 to live somewhere
+- abode: 住所；家 the place where sb lives
+- vault: （尤指银行的）金库，保险库 a room with thick walls and a strong door, especially in a bank, used for keeping valuable things safe
+
+- lodging: 暂住；寄宿；借宿 temporary accommodation
 
 ## 豪宅
 
+- mansion: 公馆；宅第 a large impressive house
 - residence: 住所；住房；（尤指）宅第，豪宅 a house, especially a large or impressive one
 
 ## 乡间

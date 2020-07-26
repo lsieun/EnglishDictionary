@@ -10,3 +10,8 @@
 - prime: 主要的；首要的；基本的 main; most important; basic
 - prominent: 重要的；著名的；杰出的 important or well known
 - worthwhile: 重要的；令人愉快的；有趣的；值得花时间（或花钱、努力等） important, enjoyable, interesting, etc.; worth spending time, money or effort on
+
+## 不重要
+
+- marginal: 小的；微不足道的；不重要的 small and not important
+- negligible: 微不足道的；不重要的；不值一提的 of very little importance or size and not worth considering

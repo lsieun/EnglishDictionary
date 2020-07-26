@@ -7,6 +7,7 @@
 - outdoor: 户外的；室外的 used, happening or located outside rather than in a building
 - indoor: （在）室内的；在户内进行的；在室内用的 located, done or used inside a building
 
+- villa: 度假别墅 a house where people stay on holiday/vacation
 
 
 ## room
@@ -18,3 +19,4 @@
 
 - lounge: （机场等的）等候室 a room for waiting in at an airport, etc. （旅馆、俱乐部等的）休息室a public room in a hotel, club, etc. for waiting or relaxing in （私宅中的）起居室 a room in a private house for sitting and relaxing in
 
+- accommodation: 住处；办公处；停留处 a place to live, work or stay in

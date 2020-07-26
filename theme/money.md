@@ -18,6 +18,8 @@
 - poverty: 贫穷；贫困 the state of being poor
 - thrifty: 节约的；节俭的 careful about spending money and not wasting things
 
+- pound: 英镑（英国货币单位，等于 100 便士）the unit of money in the UK, worth 100 pence
+
 ## 津贴
 
 - allowance: 津贴；补贴；补助 an amount of money that is given to sb regularly or for a particular purpose

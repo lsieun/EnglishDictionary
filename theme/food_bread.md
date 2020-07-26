@@ -1,10 +1,12 @@
 # foot bread
 
-- flour: （尤指小麦的）面粉；（谷物磨成的）粉 a fine white or brown powder made from grain, especially wheat , and used in cooking for making bread, cakes, etc.
+- flour: （尤指小麦的）面粉；（谷物磨成的）粉 a fine white or brown powder made from grain, especially wheat, and used in cooking for making bread, cakes, etc.
 - powder: 粉末；细面 a dry mass of very small fine pieces or grains
 
 - dough: （用于制面包和糕点的）生面团 a mixture of flour, water, etc. that is made into bread and pastry
 - rolling pin: 擀面杖 a wooden or glass kitchen utensil (= a tool) in the shape of a tube, used for rolling pastry flat
+
+- grind: 磨碎；碾碎；把…磨成粉 to break or crush sth into very small pieces between two hard surfaces or using a special machine 磨（粉）to produce sth such as flour by crushing
 
 ## 西方
 

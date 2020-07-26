@@ -9,6 +9,8 @@
 - delicious: 美味的；可口的；芬芳的 having a very pleasant taste or smell
 - tasty: 美味的；可口的；好吃的 having a strong and pleasant flavour
 
+- vanilla: 香草醛，香草香精（从热带植物香子兰豆中提取，用于冰淇淋等甜食） a substance obtained from the beans of a tropical plant, also called vanilla, used to give flavour to sweet foods, for example ice cream
+
 ## 不好的味道
 
 - stale: 不新鲜的 no longer fresh and therefore unpleasant to eat

@@ -16,12 +16,14 @@
 - future:
 
 - bygone: 很久以前的；以往的 happening or existing a long time ago
+- hitherto: 迄今；直到某时 until now; until the particular time you are talking about
 
 ## 早晚
 
 - timely: 及时的；适时的 happening at exactly the right time
 - punctual: 按时的；准时的；守时的 happening or doing sth at the arranged or correct time; not late
 - imminent: 即将发生的；临近的 likely to happen very soon
+- overdue: 未做的，未还的；过期的 not paid, done, returned, etc. by the required or expected time
 
 ## 时间安排
 

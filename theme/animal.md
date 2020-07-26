@@ -8,6 +8,8 @@
 - amphibian: 两栖动物 any animal that can live both on land and in water. Amphibians have cold blood and skin without scales. Frogs, toads(蟾蜍) and newts(蝾螈) are all amphibians.
 - reptile: 爬行动物 any animal that has cold blood and skin covered in scales, and that lays eggs. Snakes, crocodiles and tortoises are all reptiles.
 
+- squirrel: 松鼠 a small animal with a long thick tail and red, grey or black fur. Squirrels eat nuts and live in trees.
+
 ## 声音
 
 - roar: 吼叫；咆哮to make a very loud, deep sound

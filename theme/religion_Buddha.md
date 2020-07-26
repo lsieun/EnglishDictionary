@@ -8,3 +8,4 @@
 
 - abbot: 方丈；住持 a man who is the head of a monastery or an abbey
 
+- taboo: （文化或宗教习俗方面的）禁忌，忌讳，戒律 a cultural or religious custom that does not allow people to do, use or talk about a particular thing as people find it offensive or embarrassing

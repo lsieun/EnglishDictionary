@@ -5,9 +5,17 @@
 
 ## home
 
-鸡
+- fowl: 家禽 a bird that is kept for its meat and eggs, for example a chicken
+- poultry: 家禽 chickens, ducks and geese, kept for their meat or eggs
 
+鸡/鸭/鹅
+
+- chicken: 鸡 a large bird that is often kept for its eggs or meat
 - hen: 母鸡 a female chicken, often kept for its eggs or meat
+- rooster: 公鸡；雄鸡 an adult male chicken
+- duck: 鸭 a common bird that lives on or near water and has short legs, webbed feet (= feet with thin pieces of skin between the toes) and a wide beak. There are many types of duck , some of which are kept for their meat or eggs.
+- goose: 鹅 a bird like a large duck with a long neck. Geese either live wild or are kept on farms.
+
 
 
 猫
@@ -22,6 +30,8 @@
 - hound: 猎犬；猎狗 a dog that can run fast and has a good sense of smell, used for hunting
 
 ## farm
+
+- graze: （在草地上）吃青草 to eat grass that is growing in a field
 
 牛
 

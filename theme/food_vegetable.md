@@ -3,6 +3,11 @@
 - vegetable: 蔬菜 a plant or part of a plant that is eaten as food. Potatoes, beans and onions are all vegetables.
 - salad: （生吃的）蔬菜色拉，蔬菜沙拉 a mixture of raw vegetables such as lettuce , tomato and cucumber , usually served with other food as part of a meal
 
+- pickle: 泡菜；腌菜 a vegetable that has been preserved in vinegar(醋) or salt water and has a strong flavour, served cold with meat, salads, etc.
+- pick: 选择；挑选 to choose sb/sth from a group of people or things
+
+- eggplant: 茄子 a vegetable with shiny dark purple skin and soft white flesh
+
 ## 做菜
 
 - tomato: 番茄；西红柿 a soft fruit with a lot of juice and shiny red skin that is eaten as a vegetable either raw or cooked

@@ -18,12 +18,19 @@
 
 - nun: 修女；尼姑 a member of a religious community of women who promise to serve God all their lives and often live together in a convent
 
+
 ## Action
 
 - preach: 布道，讲道（尤指教堂中礼拜时）to give a religious talk in a public place, especially in a church during a service
 - salvation: 得救；救恩；救世 the state of being saved from the power of evil
+- sermon: 布道；讲道 a talk on a moral or religious subject, usually given by a religious leader during a service
 
-## Day
+
+## Normal People
+
+- pious: 虔诚的；虔敬的 having or showing a deep respect for God and religion
+
+## Days
 
 - Easter: 复活节（纪念耶稣复活，在三月或四月的一个星期日）(in the Christian religion) a Sunday in March or April when Christians remember the death of Christ and his return to life
 

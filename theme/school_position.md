@@ -4,6 +4,9 @@
 - principal: 大学校长；学院院长 the person who is in charge of a college or a university
 - professor: 教授 a university teacher of the highest rank
 
+- dean: （大学的）学院院长，系主任 a person in a university who is in charge of a department of studies
+
+- academician: 院士；学会会员 a member of an academy
 - bachelor: 学士 a person who has a Bachelor's degree (= a first university degree)
 - undergraduate: 本科生 a university or college student who is studying for their first degree
 - senior: 大四学生 a student in the last year of high school or college

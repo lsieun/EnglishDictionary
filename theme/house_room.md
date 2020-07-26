@@ -12,6 +12,7 @@
 
 ## 会议
 
+- auditorium: 礼堂；会堂 a large building or room in which public meetings, concerts, etc. are held
 - chamber: 会议厅 a hall in a public building that is used for formal meetings
 
 ## 阳台

@@ -19,6 +19,8 @@
 ## middle
 
 - rib: 肋骨 any of the curved bones that are connected to the spine and surround the chest
+- spine: 脊柱；脊椎 the row of small bones that are connected together down the middle of the back
+- spinal: 脊的；脊椎的；脊髓的 connected with the spine (= the long bone in the back)
 
 ## lower
 

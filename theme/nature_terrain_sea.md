@@ -17,6 +17,8 @@
 - harbor: 海港,港口;港湾 an area of water near the land where it is safe for boats to stay. A port is a harbor where passengers and goods can be taken on and off
 - port: 港口城市；口岸城市 a town or city with a harbour , especially one where ships load and unload goods
 
+- seaport: 海港城市 a town with a harbour used by large ships
+
 - bay: （海或湖的）湾 a part of the sea, or of a large lake, partly surrounded by a wide curve of the land
 
 - strait: 海峡；（连结两大水域的）水道 a narrow passage of water that connects two seas or large areas of water
@@ -25,6 +27,8 @@
 
 - dock: 船坞；船埠；码头 a part of a port where ships are repaired, or where goods are put onto or taken off them
 - pier: （突入湖、河、海中的）码头；突码头 a long low structure built in a lake, river or the sea and joined to the land at one end, used by boats to allow passengers to get on and off
+- wharf: 码头 a flat structure built beside the sea or a river where boats can be tied up and goods unloaded
+- fishery: 渔场 a part of the sea or a river where fish are caught in large quantities
 
 ## 近陆地
 
@@ -47,5 +51,6 @@ beach和shore均可指“海滨”｡比较说来 , beach较为平坦,覆盖着�
 
 - tide: 潮；潮汐；潮水 a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls
 - wave: 海浪；波浪；波涛 a raised line of water that moves across the surface of the sea, ocean, etc.
+- ebb: 落潮；退潮 the period of time when the sea flows away from the land
 
 

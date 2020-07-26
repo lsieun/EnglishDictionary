@@ -20,6 +20,8 @@
 
 ## river
 
+- brook: 溪；小河；小川 a small river
+
 - ditch: 沟；渠 a long channel dug at the side of a field or road, to hold or take away water
 
 ![](images/ditch.jpg)
@@ -33,6 +35,8 @@
 
 - canal: 运河；灌溉渠 a long straight passage dug in the ground and filled with water for boats and ships to travel along; a smaller passage used for carrying water to fields, crops, etc.
 
+- inlet: （海、湖伸向陆地或岛屿间的）小湾，水湾 a narrow strip of water that stretches into the land from the sea or a lake, or between islands
+- torrent: 急流；激流；湍流；洪流 a large amount of water moving very quickly
 
 ## Other
 

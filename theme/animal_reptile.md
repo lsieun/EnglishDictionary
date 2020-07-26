@@ -4,4 +4,5 @@
 
 - crocodile: 鳄鱼 a large reptile with a long tail, hard skin and very big jaws . Crocodiles live in rivers and lakes in hot countries.
 - snake: 蛇 a reptile with a very long thin body and no legs. There are many types of snake , some of which are poisonous.
+- serpent: 蛇；（尤指）大蛇 a snake, especially a large one
 - tortoise: 陆龟；龟 a reptile with a hard round shell, that lives on land and moves very slowly. It can pull its head and legs into its shell.

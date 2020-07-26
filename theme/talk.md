@@ -4,8 +4,18 @@
 
 - slogan: 标语；口号 a word or phrase that is easy to remember, used for example by a political party or in advertising to attract people's attention or to suggest an idea quickly
 
+- chatter: 喋喋不休；唠叨；饶舌 to talk quickly and continuously, especially about things that are not important
 - mutter: 嘀咕；嘟囔 to speak or say sth in a quiet voice that is difficult to hear, especially because you are annoyed about sth
 - utter: 出声；说；讲 to make a sound with your voice; to say sth
+
+- eloquent: 雄辩的；有口才的；流利的 able to use language and express your opinions well, especially when you are speaking in public
+
+- articulate: 明确表达；清楚说明 to express or explain your thoughts or feelings clearly in words 善于表达的 good at expressing ideas or feelings clearly in words
+- ramble: 漫游，漫步，闲逛（尤指在乡间） to walk for pleasure, especially in the countryside
+
+- narrate: 讲（故事）；叙述 to tell a story
+
+- yell: 叫喊；大喊；吼叫 to shout loudly, for example because you are angry, excited, frightened or in pain
 
 ## 暗示
 

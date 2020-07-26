@@ -8,4 +8,5 @@
 ## 对抗
 
 - competitive: 竞争的 used to describe a situation in which people or organizations compete against each other
+- hostile: 敌意的；敌对的 very unfriendly or aggressive and ready to argue or fight
 - rivalry: 竞争；竞赛；较量 a state in which two people, companies, etc. are competing for the same thing

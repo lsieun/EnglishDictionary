@@ -1,5 +1,7 @@
 # sport
 
+- kinetic: 运动的；运动引起的 of or produced by movement
+
 ## 足球
 
 - soccer: 足球运动 a game played by two teams of 11 players, using a round ball which players kick up and down the playing field. Teams try to kick the ball into the other team's goal.

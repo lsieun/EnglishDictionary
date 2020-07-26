@@ -9,3 +9,5 @@
 
 
 - compulsory: （因法律或规则而）必须做的，强制的，强迫的 that must be done because of a law or a rule
+
+- requisite: 必需的；必备的；必不可少的 necessary for a particular purpose

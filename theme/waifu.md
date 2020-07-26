@@ -1,0 +1,26 @@
+# waifu
+
+- vibe: 情绪；气氛；氛围 a general feeling that you get from a person or place
+- pushy: 执意强求的；死缠硬磨的 trying hard to get what you want, especially in a way that seems rude
+- whim: 心血来潮；一时的兴致；突发的奇想 a sudden wish to do or have sth, especially when it is sth unusual or unnecessary
+- rinse: （用清水）冲洗，洗涮 to wash sth with clean water only, not using soap
+- decor: （建筑内部的）装饰布局，装饰风格 the style in which the inside of a building is decorated
+- call in sick: 打电话请病假 to phone someone at the place where you work to tell them you are too sick to work
+- shtick: 特长；擅长的本领 a particular ability that sb has
+- crap: 废话；胡说；胡扯 nonsense
+- obnoxious: 极讨厌的；可憎的；令人作呕的 extremely unpleasant, especially in a way that offends people
+- gloat: 扬扬得意；沾沾自喜；幸灾乐祸 to show that you are happy about your own success or sb else's failure, in an unpleasant way
+- shithole: 极其肮脏的地方；令人厌恶的地方 a very dirty or unpleasant place
+- gimme: 轻而易举的事；容易获得的事物 something that is very easy to do or achieve
+- stool: 凳子 a seat with legs but with nothing to support your back or arms
+- pervert: 性变态者 a person whose sexual behaviour is not thought to be normal or acceptable by most people
+- tingle: 感到刺痛 to feel as if a lot of small sharp points are pushing into it
+- relive: （尤指在想象中）再次体验，重温；回味 to experience sth again, especially in your imagination
+- reminisce: 回忆，追忆，缅怀（昔日的快乐时光） to think, talk or write about a happy time in your past
+- break down: 身心交瘁
+- hatchet: 短柄小斧 a small axe (= a tool with a heavy blade for chopping things) with a short handle
+- lease: 租用，租借，出租（尤指房地产或设备）to use or let sb use sth, especially property or equipment, in exchange for rent or a regular payment
+- airhead: 笨蛋；傻瓜 a stupid person
+- ogle: （色迷迷地）盯着看，痴痴地看 to look hard at sb in an offensive way, usually showing sexual interest
+- lingerie: 女内衣 women's underwear
+- fetish: 迷恋；癖 the fact that a person spends too much time doing or thinking about a particular thing

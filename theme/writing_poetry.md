@@ -6,3 +6,7 @@
 - poem: 诗；韵文 a piece of writing in which the words are chosen for their sound and the images they suggest, not just for their obvious meanings. The words are arranged in separate lines, usually with a repeated rhythm, and often the lines rhyme at the end.
 
 ![](images/poem.jpg)
+
+- poetic: 像诗一般的；富有诗意的 like or suggesting poetry, especially because it shows imagination and deep feeling
+
+- verse: 诗；韵文 writing that is arranged in lines, often with a regular rhythm or pattern of rhyme

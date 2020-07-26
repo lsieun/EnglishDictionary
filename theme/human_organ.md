@@ -34,3 +34,9 @@
 - bowl: 碗；钵；盆 a deep round dish with a wide open top, used especially for holding food or liquid
 
 ![](images/bowel.jpg)
+
+- intestine: 肠 a long tube in the body between the stomach and the anus. Food passes from the stomach to the small intestine and from there to the large intestine.
+
+- appendix: 阑尾 a small bag of tissue that is attached to the large intestine. In humans, the appendix has no clear function.
+
+- anus: 肛门 the opening in a person's bottom through which solid waste leaves the body

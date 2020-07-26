@@ -25,6 +25,11 @@
 - kangaroo: 袋鼠（产于澳大利亚）a large Australian animal with a strong tail and back legs, that moves by jumping. The female carries its young in a pocket of skin (called a pouch) on the front of its body.
 - pouch: （有袋目动物腹部的）育儿袋 a pocket of skin on the stomach of some female marsupial(有袋类动物) animals, such as kangaroos, in which they carry their young
 
+兔子
+
+- hare: 野兔 an animal like a large rabbit with very strong back legs, that can run very fast
+- rabbit: 兔 a small animal with soft fur, long ears and a short tail. Rabbits live in holes in the ground or are kept as pets or for food.
+
 ## carnivorous middle
 
 狮

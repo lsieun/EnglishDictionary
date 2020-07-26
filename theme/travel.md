@@ -1,5 +1,9 @@
 # travel
 
+## 人
+
+- passenger: 乘客；旅客 a person who is travelling in a car, bus, train, plane or ship and who is not driving it or working on it
+
 ## bag
 
 - briefcase: 公文包；公事包 a flat case used for carrying papers and documents

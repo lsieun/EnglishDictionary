@@ -5,3 +5,4 @@
 - undue: 不适当的；过分的；过度的 more than you think is reasonable or necessary
 
 - unreasonable: 不合理的；不公正的；期望过高的 not fair; expecting too much
+- unsuitable: 不适当的；不适宜的；不合适的 not right or appropriate for a particular person, purpose or occasion

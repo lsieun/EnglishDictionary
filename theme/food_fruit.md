@@ -9,6 +9,7 @@
 
 ## 水果
 
+- melon: 甜瓜；瓜 a large fruit with hard green, yellow or orange skin, sweet flesh and juice and a lot of seeds
 - watermelon: 西瓜 a type of large melon with hard, dark green skin, red flesh and black seeds
 - banana: 香蕉 a long curved fruit with a thick yellow skin and soft flesh, that grows on trees in hot countries
 - grape: 葡萄 a small green or purple fruit that grows in bunches on a climbing plant (called a vine ). Wine is made from grapes.

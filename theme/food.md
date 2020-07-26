@@ -10,6 +10,7 @@
 
 ## 吃
 
+- dietary: 饮食的 related to the foods that someone eats
 - digest: 消化 when you digest food, or it digests , it is changed into substances that your body can use
 
 ## 味道

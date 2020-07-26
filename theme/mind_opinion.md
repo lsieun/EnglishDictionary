@@ -1,5 +1,6 @@
 # Opinion
 
+- deem: 认为；视为；相信 to have a particular opinion about sth
 - hold: 怀有，持有（信念、意见） to have a belief or an opinion about sb/sth 认为；相信 to consider that sth is true
 
 He holds strange views on education. 他对教育的看法不同寻常。（直接+名词）

@@ -25,6 +25,7 @@
 - affluent: 富裕的 having a lot of money and a good standard of living
 - extravagant: 奢侈的；挥霍的；铺张浪费的 spending a lot more money or using a lot more of sth than you can afford or than is necessary
 - luxury: 奢侈的享受；奢华 the enjoyment of special and expensive things, particularly food and drink, clothes and surroundings
+- luxurious: 十分舒适的；奢侈的 very comfortable; containing expensive and enjoyable things
 
 
 ## Status

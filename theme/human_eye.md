@@ -1,5 +1,6 @@
 # human eye
 
+- glare: 怒目而视 to look at sb/sth in an angry way
 - stare: 盯着看；凝视；注视 to look at sb/sth for a long time
 - glimpse: 一瞥；一看 a look at sb/sth for a very short time, when you do not see the person or thing completely
 

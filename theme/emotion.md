@@ -9,7 +9,15 @@
 - admiration and disdain
 - fondness and aversion
 
+- discontent: 不满；不满足；不满足的缘由 a feeling of being unhappy because you are not satisfied with a particular situation; sth that makes you have this feeling
 
+- vanity: 自负；自大；虚荣；虚荣心 too much pride in your own appearance, abilities or achievements
+- affectation: 假装；做作；装模作样 behaviour or an action that is not natural or sincere and that is often intended to impress other people
+- affection: 喜爱；钟爱 the feeling of liking or loving sb/sth very much and caring about them
+
+- nostalgic: 怀旧的；令人怀念的 remembering happy times in the past; making someone remember happy times in the past
+
+- countenance: 面容；脸色；面部表情 a person's face or their expression
 
 ### 不高兴/不愤怒
 
@@ -48,6 +56,8 @@
 
 ### 冷漠/不感兴趣
 
+- detached: 客观的；公正的；无偏见的 not influenced by other people or by your own feelings
+- disinterested: 客观的；无私的；公正的 not influenced by personal feelings, or by the chance of getting some advantage for yourself
 - indifferent: 漠不关心；不感兴趣 having or showing no interest in sb/sth
 
 ## 心情转变

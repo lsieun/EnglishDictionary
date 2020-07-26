@@ -5,3 +5,7 @@
 - constitution: 宪法；章程 the system of laws and basic principles that a state, a country or an organization is governed by
 
 - clause: （法律文件的）条款 an item in a legal document that says that a particular thing must or must not be done
+
+- penal: 惩罚的；刑罚的 connected with or used for punishment, especially by law
+
+- legislate: 制定法律；立法 to make a law affecting sth

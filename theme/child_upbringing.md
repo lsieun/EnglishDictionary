@@ -5,4 +5,10 @@
 - nourish: 抚养；滋养；养育 to keep a person, an animal or a plant alive and healthy with food, etc. 培养，助长（情绪、观点等）to allow a feeling, an idea, etc. to develop or grow stronger
 - raise: 抚养；养育；培养 to care for a child or young animal until it is able to take care of itself
 
+## baby
+
 - cradle: 摇篮 a small bed for a baby which can be pushed gently from side to side
+
+- offspring: 孩子；子女；后代 a child of a particular person or couple
+
+- adoption: 收养；领养 the act of adopting a child

@@ -17,6 +17,7 @@
 ## 同事
 
 - colleague: 同事；同僚 a person that you work with, especially in a profession or a business
+- workmate: 一起工作的人；同事；工友 a person that you work with, often doing the same job, in an office, a factory, etc.
 
 ## 辞职
 

@@ -15,6 +15,10 @@
 - Islam: 伊斯兰教 the Muslim religion, based on belief in one God and revealed through Muhammad as the Prophet of Allah
 - Muslim: 穆斯林；伊斯兰教信徒 a person whose religion is Islam
 
+## Days
+
 - Ramadan: 伊斯兰历九月，斋月，莱麦丹（斋月期间，穆斯林从破晓到日落禁食）the 9th month of the Muslim year, when Muslims do not eat or drink between dawn and sunset
 
+## Building
 
+- mosque: 清真寺；伊斯兰教寺院；清真寺回教寺院 a building in which Muslims worship

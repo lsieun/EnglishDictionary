@@ -16,6 +16,7 @@
 ## earth
 
 - earthquake: 地震 a sudden, violent shaking of the earth's surface
+- debris: 残骸；碎片；破片 pieces of wood, metal, brick, etc. that are left after sth has been destroyed
 
 ## sea
 

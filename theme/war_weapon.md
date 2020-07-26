@@ -4,11 +4,16 @@
 - bomb: 炸弹 a weapon designed to explode at a particular time or when it is dropped or thrown
 - missile: 导弹 a weapon that is sent through the air and that explodes when it hits the thing that it is aimed at
 
+- arsenal: （统称）武器 a collection of weapons such as guns and explosives 兵工厂；武器库；军火库 a building where military weapons and explosives are made or stored
+- ammunition: 弹药 a supply of bullets, etc. to be fired from guns
+
 ## gun
 
+- gunpowder: 火药 explosive powder used especially in bombs or fireworks
 - rifle: 步枪；来复枪 a gun with a long barrel(枪管) which you hold to your shoulder to fire
 - submachine-gun: 冲锋枪
 - artillery: （统称）火炮 large, heavy guns which are often moved on wheels
+- pistol: 手枪 a small gun that you can hold and fire with one hand
 
 ## sea
 

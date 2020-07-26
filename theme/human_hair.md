@@ -5,6 +5,12 @@
 - curly: 有鬈发（或毛）的；拳曲状的 having a lot of curls or a curved shape
 - beard: （人的）胡须，络腮胡子；（动物的）颔毛，须 hair that grows on the chin and cheeks of a man's face; similar hair that grows on some animals
 
+- haircut: 理发 the act of sb cutting your hair 发型；发式 the style in which sb's hair is cut
+
+- bald: 秃顶的；秃头的 having little or no hair on the head
+
+## 工具
+
 - comb: 梳子；篦子；压发梳 a flat piece of plastic or metal with a row of thin teeth along one side, used for making your hair neat; a smaller version of this worn by women in their hair to hold it in place or as a decoration
 
 ## 颜色

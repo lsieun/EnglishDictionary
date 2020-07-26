@@ -14,3 +14,7 @@
 ## things
 
 - parcel: 包裹；小包 something that is wrapped in paper or put into a thick envelope so that it can be sent by mail, carried easily, or given as a present
+
+## 派送
+
+- dispatch: 派遣；调遣；派出 to send sb/sth somewhere, especially for a special purpose

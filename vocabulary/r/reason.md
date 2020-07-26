@@ -2,7 +2,7 @@
 
 - Word: reason
 
-- Type: verb [T]
+- Type: verb
 - Meaning: to form a judgement about a situation by considering the facts and using your power to think in a logical way
 - Chinese: 推理；推论；推断（这个词，我认为奇特的地方是它可以作用“动词”使用）
 - Tags: 

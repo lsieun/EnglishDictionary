@@ -26,6 +26,7 @@
 
 - semester: 学期（一学年分两个学期）one of the two periods that the school or college year is divided into
 
+- curricula: curricula is curriculum's Plural Form
 - curriculum: （学校等的）全部课程 the subjects that are included in a course of study or taught in a school, college, etc.
 - lecture: （通常指大学里的）讲座，讲课，演讲 a talk that is given to a group of people to teach them about a particular subject, often as part of a university or college course
 
