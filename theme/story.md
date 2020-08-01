@@ -7,3 +7,5 @@
 
 - fable: 寓言；寓言故事 a traditional short story that teaches a moral lesson, especially one with animals as characters; these stories considered as a group
 - tale: （尤指充满惊险的）故事；历险记 a story created using the imagination, especially one that is full of action and adventure
+
+- folklore: 民间传统；民俗；民间传说 the traditions and stories of a country or community

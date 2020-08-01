@@ -3,6 +3,10 @@
 - furnish: 在（房屋等）处布置家具 to put furniture in a house, room, etc.
 - furniture: （可移动的）家具 objects that can be moved, such as tables, chairs and beds, that are put into a house or an office to make it suitable for living or working in
 
+## 装饰
+
+- vase: 花瓶；装饰瓶 a container made of glass, etc., used for holding cut flowers or as a decorative object
+
 ## bed
 
 - bed: 床 a piece of furniture for sleeping on

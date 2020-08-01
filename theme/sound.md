@@ -1,5 +1,7 @@
 # sound
 
+- aural: 听觉相关的 connected with hearing and listening
+- oral: 口头的 spoken rather than written
 - sonorous: 洪亮的；响亮的 having a pleasant full deep sound
 
 ## machine

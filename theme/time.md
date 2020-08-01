@@ -18,6 +18,8 @@
 - bygone: 很久以前的；以往的 happening or existing a long time ago
 - hitherto: 迄今；直到某时 until now; until the particular time you are talking about
 
+- elapse: （时间）消逝，流逝if a period of timeelapses , it passes
+
 ## 早晚
 
 - timely: 及时的；适时的 happening at exactly the right time

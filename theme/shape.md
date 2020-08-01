@@ -5,4 +5,7 @@
 - sphere: 球；球体；球形 a solid figure that is completely round, with every point on its surface at an equal distance from the centre
 - spherical: 球形的；球状的 shaped like a sphere
 
+## 轮廓
+
 - contour: 外形；轮廓 the outer edges of sth; the outline of its shape or form （地图上连接相同海拔各点的）等高线 a line on a map that joins points that are the same height above sea level
+- skyline: n. （建筑物、树、山等在天空映衬下的）轮廓线；天际线 the outline of buildings, trees, hills, etc. seen against the sky

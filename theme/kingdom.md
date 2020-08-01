@@ -13,6 +13,7 @@
 
 ## traitor
 
+- treason: 危害国家罪，叛国罪（如战时通敌）the crime of doing sth that could cause danger to your country, such as helping its enemies during a war
 - traitor: 背叛者；叛徒；卖国贼 a person who gives away secrets about their friends, their country, etc.
 
 - banish: 放逐；流放；把（某人）驱逐出境 to order sb to leave a place, especially a country, as a punishment

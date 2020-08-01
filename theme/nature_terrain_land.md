@@ -17,6 +17,7 @@
 - hayfield: (牧草)打草场
 - hay: （用作饲料的）干草，草料 grass that has been cut and dried and is used as food for animals
 - pasture: 牧场；牧草地 land covered with grass that is suitable for feeding animals on
+- straw: （收割后干燥的）禾秆，麦秆，稻草 stems of wheat or other grain plants that have been cut and dried. Straw is used for making mats , hats, etc., for packing things to protect them, and as food for animals or for them to sleep on.
 
 The noun meadow is another word for a hayfield, but offers a much more picturesque view as an open field of lush grass filled with butterflies and birds, with room to run. It can also refer to a piece of land found along a river.
 

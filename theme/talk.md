@@ -17,6 +17,8 @@
 
 - yell: 叫喊；大喊；吼叫 to shout loudly, for example because you are angry, excited, frightened or in pain
 
+- spout: 滔滔不绝地说；喋喋不休地说 to speak a lot about sth; to repeat sth in a boring or annoying way
+
 ## 暗示
 
 - imply: 含有…的意思；暗示；暗指 to suggest that sth is true or that you feel or think sth, without saying so directly
@@ -27,6 +29,7 @@
 - induce: 劝说；诱使to persuade or influence sb to do sth
 - dissuade: 劝（某人）勿做（某事）；劝阻 to persuade sb not to do sth
 - persuade: 劝说；说服to make sb do sth by giving them good reasons for doing it
+- persuasive: adj. 有说服力的；令人信服的 able to persuade sb to do or believe sth
 
 ## 正式宣布
 
@@ -46,5 +49,5 @@
 
 ## 未来
 
-- predict: 预言；预告；预报 to say that sth will happen in the future
+
 

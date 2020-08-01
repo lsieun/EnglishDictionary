@@ -5,6 +5,8 @@
 - outlook: 景色；景致；景观 a view from a particular place
 - viewpoint: 角度 a direction or place from which you look at sth 观点；看法 a way of thinking about a subject
 
+- panorama: 全景 a view of a wide area of land
+
 自然景色
 
 - scenery: 风景；景色；风光 the natural features of an area, such as mountains, valleys, rivers and forests, when you are thinking about them being attractive to look at

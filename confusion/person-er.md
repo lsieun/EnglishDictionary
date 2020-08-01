@@ -1,5 +1,6 @@
 # er
 
+- adventurer: 冒险者；冒险家 a person who enjoys exciting new experiences, especially going to unusual places
 - astronomer: 天文学家 a scientist who studies astronomy
 - butcher: 屠夫；肉贩 a person whose job is cutting up and selling meat in a shop/store or killing animals for this purpose
 - carrier: 搬运人；运送人；运输工具 a person or thing that carries sth

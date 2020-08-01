@@ -1,5 +1,6 @@
 # water
 
+- dew: 露；露水 the very small drops of water that form on the ground, etc. during the night
 - ripple: 波纹；细浪；涟漪 a small wave on the surface of a liquid, especially water in a lake, etc.
 
 - evaporate: （使）蒸发，挥发 if a liquid evaporates or if sth evaporates it, it changes into a gas, especially steam

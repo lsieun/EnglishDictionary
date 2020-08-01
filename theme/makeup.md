@@ -3,6 +3,10 @@
 - makeup: 化妆品 substances such as creams, powders, lipstick, or mascara that people, especially women and actors, put on their faces in order to look more attractive or change their appearance
 - headdress: （特殊场合戴的）头巾，头饰 a covering worn on the head on special occasions
 
+- facial: n. 面部护理；美容 a beauty treatment in which a person's face is cleaned using creams, steam, etc. in order to improve the quality of the skin
+
+- lipstick: 口红；唇膏 a substance made into a small stick, used for colouring the lips; a small stick of this substance
+
 ## 喷雾
 
 - fragrance: 香水 a liquid that you put on your skin in order to make yourself smell nice

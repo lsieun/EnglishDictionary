@@ -4,6 +4,7 @@
 
 - chemistry: 化学 the scientific study of the structure of substances, how they react when combined or in contact with one another, and how they behave under different conditions
 
+- aluminium: 铝 a chemical element. Aluminium is a light, silver-grey metal used for making pans, etc.
 - calcium: 钙 a chemical element. Calcium is a soft silver-white metal that is found in bones, teeth and chalk.
 - radium: 镭 a chemical element. Radium is a white radioactive metal used in the treatment of diseases such as cancer.
 - sulphur: 硫；硫磺 a chemical element. Sulphur is a pale yellow substance that produces a strong unpleasant smell when it burns and is used in medicine and industry.
@@ -17,7 +18,7 @@
 
 - compound: 化合物 a substance formed by a chemical reaction of two or more elements in fixed amounts relative to each other
 
-- carbohydrate: 碳水化合物；糖类 a substance such as sugar or starch that consists of carbon , hydrogen and oxygen . Carbohydrates in food provide the body with energy and heat.
+- carbohydrate: 碳水化合物；糖类 a substance such as sugar or starch that consists of carbon, hydrogen and oxygen. Carbohydrates in food provide the body with energy and heat.
 - hydrocarbon: 碳氢化合物 a chemical made up of hydrogen and carbon only. There are many different hydrocarbons found in petrol/gas, coal and natural gas.
 
 ## method

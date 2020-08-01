@@ -7,7 +7,7 @@
 - confession: （对使自己羞愧或尴尬的事的）表白，承认 a statement admitting sth that you are ashamed or embarrassed about
 - permission: 准许；许可；批准 the act of allowing sb to do sth, especially when this is done by sb in a position of authority 许可证；书面许可 an official written statement allowing sb to do sth
 
-- volition: 意志力；自愿选择；自行决断 the power to choose sth freely or to make your own decisions
+
 
 ## 不同意
 

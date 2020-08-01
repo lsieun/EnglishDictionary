@@ -8,6 +8,8 @@
 
 - wilderness: 未开发的地区；荒无人烟的地区；荒野 a large area of land that has never been developed or used for growing crops because it is difficult to live there
 
+- habitat: （动植物的）生活环境，栖息地 the place where a particular type of animal or plant is normally found
+
 ## sun
 
 - sunrise: 日出 the time when the sun first appears in the sky in the morning

@@ -49,7 +49,7 @@
 - criminal: 罪犯 a person who commits a crime
 - crime: 犯罪活动；不法行为 activities that involve breaking the law
 - convict: 已决犯；服刑囚犯 a person who has been found guilty of a crime and sent to prison
-
+- intentional injury: 故意伤害；故意伤害罪；蓄意性伤害
 
 
 

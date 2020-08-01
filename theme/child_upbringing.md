@@ -12,3 +12,8 @@
 - offspring: 孩子；子女；后代 a child of a particular person or couple
 
 - adoption: 收养；领养 the act of adopting a child
+
+## child
+
+- naughty: 顽皮的；淘气的；不听话的 behaving badly; not willing to obey
+

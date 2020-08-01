@@ -4,7 +4,7 @@
 - thoughtful: 体贴的；关心别人的；关切的 showing that you think about and care for other people
 - thoughtless: 粗心大意的；欠考虑的；轻率的 not caring about the possible effects of your words or actions on other people
 
-- conscientious: 勤勉认真的；一丝不苟的 taking care to do things carefully and correctly
+- conscientious: adj. 勤勉认真的；一丝不苟的 taking care to do things carefully and correctly.
 
 - diligent: 孜孜不倦的；勤勉的；刻苦的 showing care and effort in your work or duties
 - industrious: 勤奋的；勤劳的；忙碌的 working hard; busy

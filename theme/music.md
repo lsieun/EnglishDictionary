@@ -2,6 +2,7 @@
 
 - rhythm: 节奏；韵律；律动 a strong regular repeated pattern of sounds or movements
 - melody: 旋律；曲调；（尤指）主旋律 a tune, especially the main tune in a piece of music written for several instruments or voices
+- tempo: （乐曲的）速度，拍子，节奏 the speed or rhythm of a piece of music
 
 - symphony: 交响乐；交响曲 a long complicated piece of music for a large orchestra, in three or four main parts (called movements)，属性classic music，它是由orchestra来演奏的。示例：Beethoven's Fifth Symphony 贝多芬的第五交响曲。
 - orchestra: 管弦乐队 a large group of people who play various musical instruments together, led by a conductor

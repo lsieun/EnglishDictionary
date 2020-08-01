@@ -1,5 +1,7 @@
 # stone
 
+- rock: 岩石 the hard solid material that forms part of the surface of the earth and some other planets
+- stone: 石头；石料；岩石 a hard solid mineral substance that is found in the ground, often used for building
 - cement: 水泥 a grey powder made by burning clay and lime that sets hard when it is mixed with water. Cement is used in building to stick bricks together and to make very hard surfaces.
 - limestone: 石灰岩 a type of white stone that contains calcium, used in building and in making cement
 - marble: 大理石 a type of hard stone that is usually white and often has coloured lines in it. It can be polished and is used in building and for making statues, etc.

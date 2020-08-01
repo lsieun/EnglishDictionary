@@ -11,6 +11,8 @@
 - indignant: 愤慨的；愤怒的；义愤的 feeling or showing anger and surprise because you think that you have been treated unfairly
 - indignation: 愤慨；愤怒；义愤 a feeling of anger and surprise caused by sth that you think is unfair or unreasonable
 - irritate: 使烦恼（尤指不断重复的事情）to annoy sb, especially by sth you continuously do or by sth that continuously happens
+- irritable: 易怒的；暴躁的 getting annoyed easily; showing your anger
+
 - outrage: 愤怒；义愤；愤慨 a strong feeling of shock and anger
 - rage: 暴怒；狂怒 a feeling of violent anger that is difficult to control
 - resent: 愤恨；感到气愤；愤愤不平 to feel bitter or angry about sth, especially because you feel it is unfair

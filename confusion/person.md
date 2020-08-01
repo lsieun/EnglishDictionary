@@ -11,3 +11,4 @@
 - tramp: 流浪汉；流浪乞丐 a person with no home or job who travels from place to place, usually asking people in the street for food or money （尤指长时间地）重步行走，踏，踩 to walk with heavy or noisy steps, especially for a long time
 - ramp: 斜坡；坡道 a slope that joins two parts of a road, path, building, etc. when one is higher than the other
 - villain: 恶棍；坏蛋 a person who is morally bad or responsible for causing trouble or harm
+- wizard: （传说中的）男巫，术士 (in stories) a man with magic powers 行家；能手；奇才 a person who is especially good at sth

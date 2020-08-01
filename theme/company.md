@@ -6,6 +6,8 @@
 - corporation: 大公司 a large business company
 - company: 公司；商号；商行 a business organization that makes money by producing or selling goods or services
 
+- subsidiary: 附属公司；子公司 a business company that is owned or controlled by another larger company
+
 ## 全体工作人员
 
 - crew: （轮船、飞机等上面的）全体工作人员 all the people working on a ship, plane, etc.
@@ -23,3 +25,4 @@
 
 - resign: 辞职；辞去（某职务）to officially tell sb that you are leaving your job, an organization, etc.
 - dismiss: 解雇；免职；开除 to officially remove sb from their job
+- dismissal: n. 解雇；开除；撤职 the act of dismissing sb from their job

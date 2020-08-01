@@ -17,3 +17,5 @@
 - cessation: 停止；终止；中断；暂停 the stopping of sth; a pause in sth
 
 - incessant: 不停的；持续不断的 never stopping
+
+- intermittent: 断断续续的；间歇的 stopping and starting often over a period of time, but not regularly
