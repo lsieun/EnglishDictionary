@@ -2,7 +2,8 @@
 
 - Word: evict
 
-- Type: verb [T]
+## verb
+
 - Meaning: to force sb to leave a house or land, especially when you have the legal right to do so
 - Chinese: （尤指依法从房屋或土地上）驱逐，赶出，逐出
 - Tags: 

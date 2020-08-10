@@ -3,7 +3,8 @@
 - Word: implication
 - Cognate: imply
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: an occasion when you seem to suggest something without saying it directly
 - Chinese: 含意；暗指
 - Tags: meaning
@@ -11,8 +12,9 @@
 - Eg.: From what she said, the implication was that they were splitting up.
 - Eg.: She accused the party and, by implication, its leader too.
 
-- Type: noun [C]
-- Meaning: [usually plural] the effect that an action or decision will have on something else in the future
+## noun
+
+- Meaning: (usually plural) the effect that an action or decision will have on something else in the future
 - Chinese: 可能的影响（或作用、结果）
 - Tags: 
 - Use: ~ (of sth) (for sth)

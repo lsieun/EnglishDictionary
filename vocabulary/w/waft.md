@@ -2,7 +2,8 @@
 
 - Word: waft
 
-- Type: verb [I]
+## verb
+
 - Meaning: to move, or make sth move, gently through the air
 - Chinese: （随风）飘荡；使飘荡；吹拂
 - Tags: 

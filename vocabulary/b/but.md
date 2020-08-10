@@ -2,7 +2,8 @@
 
 - Word: but
 
-- Type: adverb
+## adverb
+
 - Meaning: only
 - Chinese: 只有；仅仅 （我会常常看到but出现在句子中，不是用于连接两个句子，而是表示“仅仅、只有”）
 - Tags: 

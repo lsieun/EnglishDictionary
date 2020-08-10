@@ -2,9 +2,9 @@
 
 - Word: beverage
 
-- Type: noun [C]
+## noun
+
 - Meaning: any type of drink except water
 - Chinese: （除水以外的）饮料
-- Tags: 
-- Eg.: 
+- Tags: drink
 

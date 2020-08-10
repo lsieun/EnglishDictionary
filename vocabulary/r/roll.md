@@ -2,7 +2,8 @@
 
 - Word: roll
 
-- Type: noun [C]
+## noun
+
 - Meaning: a small round loaf of bread for one person
 - Chinese: 面包卷
 - Tags: 

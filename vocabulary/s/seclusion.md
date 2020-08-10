@@ -2,7 +2,8 @@
 
 - Word: seclusion
 
-- Type: noun [U]
+## noun
+
 - Meaning: the state of being alone, away from other people
 - Chinese: 清静；隐居；与世隔绝
 - Tags: 

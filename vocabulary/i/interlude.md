@@ -2,7 +2,8 @@
 
 - Word: interlude
 
-- Type: noun [C]
+## noun
+
 - Meaning: a period of time between two events during which sth different happens; a short period of time between the parts of a play, film/movie, etc.
 - Chinese: （两事件之间的）间歇；（戏剧、电影等的）幕间休息
 - Tags: time

@@ -2,7 +2,8 @@
 
 - Word: sadistic
 
-- Type: adjective
+## adjective
+
 - Meaning: getting pleasure from hurting or being cruel to someone else
 - Chinese: 虐待狂的；残酷成性的（在GOT当中，用于形容王子Joffrey）
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: hassle
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: (a situation causing) difficulty or trouble; a situation that is annoying because it involves doing sth difficult or complicated that needs a lot of effort
 - Chinese: 困难；麻烦
 - Tags: 

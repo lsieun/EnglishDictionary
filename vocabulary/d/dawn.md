@@ -2,7 +2,8 @@
 
 - Word: dawn
 
-- Type: noun [U]
+## noun
+
 - Meaning: the time of day when light first appears
 - Chinese: 黎明；拂晓；破晓
 - Tags: time
@@ -13,7 +14,8 @@
 - Eg.: summer's early dawns 夏日早到的黎明
 - Eg.: He works from dawn till dusk(= from morning till night). 他从早到晚地工作。
 
-- Type: noun [S]
+## noun
+
 - Meaning: the beginning or first signs of sth
 - Chinese: 开端；曙光；萌芽
 - Tags: 

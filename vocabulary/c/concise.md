@@ -3,7 +3,8 @@
 - Word: concise
 - Story: If something is concise, it's short and gets right to the point. A concise edition of your diary might be 50 pages of the most important entries.
 
-- Type: adjective
+## adjective
+
 - Meaning: giving only the information that is necessary and important, using few words
 - Chinese: 简明的；简练的；简洁的
 - Tags: expression::short

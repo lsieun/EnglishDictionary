@@ -2,7 +2,8 @@
 
 - Word: successor
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person or thing that comes after sb/sth else and takes their/its place
 - Chinese: 接替者；继任者；接替的事物；后继的事物
 - Tags: 

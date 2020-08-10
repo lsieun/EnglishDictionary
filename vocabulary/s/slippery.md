@@ -3,7 +3,8 @@
 - Word: slippery
 - Cognate: slip
 
-- Type: adjective
+## adjective
+
 - Meaning: difficult to hold or to stand or move on, because it is smooth, wet or polished
 - Chinese: 滑的；滑得抓不住（或站不稳、难以行走）的
 - Tags: smooth

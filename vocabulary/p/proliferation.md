@@ -2,7 +2,8 @@
 
 - Word: proliferation
 
-- Type: noun [U]
+## noun
+
 - Meaning: the sudden increase in the number or amount of sth;
 - Chinese: 激增；增殖；增生
 - Tags: number::increase:fast

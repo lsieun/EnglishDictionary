@@ -1,20 +1,11 @@
 # acupuncture
 
 - Word: acupuncture
-- Cognate: 
-- Story: 
+- Similar: aperture
 
-- Type: noun [C]
-- Plural: 
-- Single: 
-- Comparative: 
+## noun
+
 - Meaning: a Chinese method of treating pain and illness using special thin needles which are pushed into the skin in particular parts of the body
 - Chinese: 针刺疗法；针灸疗法
 - Tags: medical
-- Synonyms: 
-- Antonyms: 
-- Similar: aperture
-- Use: 
-- Eg.: 
-- Picture: 
 

@@ -2,7 +2,8 @@
 
 - Word: proprietor
 
-- Type: noun [C]
+## noun
+
 - Meaning: the owner of a business, a hotel, etc.
 - Chinese: 业主；所有人
 - Tags: person, property

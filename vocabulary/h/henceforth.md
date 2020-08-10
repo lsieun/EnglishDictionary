@@ -2,7 +2,8 @@
 
 - Word: henceforth
 
-- Type: adverb
+## adverb
+
 - Meaning: starting from a particular time and at all times in the future
 - Chinese: 此后；从此以后
 - Tags: 

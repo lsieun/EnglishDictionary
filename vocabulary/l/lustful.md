@@ -3,7 +3,8 @@
 - Word: lustful
 - Cognate: lust
 
-- Type: adjective
+## adjective
+
 - Meaning: feeling or showing strong sexual desire
 - Chinese: 有强烈性欲的；好色的
 - Tags: emotion::desire

@@ -2,7 +2,8 @@
 
 - Word: deceit
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: dishonest behaviour that is intended to make sb believe sth that is not true; (an act of) keeping the truth hidden, especially to get an advantage
 - Chinese: 欺骗，欺诈（行为）
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: regard
 
-- Type: noun [U]
+## noun
+
 - Meaning: the condition of being honored (esteemed or respected or well regarded)
 - Chinese: 尊重；尊敬
 - Tags: 

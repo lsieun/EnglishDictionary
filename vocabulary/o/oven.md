@@ -3,7 +3,8 @@
 - Word: oven
 - Story: An oven is a device for baking food using heat. You probably scramble eggs on your stove but bake cupcakes in your oven.
 
-- Type: noun [C]
+## noun
+
 - Meaning: the part of a cooker with a door, used to bake or roast food
 - Chinese: 烤箱；烤炉
 - Tags: food, tools

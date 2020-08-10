@@ -2,7 +2,8 @@
 
 - Word: arable
 
-- Type: adjective
+## adjective
+
 - Meaning: connected with growing crops such as wheat
 - Chinese: 耕作的；可耕的
 - Tags: 

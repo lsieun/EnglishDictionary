@@ -2,7 +2,8 @@
 
 - Word: ratchet
 
-- Type: verb [I/T]
+## verb
+
 - Meaning: to change an activity, amount, or feeling by degrees
 - Chinese: 调整/改变...的强度
 - Tags: 

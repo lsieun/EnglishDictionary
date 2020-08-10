@@ -1,8 +1,10 @@
 # adversity
 
 - Word: adversity
+- Cognate: adverse
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: a difficult or unlucky situation or event
 - Chinese: 困境；逆境
 - Tags: situation

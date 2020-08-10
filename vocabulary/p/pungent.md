@@ -2,7 +2,8 @@
 
 - Word: pungent
 
-- Type: adjective
+## adjective
+
 - Meaning: having a strong taste or smell
 - Chinese: 味道（或气味）强烈的；刺激性的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: persevere
 
-- Type: verb [I]
+## verb
+
 - Meaning: to continue trying to do or achieve sth despite difficulties
 - Chinese: 坚持；孜孜以求（这个单词有趣的地方：per+se+ve+re）
 - Tags: 

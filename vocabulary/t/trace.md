@@ -2,7 +2,8 @@
 
 - Word: trace
 
-- Type: noun [C]
+## noun
+
 - Meaning: a very small amount of sth
 - Chinese: 微量；少许
 - Tags: 

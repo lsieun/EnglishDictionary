@@ -2,7 +2,8 @@
 
 - Word: inferno
 
-- Type: noun [C]
+## noun
+
 - Meaning: a very large dangerous fire that is out of control
 - Chinese: 无法控制的大火
 - Tags: 

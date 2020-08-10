@@ -2,7 +2,8 @@
 
 - Word: spawn
 
-- Type: verb [T]
+## verb
+
 - Meaning: to cause something new, or many new things, to grow or start suddenly
 - Chinese: 导致；引发；引起
 - Tags: 

@@ -3,7 +3,8 @@
 - Word: minutia
 - Story: The tiny details of anything can be called minutiae. Minutia — which you'll usually see as minutiae, the plural version — is a little like trivia.
 
-- Type: noun [C]
+## noun
+
 - Plural: minutiae
 - Meaning: very small details
 - Chinese: 微小的细节

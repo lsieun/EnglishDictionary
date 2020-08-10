@@ -2,7 +2,8 @@
 
 - Word: yuck
 
-- Type: int.
+## int.
+
 - Meaning: used to show that you think sth is disgusting or unpleasant
 - Chinese: （表示憎厌）讨厌，可恶
 - Tags: 

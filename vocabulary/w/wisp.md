@@ -2,7 +2,8 @@
 
 - Word: wisp
 
-- Type: noun [C]
+## noun
+
 - Meaning: a long thin line of smoke or cloud
 - Chinese: （烟、云等的）一缕
 - Tags: 

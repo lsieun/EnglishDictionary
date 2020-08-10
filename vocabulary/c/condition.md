@@ -2,7 +2,8 @@
 
 - Word: condition
 
-- Type: noun [C]
+## noun
+
 - Meaning: the state that sth is in
 - Chinese: 状态；状况（过去，我所熟悉的意思是“条件”，满足某些条件；现在，我了解到，它表示某种事物的状态）
 - Tags: 

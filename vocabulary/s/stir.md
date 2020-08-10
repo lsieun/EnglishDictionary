@@ -2,7 +2,8 @@
 
 - Word: stir
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make sb excited or make them feel sth strongly
 - Chinese: 一种外在的事物，让内心萌动强烈的情感
 - Tags: person::emotion

@@ -2,7 +2,8 @@
 
 - Word: assassinate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to murder an important or famous person, especially for political reasons
 - Chinese: （尤为政治目的）暗杀，行刺
 - Tags: 

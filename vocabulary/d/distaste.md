@@ -2,7 +2,8 @@
 
 - Word: distaste
 
-- Type: noun [U]
+## noun
+
 - Meaning: a dislike of something that you find unpleasant or unacceptable
 - Chinese: 厌恶；不喜欢
 - Tags: emotion

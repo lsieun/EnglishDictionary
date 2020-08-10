@@ -2,7 +2,8 @@
 
 - Word: physiology
 
-- Type: noun [U]
+## noun
+
 - Meaning: the way in which a particular living thing functions
 - Chinese: 生理机能
 - Tags: 

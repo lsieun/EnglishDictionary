@@ -2,7 +2,8 @@
 
 - Word: split-second
 
-- Type: adjective
+## adjective
+
 - Meaning: carried out instantly, or depending on instant skill or judgment
 - Chinese: 一瞬间作出的
 - Tags: 

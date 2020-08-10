@@ -2,7 +2,8 @@
 
 - Word: naturally
 
-- Type: adverb
+## adverb
+
 - Meaning: as a normal, logical result of sth
 - Chinese: 合理地；理所当然地；顺理成章地
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: dismissive
 
-- Type: adjective
+## adjective
+
 - Meaning: showing that you do not believe a person or thing to be important or worth considering
 - Chinese: 轻蔑的；鄙视的
 - Tags: 

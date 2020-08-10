@@ -2,7 +2,8 @@
 
 - Word: installment
 
-- Type: noun [C]
+## noun
+
 - Meaning: one of a series of sums of money paid at regular intervals to settle a debt; one of several payments that an amount of money is divided into, so that you do not have to pay the whole amount at one time
 - Chinese: 分期付款中的每期应付款
 - Tags: 

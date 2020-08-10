@@ -2,7 +2,8 @@
 
 - Word: project
 
-- Type: verb [T]
+## verb
+
 - Meaning: to send or throw sth up or away from yourself
 - Chinese: 投掷；抛射；发送
 - Tags: 

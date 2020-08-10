@@ -2,7 +2,8 @@
 
 - Word: expanse
 
-- Type: noun [C]
+## noun
+
 - Meaning: a wide and open area of sth, especially land or water
 - Chinese: 一大片，广阔，宽广，浩瀚（尤指陆地或海洋）
 - Tags: 

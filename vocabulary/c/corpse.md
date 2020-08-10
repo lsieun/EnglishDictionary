@@ -2,9 +2,9 @@
 
 - Word: corpse
 
-- Type: noun [C]
+## noun
+
 - Meaning: a dead body, usually of a person
 - Chinese: 尸体；死尸
 - Tags: person::body
-- Eg.: 
 

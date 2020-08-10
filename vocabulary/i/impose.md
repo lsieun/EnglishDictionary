@@ -2,7 +2,8 @@
 
 - Word: impose
 
-- Type: verb [T]
+## verb
+
 - Meaning: to introduce a new law, rule, tax, etc.; to order that a rule, punishment, etc. be used
 - Chinese: 推行，采用（规章制度）；强制实行
 - Tags: rule

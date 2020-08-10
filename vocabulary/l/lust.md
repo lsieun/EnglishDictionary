@@ -3,7 +3,8 @@
 - Word: lust
 - Story: Lust – to have an intense desire or need: “But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart”
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: very strong desire for sth or enjoyment of sth
 - Chinese: 强烈欲望；享受欲
 - Tags: emotion::desire

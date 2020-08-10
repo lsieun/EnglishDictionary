@@ -2,7 +2,8 @@
 
 - Word: overjoyed
 
-- Type: adjective
+## adjective
+
 - Meaning: extremely happy or pleased
 - Chinese: 非常高兴；欣喜若狂
 - Tags: person::emotion, emotion::glad

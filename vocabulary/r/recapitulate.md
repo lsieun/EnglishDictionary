@@ -2,7 +2,8 @@
 
 - Word: recapitulate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to repeat or give a summary of what has already been said, decided, etc.
 - Chinese: 重述；概括
 - Tags: 

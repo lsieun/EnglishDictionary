@@ -2,7 +2,8 @@
 
 - Word: spice
 
-- Type: noun [C or U]
+## noun
+
 - Plural: spices
 - Meaning: one of the various types of powder or seed that come from plants and are used in cooking, to give a special flavour to food
 - Chinese: 调味品

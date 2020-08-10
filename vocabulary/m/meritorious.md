@@ -2,7 +2,8 @@
 
 - Word: meritorious
 
-- Type: adjective
+## adjective
+
 - Meaning: deserving praise
 - Chinese: 值得赞扬的
 - Tags: 

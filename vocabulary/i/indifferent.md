@@ -2,7 +2,8 @@
 
 - Word: indifferent
 
-- Type: adjective
+## adjective
+
 - Meaning: having or showing no interest in sb/sth
 - Chinese: 漠不关心；不感兴趣
 - Tags: 

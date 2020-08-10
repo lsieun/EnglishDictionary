@@ -2,7 +2,8 @@
 
 - Word: downfall
 
-- Type: noun [S]
+## noun
+
 - Meaning: (something that causes) the usually sudden destruction of a person, organization, or government and their loss of power, money, or health
 - Chinese: 衰落；衰败；垮台
 - Tags: 

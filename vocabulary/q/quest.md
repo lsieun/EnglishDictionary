@@ -2,7 +2,8 @@
 
 - Word: quest
 
-- Type: noun [U]
+## noun
+
 - Meaning: a long search for sth, especially for some quality such as happiness
 - Chinese: 探索，寻找，追求（幸福等）
 - Tags: 

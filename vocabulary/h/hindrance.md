@@ -2,7 +2,8 @@
 
 - Word: hindrance
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person or thing that makes it more difficult for sb to do sth or for sth to happen
 - Chinese: 造成妨碍的人（或事物）
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: fuss
 
-- Type: noun [U]
+## noun
+
 - Meaning: unnecessary excitement, worry or activity
 - Chinese: 无谓的激动（或忧虑、活动）；大惊小怪
 - Tags: 

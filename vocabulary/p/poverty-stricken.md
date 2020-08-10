@@ -2,7 +2,8 @@
 
 - Word: poverty-stricken
 
-- Type: adjective
+## adjective
+
 - Meaning: extremely poor; with very little money
 - Chinese: 赤贫的；一贫如洗的
 - Tags: money

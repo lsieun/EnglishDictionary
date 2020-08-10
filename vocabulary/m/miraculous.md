@@ -2,7 +2,8 @@
 
 - Word: miraculous
 
-- Type: adjective
+## adjective
+
 - Meaning: like a miracle ; completely unexpected and very lucky
 - Chinese: 奇迹般的；不可思议的；不平凡的
 - Tags: 

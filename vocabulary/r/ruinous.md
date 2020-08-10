@@ -2,7 +2,8 @@
 
 - Word: ruinous
 
-- Type: adjective
+## adjective
+
 - Meaning: causing serious problems or damage
 - Chinese: 破坏性的；导致严重问题的；灾难性的
 - Tags: 

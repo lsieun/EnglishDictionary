@@ -2,7 +2,8 @@
 
 - Word: facilitate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make something possible or easier
 - Chinese: 促进；促使；使便利
 - Tags: 

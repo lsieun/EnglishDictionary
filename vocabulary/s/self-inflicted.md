@@ -2,7 +2,8 @@
 
 - Word: self-inflicted
 
-- Type: adjective
+## adjective
+
 - Meaning: a self-inflicted injury, problem, etc. is one that you cause for yourself
 - Chinese: 加于自身的；自伤的
 - Tags: 

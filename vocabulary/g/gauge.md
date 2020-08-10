@@ -3,21 +3,24 @@
 - Word: gauge
 - Story: If you ask your friend, "How do you feel, generally, about loaning your car to people?" your intention might be to gauge his reaction before you flat-out ask if you can borrow his car. To gauge is to measure or test.
 
-- Type: noun [C]
+## noun
+
 - Meaning: a device for measuring the amount or size of something
 - Chinese: 测量仪器（或仪表）
 - Tags: device::measure
 - Eg.: a fuel/petrol/temperature, etc. gauge 燃料表、汽油量表、温度计等
 - Picture: ![gauge](images/gauge.jpg)
 
-- Type: verb [T]
+## verb
+
 - Meaning: to measure sth accurately using a special instrument
 - Chinese: （用仪器）测量
 - Tags: device::measure
 - Use: ~ sth
 - Eg.: precision instruments that can gauge the diameter to a fraction of a millimetre 可测出直径为若干分之一毫米的精密仪器
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make a judgement about sth, especially people's feelings or attitudes
 - Chinese: 判定，判断（尤指人的感情或态度）
 - Tags: measure

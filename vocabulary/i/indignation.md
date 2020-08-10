@@ -2,7 +2,8 @@
 
 - Word: indignation
 
-- Type: noun [U]
+## noun
+
 - Meaning: a feeling of anger and surprise caused by sth that you think is unfair or unreasonable
 - Chinese: 愤慨；愤怒
 - Tags: emotion::anger

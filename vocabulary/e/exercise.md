@@ -2,7 +2,8 @@
 
 - Word: exercise
 
-- Type: verb [T]
+## verb
+
 - Meaning: to use your power, rights or personal qualities in order to achieve sth
 - Chinese: 行使；使用；运用
 - Tags: 

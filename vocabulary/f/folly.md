@@ -2,7 +2,8 @@
 
 - Word: folly
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: a lack of good judgement; the fact of doing sth stupid; an activity or idea that shows a lack of judgement
 - Chinese: 愚蠢；愚笨；愚蠢的想法（或事情、行为）
 - Tags: person::mind, person::behavior

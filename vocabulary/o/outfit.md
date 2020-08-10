@@ -2,7 +2,8 @@
 
 - Word: outfit
 
-- Type: verb [T]
+## verb
+
 - Meaning: to provide sb/sth with equipment or clothes for a special purpose
 - Chinese: 装备；配置设备；供给服装
 - Tags: 

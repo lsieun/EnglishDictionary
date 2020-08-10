@@ -2,7 +2,8 @@
 
 - Word: thud
 
-- Type: noun [C]
+## noun
+
 - Meaning: a sound like the one which is made when a heavy object hits sth else
 - Chinese: 砰的一声；扑通一声
 - Tags: sound

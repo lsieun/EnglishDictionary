@@ -2,7 +2,8 @@
 
 - Word: rusty
 
-- Type: adjective
+## adjective
+
 - Meaning: not as good as it used to be, because you have not been practising
 - Chinese: 荒疏；荒废；退步
 - Tags: 

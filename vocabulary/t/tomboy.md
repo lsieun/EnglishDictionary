@@ -2,7 +2,8 @@
 
 - Word: tomboy
 
-- Type: noun [C]
+## noun
+
 - Meaning: a young girl who enjoys activities and games that are traditionally considered to be for boys
 - Chinese: 假小子，野丫头（喜欢男孩玩意儿的女孩子）
 - Tags: person

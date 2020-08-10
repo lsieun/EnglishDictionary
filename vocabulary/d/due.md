@@ -2,7 +2,8 @@
 
 - Word: due
 
-- Type: noun [C]
+## noun
+
 - Meaning: that is suitable or right in the circumstances
 - Chinese: 适当的；恰当的；合适的（我觉得，有点“中庸”的意思，不会多，也不会少，正是恰恰、刚好）
 - Tags: degree::middle

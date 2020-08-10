@@ -2,7 +2,8 @@
 
 - Word: pinch
 
-- Type: noun [C]
+## noun
+
 - Meaning: an act of squeezing a part of sb's skin tightly between your thumb and finger, especially in order to hurt them
 - Chinese: 捏；掐；拧
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: expressive
 
-- Type: adjective
+## adjective
+
 - Meaning: showing or able to show your thoughts and feelings
 - Chinese: 富于表情的；有表现力的
 - Tags: 

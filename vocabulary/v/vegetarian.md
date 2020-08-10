@@ -2,7 +2,8 @@
 
 - Word: vegetarian
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who does not eat meat or fish
 - Chinese: 素食者；吃素的人
 - Tags: person

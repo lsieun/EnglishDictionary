@@ -2,7 +2,8 @@
 
 - Word: wordy
 
-- Type: adjective
+## adjective
+
 - Meaning: using too many words, especially formal ones
 - Chinese: 话多的；冗长的；啰嗦的
 - Tags: expression::long

@@ -2,7 +2,8 @@
 
 - Word: infamous
 
-- Type: adjective
+## adjective
+
 - Meaning: well known for being bad or evil
 - Chinese: 臭名远扬的；声名狼藉的
 - Tags: 

@@ -1,8 +1,10 @@
 # adherent
 
 - Word: adherent
+- Cognate: adhere
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who strongly supports a particular person, principle, or set of ideas
 - Chinese: 拥护者，追随者，信徒
 - Tags: person

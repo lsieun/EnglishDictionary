@@ -3,7 +3,8 @@
 - Word: unobtrusive
 - Cognate: obtrusive
 
-- Type: adjective
+## adjective
+
 - Meaning: not attracting unnecessary attention
 - Chinese: 不引人注目的；不张扬的；不招摇的（我理解，这是一个比较好的词，因为“它不吸引不必要的关注”）
 - Tags: 

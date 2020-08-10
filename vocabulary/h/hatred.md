@@ -4,7 +4,8 @@
 - Story: The noun hatred means to feel a strong emotional dislike toward something or someone. You feel hatred of people who have done terrible things to you, or books about too-perfect teens.
 - Story: Hatred comes from Old English hete, which means "hate," plus the suffix red (ræden), which means "the condition of." If you find after twenty years of marriage you no longer like your husband, you may be able to work it out. If you feel hatred towards him, your differences may be irreconcilable.
 
-- Type: noun [U]
+## noun
+
 - Meaning: a very strong feeling of dislike for sb/sth
 - Chinese: 仇恨；憎恨；厌恶
 - Tags: emotion::strong, emotion::hate

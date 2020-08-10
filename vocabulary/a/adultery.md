@@ -1,8 +1,10 @@
 # adultery
 
 - Word: adultery
+- Similar: adult
 
-- Type: noun [U]
+## noun
+
 - Meaning: sex between a married man or woman and someone he or she is not married to
 - Chinese: 通奸
 - Tags: crime

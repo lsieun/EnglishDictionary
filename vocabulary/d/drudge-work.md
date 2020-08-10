@@ -2,8 +2,9 @@
 
 - Word: drudge-work
 
-- Type: noun [U]
-- Meaning: null
+## noun
+
+- Meaning: work that is menial and tedious and therefore distasteful; drudgery.
 - Chinese: 艰苦工作
 - Tags: 
 - Eg.: Much of the "drudge work" of compliance can be automated through tooling. 许多遵循“某种工作模式”的“艰苦工作”可以通过工具来自动化。

@@ -2,7 +2,8 @@
 
 - Word: perish
 
-- Type: verb [I]
+## verb
+
 - Meaning: to die, especially in a sudden violent way
 - Chinese: 死亡；暴死
 - Tags: 

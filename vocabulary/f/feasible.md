@@ -2,7 +2,8 @@
 
 - Word: feasible
 
-- Type: adjective
+## adjective
+
 - Meaning: that is possible and likely to be achieved
 - Chinese: 可行的；行得通的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: deflate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to let air or gas out of a tyre, balloon , etc.; to become smaller because of air or gas coming out
 - Chinese: 放掉（轮胎、气球等的）气；（使）瘪下来
 - Tags: 

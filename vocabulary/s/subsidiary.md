@@ -2,7 +2,8 @@
 
 - Word: subsidiary
 
-- Type: adjective
+## adjective
+
 - Meaning: connected with sth but less important than it
 - Chinese: 辅助的；附带的；次要的
 - Tags: 

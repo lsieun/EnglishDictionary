@@ -1,11 +1,11 @@
 # fiend
 
 - Word: fiend
+- Similar: friend
 
-- Type: noun [C]
+## noun
+
 - Meaning: an evil spirit
 - Chinese: 魔鬼；恶魔
 - Tags: 
-- Similar: friend
-- Eg.: 
 

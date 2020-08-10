@@ -2,7 +2,8 @@
 
 - Word: high-profile
 
-- Type: adjective
+## adjective
+
 - Meaning: receiving or involving a lot of attention and discussion on television, in newspapers, etc; a position attracting much attention and publicity
 - Chinese: 引人注目的
 - Tags: 

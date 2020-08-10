@@ -2,7 +2,8 @@
 
 - Word: exaggerate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make sth seem larger, better, worse or more important than it really is
 - Chinese: 夸张；夸大；言过其实
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: fathom
 
-- Type: verb [T]
+## verb
+
 - Meaning: to understand or find an explanation for sth
 - Chinese: 理解；彻底了解；弄清真相
 - Tags: 

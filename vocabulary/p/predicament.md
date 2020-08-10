@@ -2,7 +2,8 @@
 
 - Word: predicament
 
-- Type: noun [C]
+## noun
+
 - Meaning: a difficult or unpleasant situation, especially one where it is difficult to know what to do
 - Chinese: 尴尬的处境；困境；窘境
 - Tags: situation

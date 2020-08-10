@@ -2,7 +2,8 @@
 
 - Word: slumber
 
-- Type: noun [C]
+## noun
+
 - Meaning: the state of being asleep, or a period of sleep
 - Chinese: 睡眠
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: deference
 
-- Type: noun [U]
+## noun
+
 - Meaning: behaviour that shows that you respect sb/sth
 - Chinese: 尊重；遵从；听从
 - Tags: 

@@ -2,9 +2,9 @@
 
 - Word: eavesdropper
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who listens to someone's private conversation without them knowing
 - Chinese: 偷听者；窃听者
-- Tags: 
-- Eg.: 
+- Tags: person
 

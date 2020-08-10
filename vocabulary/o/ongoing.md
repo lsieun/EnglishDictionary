@@ -2,7 +2,8 @@
 
 - Word: ongoing
 
-- Type: adjective
+## adjective
+
 - Meaning: continuing to exist or develop
 - Chinese: 持续存在的；仍在进行的；不断发展的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: renewed
 
-- Type: adjective
+## adjective
+
 - Meaning: happening again with increased interest or strength
 - Chinese: 再次发生的；再次兴起的；更新的
 - Tags: 

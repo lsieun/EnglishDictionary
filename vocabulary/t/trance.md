@@ -2,7 +2,8 @@
 
 - Word: trance
 
-- Type: noun [C]
+## noun
+
 - Meaning: a state in which sb seems to be asleep but is aware of what is said to them, for example if they are hypnotized
 - Chinese: 昏睡状态；催眠状态
 - Tags: person::mind

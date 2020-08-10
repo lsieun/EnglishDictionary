@@ -3,7 +3,8 @@
 - Word: worthwhile
 - Story: Things that are worthwhile are good — they're worth the time or money you spend on them.
 
-- Type: adjective
+## adjective
+
 - Meaning: important, enjoyable, interesting, etc.; worth spending time, money or effort on
 - Chinese: 重要的；令人愉快的；有趣的；值得花时间（或花钱、努力等）
 - Tags: 

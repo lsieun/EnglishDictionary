@@ -2,7 +2,8 @@
 
 - Word: ruthless
 
-- Type: adjective
+## adjective
+
 - Meaning: hard and cruel; determined to get what you want and not caring if you hurt other people
 - Chinese: 残酷无情的；残忍的
 - Tags: 

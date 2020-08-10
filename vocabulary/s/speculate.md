@@ -2,7 +2,8 @@
 
 - Word: speculate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to form an opinion about sth without knowing all the details or facts
 - Chinese: 在信息缺失的情况下，对推测某种东西是什么样的
 - Tags: 

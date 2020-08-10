@@ -2,7 +2,8 @@
 
 - Word: far-fetched
 
-- Type: adjective
+## adjective
+
 - Meaning: very difficult to believe
 - Chinese: 难以置信的；牵强的
 - Tags: cognition

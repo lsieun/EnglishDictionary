@@ -2,7 +2,8 @@
 
 - Word: contentment
 
-- Type: noun [U]
+## noun
+
 - Meaning: happiness and satisfaction, often because you have everything you need
 - Chinese: 满意；知足
 - Tags: 

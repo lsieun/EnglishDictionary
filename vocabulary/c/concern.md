@@ -2,7 +2,8 @@
 
 - Word: concern
 
-- Type: verb [T]
+## verb
+
 - Meaning: to take an interest in sth
 - Chinese: （对…）感兴趣
 - Tags: heart

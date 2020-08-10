@@ -2,7 +2,8 @@
 
 - Word: vapor
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: a gas that escapes from a liquid or solid, esp. as a result of heating
 - Chinese: 水蒸气
 - Tags: water

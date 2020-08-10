@@ -2,7 +2,8 @@
 
 - Word: handy
 
-- Type: adjective
+## adjective
+
 - Meaning: easy to use
 - Chinese: 易使用的；便利的
 - Tags: 

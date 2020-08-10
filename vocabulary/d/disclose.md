@@ -2,7 +2,8 @@
 
 - Word: disclose
 
-- Type: verb [T]
+## verb
+
 - Meaning: to give sb information about sth, especially sth that was previously secret
 - Chinese: 揭露；透露
 - Tags: secret

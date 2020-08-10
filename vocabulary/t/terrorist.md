@@ -2,7 +2,8 @@
 
 - Word: terrorist
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who takes part in terrorism
 - Chinese: 恐怖主义者；恐怖分子
 - Tags: person, emotion::fear

@@ -4,7 +4,8 @@
 - Story: **Spiritual things are concerned with sacred matters or religion, affecting the spirit or the soul**. Spiritual entities like ghosts lack a material body or substance.
 - Story: Spiritual is the adjective form of the word spirit, which comes from the Latin word for "breath," and means the thing that animates life. Spiritual can be used to talk about anything that goes beyond mere physical existence, from ghost spirits to religious feelings. As a noun, spiritual describes a religious song originating in the African-American culture of the American South.
 
-- Type: adjective
+## adjective
+
 - Meaning: connected with the human spirit, rather than the body or physical things
 - Chinese: 精神的；心灵的
 - Tags: 

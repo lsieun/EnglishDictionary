@@ -2,7 +2,8 @@
 
 - Word: pharmacist
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person whose job is to prepare medicines and sell or give them to the public in a shop/store or in a hospital
 - Chinese: 药剂师
 - Tags: person, doctor

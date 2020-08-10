@@ -2,7 +2,8 @@
 
 - Word: vagabond
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who has no home or job and who travels from place to place
 - Chinese: 流浪汉；无业游民；漂泊者
 - Tags: person

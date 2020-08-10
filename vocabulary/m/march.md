@@ -2,7 +2,8 @@
 
 - Word: march
 
-- Type: noun [C]
+## noun
+
 - Meaning: the steady development or forward movement of sth
 - Chinese: 稳步发展；稳步前进t
 - Tags: time

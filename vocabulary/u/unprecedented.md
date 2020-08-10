@@ -2,7 +2,8 @@
 
 - Word: unprecedented
 
-- Type: adjective
+## adjective
+
 - Meaning: that has never happened, been done or been known before
 - Chinese: 前所未有的；空前的；没有先例的
 - Tags: 

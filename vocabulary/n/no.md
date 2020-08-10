@@ -2,7 +2,8 @@
 
 - Word: no
 
-- Type: det.
+## det.
+
 - Meaning: not one; not any; not a
 - Chinese: 没有；无
 - Tags: 

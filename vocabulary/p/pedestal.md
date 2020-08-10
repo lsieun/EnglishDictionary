@@ -2,7 +2,8 @@
 
 - Word: pedestal
 
-- Type: noun [C]
+## noun
+
 - Meaning: a long, thin column that supports a statue, or a tall structure like a column on which something rests
 - Chinese: （柱子或雕塑等的）底座，基座
 - Tags: 

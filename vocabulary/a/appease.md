@@ -2,7 +2,8 @@
 
 - Word: appease
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make sb calmer or less angry by giving them what they want
 - Chinese: 安抚；抚慰
 - Tags: 

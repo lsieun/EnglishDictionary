@@ -1,20 +1,11 @@
 # aperture
 
 - Word: aperture
-- Cognate: 
-- Story: 
+- Similar: acupuncture
 
-- Type: noun [C]
-- Plural: 
-- Single: 
-- Comparative: 
+## noun
+
 - Meaning: a small opening in sth
 - Chinese: 小孔；缝隙
 - Tags: 
-- Synonyms: 
-- Antonyms: 
-- Similar: acupuncture
-- Use: 
-- Eg.: 
-- Picture: 
 

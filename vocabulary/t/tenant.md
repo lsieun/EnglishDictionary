@@ -2,7 +2,8 @@
 
 - Word: tenant
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who pays rent for the use of a room, building, land, etc. to the person who owns it
 - Chinese: 房客；租户；佃户(diàn,向地主或官府租种土地的农民)
 - Tags: 

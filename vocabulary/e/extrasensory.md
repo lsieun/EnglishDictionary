@@ -2,7 +2,8 @@
 
 - Word: extrasensory
 
-- Type: adjective
+## adjective
+
 - Meaning: relating to or involving powers of perception other than the normal five senses
 - Chinese: 超感官的；神通力
 - Tags: sensory::extra

@@ -2,7 +2,8 @@
 
 - Word: venture
 
-- Type: verb [I]
+## verb
+
 - Meaning: dare to do something or go somewhere that may be dangerous or unpleasant.
 - Chinese: 敢于做……事情
 - Tags: 

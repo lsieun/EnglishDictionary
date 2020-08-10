@@ -2,7 +2,8 @@
 
 - Word: household
 
-- Type: noun [C]
+## noun
+
 - Meaning: the people who live in a house or apartment when they are considered as a single unit
 - Chinese: 一家人；家庭；同住一所（或一套）房子的人
 - Tags: home

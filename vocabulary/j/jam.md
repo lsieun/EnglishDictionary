@@ -2,7 +2,8 @@
 
 - Word: jam
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: a sweet, soft food made by cooking fruit with sugar to preserve it. It is eaten on bread
 - Chinese: 果酱
 - Tags: food

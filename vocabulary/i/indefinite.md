@@ -2,7 +2,8 @@
 
 - Word: indefinite
 
-- Type: adjective
+## adjective
+
 - Meaning: lasting for a period of time that has no fixed end
 - Chinese: 无限期的；期限不定的
 - Tags: 

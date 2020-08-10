@@ -2,7 +2,8 @@
 
 - Word: wildfire
 
-- Type: noun [C]
+## noun
+
 - Meaning: a fire that is burning strongly and out of control on an area of grass or bushes in the countryside
 - Chinese: 野火
 - Tags: fire

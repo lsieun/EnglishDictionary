@@ -2,7 +2,8 @@
 
 - Word: vigilant
 
-- Type: adjective
+## adjective
+
 - Meaning: very careful to notice any signs of danger or trouble
 - Chinese: 警觉的；警惕的；警戒的；谨慎
 - Tags: 

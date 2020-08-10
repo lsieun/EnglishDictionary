@@ -2,7 +2,8 @@
 
 - Word: tattletale
 
-- Type: noun [C]
+## noun
+
 - Meaning: a child who tells an adult what another child has done wrong
 - Chinese: 向大人告另一个孩子状的小孩；小告密者
 - Tags: 

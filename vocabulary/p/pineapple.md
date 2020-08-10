@@ -2,7 +2,8 @@
 
 - Word: pineapple
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: a large tropical fruit with thick rough skin, sweet yellow flesh with a lot of juice and stiff leaves on top
 - Chinese: 菠萝；凤梨
 - Tags: fruit::tropical

@@ -2,7 +2,8 @@
 
 - Word: earnest
 
-- Type: adjective
+## adjective
+
 - Meaning: very serious and sincere
 - Chinese: 非常认真的；诚实的；真诚的
 - Tags: attitude

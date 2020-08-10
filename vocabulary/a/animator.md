@@ -2,9 +2,9 @@
 
 - Word: animator
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who makes animated films
 - Chinese: 动画片制作者；动画片绘制者
-- Tags: 
-- Eg.: 
+- Tags: person
 

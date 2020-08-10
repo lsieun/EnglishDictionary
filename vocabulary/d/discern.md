@@ -2,7 +2,8 @@
 
 - Word: discern
 
-- Type: verb [T]
+## verb
+
 - Meaning: to know, recognize or understand sth, especially sth that is not obvious
 - Chinese: 觉察出；识别；了解
 - Tags: 

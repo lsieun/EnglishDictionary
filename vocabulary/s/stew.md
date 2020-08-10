@@ -2,7 +2,8 @@
 
 - Word: stew
 
-- Type: verb [T]
+## verb
+
 - Meaning: to cook meat, fish, vegetables, or fruit slowly and gently in a little liquid
 - Chinese: 炖
 - Tags: cook, food

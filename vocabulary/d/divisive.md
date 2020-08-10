@@ -2,7 +2,8 @@
 
 - Word: divisive
 
-- Type: adjective
+## adjective
+
 - Meaning: causing people to be split into groups that disagree with or oppose each other
 - Chinese: 造成不和的；引起分歧的；制造分裂的
 - Tags: 

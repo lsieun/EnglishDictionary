@@ -2,7 +2,8 @@
 
 - Word: nourishment
 
-- Type: noun [U]
+## noun
+
 - Meaning: food that is needed to stay alive, grow and stay healthy
 - Chinese: 营养；营养品
 - Tags: food

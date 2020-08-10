@@ -2,7 +2,8 @@
 
 - Word: bluntly
 
-- Type: adverb
+## adverb
+
 - Meaning: in a very direct way, without trying to be polite or kind
 - Chinese: 直言地；单刀直入地
 - Tags: 

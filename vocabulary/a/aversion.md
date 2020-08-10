@@ -2,7 +2,8 @@
 
 - Word: aversion
 
-- Type: noun [C]
+## noun
+
 - Meaning: a strong feeling of not liking sb/sth
 - Chinese: 厌恶；憎恶
 - Tags: emotion

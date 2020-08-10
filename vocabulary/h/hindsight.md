@@ -2,7 +2,8 @@
 
 - Word: hindsight
 
-- Type: noun [U]
+## noun
+
 - Meaning: the understanding that you have of a situation only after it has happened and that means you would have done things in a different way; the ability to understand an event or situation only after it has happened
 - Chinese: 事后聪明；事后的领悟
 - Tags: 

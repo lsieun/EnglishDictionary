@@ -3,7 +3,8 @@
 - Word: grok
 - Story: When you grok something, you just get it — in other words, you totally grasp its meaning. Once you grok your best friend's sense of humor, her jokes won't confuse you but will instead make you laugh hysterically.
 
-- Type: verb [T]
+## verb
+
 - Meaning: to understand sth completely using your feelings rather than considering the facts
 - Chinese: 通过感觉意会
 - Tags: 

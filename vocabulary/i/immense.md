@@ -2,7 +2,8 @@
 
 - Word: immense
 
-- Type: adjective
+## adjective
+
 - Meaning: extremely large or great
 - Chinese: 巨大的；大量的；浩瀚的；无限的
 - Tags: big

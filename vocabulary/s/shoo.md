@@ -2,7 +2,8 @@
 
 - Word: shoo
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make sb/sth go away or to another place, especially by saying shoo and waving your arms and hands
 - Chinese: （尤指发出嘘声并挥手）赶走，轰走
 - Tags: 

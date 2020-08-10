@@ -2,7 +2,8 @@
 
 - Word: gut
 
-- Type: noun [C]
+## noun
+
 - Meaning: the courage and determination that it takes to do sth difficult or unpleasant
 - Chinese: 勇气；胆量；决心；毅力
 - Tags: 

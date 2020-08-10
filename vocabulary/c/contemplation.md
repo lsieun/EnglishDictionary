@@ -2,10 +2,11 @@
 
 - Word: contemplation
 
-- Type: noun [C]
+## noun
+
 - Meaning: the act of thinking deeply about sth
 - Chinese: 深思；沉思
-- Tags: 
+- Tags: think
 - Synonyms: meditation
 - Eg.: He sat there deep in contemplation. 他坐在那里沉思着。
 - Eg.: a few moments of quiet contemplation 默默沉思的片刻

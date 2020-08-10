@@ -2,7 +2,8 @@
 
 - Word: compensation
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: something, especially money, that sb gives you because they have hurt you, or damaged sth that you own; the act of giving this to sb
 - Chinese: 补偿（或赔偿）物；（尤指）赔偿金，补偿金；赔偿
 - Tags: 

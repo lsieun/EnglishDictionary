@@ -2,7 +2,8 @@
 
 - Word: vigorous
 
-- Type: adjective
+## adjective
+
 - Meaning: very active or full of energy
 - Chinese: 充满活力的；精力充沛的
 - Tags: 

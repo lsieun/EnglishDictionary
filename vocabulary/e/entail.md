@@ -2,7 +2,8 @@
 
 - Word: entail
 
-- Type: verb [T]
+## verb
+
 - Meaning: to involve sth that cannot be avoided
 - Chinese: 牵涉；需要；使必要
 - Tags: include, necessary

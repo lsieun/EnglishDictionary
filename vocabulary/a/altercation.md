@@ -1,20 +1,11 @@
 # altercation
 
 - Word: altercation
-- Cognate: 
-- Story: 
+- Similar: alteration
 
-- Type: noun [C]
-- Plural: 
-- Single: 
-- Comparative: 
+## noun
+
 - Meaning: a noisy argument or disagreement
 - Chinese: 争论；争辩；争吵
-- Tags: 
-- Synonyms: 
-- Antonyms: 
-- Similar: alteration
-- Use: 
-- Eg.: 
-- Picture: 
+- Tags: talk
 

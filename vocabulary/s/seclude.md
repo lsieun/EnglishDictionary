@@ -2,7 +2,8 @@
 
 - Word: seclude
 
-- Type: verb [T]
+## verb
+
 - Meaning: to keep yourself/sb away from contact with other people
 - Chinese: （使）与…隔离，与…隔绝；（使）隐居，独处
 - Tags: 

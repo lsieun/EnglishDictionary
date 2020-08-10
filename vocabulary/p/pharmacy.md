@@ -2,7 +2,8 @@
 
 - Word: pharmacy
 
-- Type: noun [C]
+## noun
+
 - Meaning: a shop/store, or part of one, that sells medicines and drugs
 - Chinese: 药房；药店；医药柜台
 - Tags: hospital

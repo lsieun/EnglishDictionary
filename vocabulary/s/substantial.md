@@ -2,7 +2,8 @@
 
 - Word: substantial
 
-- Type: adjective
+## adjective
+
 - Meaning: large in amount, value or importance
 - Chinese: 大量的；价值巨大的；重大的
 - Tags: size::big

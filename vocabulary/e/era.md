@@ -2,7 +2,8 @@
 
 - Word: era
 
-- Type: noun [C]
+## noun
+
 - Meaning: a period of time, usually in history, that is different from other periods because of particular characteristics or events
 - Chinese: 时代；年代；纪元(一段特殊的历史时期、时间段)
 - Tags: time

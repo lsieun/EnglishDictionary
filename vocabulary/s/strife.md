@@ -2,7 +2,8 @@
 
 - Word: strife
 
-- Type: noun [U]
+## noun
+
 - Meaning: angry or violent disagreement between two people or groups of people
 - Chinese: 冲突；争斗
 - Tags: relation::bad

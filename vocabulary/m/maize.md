@@ -2,7 +2,8 @@
 
 - Word: maize
 
-- Type: noun [U]
+## noun
+
 - Meaning: a tall plant grown in many parts of the world for its yellow seeds, which are eaten as food, made into flour, or fed to animals
 - Chinese: 玉蜀黍；玉米
 - Tags: plant::crop

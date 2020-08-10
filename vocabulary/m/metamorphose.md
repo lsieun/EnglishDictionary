@@ -2,7 +2,8 @@
 
 - Word: metamorphose
 
-- Type: verb [T]
+## verb
+
 - Meaning: to change or make sth/sb change into sth completely different, especially over a period of time
 - Chinese: （使）变形，变化，发生质变
 - Tags: 

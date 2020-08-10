@@ -2,7 +2,8 @@
 
 - Word: saint
 
-- Type: noun [C]
+## noun
+
 - Meaning: a very good, kind or patient person
 - Chinese: 圣人般的人（指特别善良、仁爱或有耐性的人）
 - Tags: 

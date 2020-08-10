@@ -2,7 +2,8 @@
 
 - Word: wrath
 
-- Type: noun [U]
+## noun
+
 - Meaning: extreme anger
 - Chinese: 盛怒；震怒；怒火
 - Tags: emotion::anger, emotion::strong

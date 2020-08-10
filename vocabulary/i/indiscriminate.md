@@ -2,7 +2,8 @@
 
 - Word: indiscriminate
 
-- Type: adjective
+## adjective
+
 - Meaning: acting without careful judgement
 - Chinese: 不加分析的；不加判断的；不加选择的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: disarray
 
-- Type: noun [U]
+## noun
+
 - Meaning: a messy or confused condition, showing a lack of organization
 - Chinese: 杂乱；无秩序
 - Tags: things:state:chaos

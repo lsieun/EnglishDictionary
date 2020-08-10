@@ -2,7 +2,8 @@
 
 - Word: emulate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to copy someone’s behavior or try to be like someone else because you admire or respect that person
 - Chinese: 努力赶上；向…看齐
 - Tags: 

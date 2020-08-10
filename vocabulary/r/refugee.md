@@ -2,7 +2,8 @@
 
 - Word: refugee
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who has been forced to leave their country or home, because there is a war or for political, religious or social reasons
 - Chinese: 避难者；逃亡者；难民
 - Tags: person

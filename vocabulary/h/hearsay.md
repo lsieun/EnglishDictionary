@@ -2,7 +2,8 @@
 
 - Word: hearsay
 
-- Type: noun [U]
+## noun
+
 - Meaning: information that you have heard but do not know to be true
 - Chinese: 小道消息；道听途说；谣传
 - Tags: 

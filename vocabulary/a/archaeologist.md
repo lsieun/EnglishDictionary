@@ -2,7 +2,8 @@
 
 - Word: archaeologist
 
-- Type: noun [C]
+## noun
+
 - Meaning: someone who studies the buildings, graves, tools, and other objects of people who lived in the past
 - Chinese: 考古学家
 - Tags: person::attainments

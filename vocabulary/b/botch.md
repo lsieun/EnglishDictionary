@@ -2,7 +2,8 @@
 
 - Word: botch
 
-- Type: verb
+## verb
+
 - Meaning: to spoil sth by doing it badly
 - Chinese: 笨拙地弄糟（某事物）
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: figure
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person or an animal in a drawing, painting, etc., or in a story
 - Chinese: （绘画或故事中的）人，动物
 - Tags: 

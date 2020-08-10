@@ -2,7 +2,8 @@
 
 - Word: presumably
 
-- Type: adverb
+## adverb
+
 - Meaning: used to say that you think that sth is probably true
 - Chinese: 很可能；大概；想必是
 - Tags: 

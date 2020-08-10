@@ -2,7 +2,8 @@
 
 - Word: prejudice
 
-- Type: noun [C]
+## noun
+
 - Meaning: an unreasonable dislike of or preference for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc.
 - Chinese: 偏见；成见
 - Tags: 

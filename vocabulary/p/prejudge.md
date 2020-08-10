@@ -2,7 +2,8 @@
 
 - Word: prejudge
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make a judgement about a situation before you have all the necessary information
 - Chinese: 预先判断；过早判断
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: glossy
 
-- Type: adjective
+## adjective
+
 - Meaning: smooth and shiny
 - Chinese: 光滑的；有光泽的
 - Tags: smooth

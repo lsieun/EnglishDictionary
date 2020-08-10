@@ -3,7 +3,8 @@
 - Word: retrofit
 - Story: When you retrofit something, you replace old parts with new ones.
 
-- Type: verb [T]
+## verb
+
 - Meaning: to put a new piece of equipment into a machine that did not have it when it was built; to provide a machine with a new part, etc.
 - Chinese: 给机器设备装配（新部件）；翻新；改型
 - Tags: update

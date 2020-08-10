@@ -2,7 +2,8 @@
 
 - Word: fallback
 
-- Type: noun [C]
+## noun
+
 - Meaning: a plan or course of action that is ready to be used in an emergency if other things fail
 - Chinese: 应变计划；退路
 - Tags: method::alternate

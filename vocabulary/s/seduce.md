@@ -2,7 +2,8 @@
 
 - Word: seduce
 
-- Type: verb [T]
+## verb
+
 - Meaning: to persuade sb to do sth that they would not usually agree to do by making it seem very attractive
 - Chinese: 诱骗；唆使
 - Tags: 

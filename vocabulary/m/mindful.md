@@ -2,7 +2,8 @@
 
 - Word: mindful
 
-- Type: adjective
+## adjective
+
 - Meaning: remembering sb/sth and considering them or it when you do sth
 - Chinese: 记着；想着；考虑到
 - Tags: 

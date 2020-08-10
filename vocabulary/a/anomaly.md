@@ -2,7 +2,8 @@
 
 - Word: anomaly
 
-- Type: noun [C]
+## noun
+
 - Meaning: a thing, situation, etc. that is different from what is normal or expected
 - Chinese: 异常事物；反常现象（让我惊奇的是，它是以ly结尾，但结果是名词）
 - Tags: 

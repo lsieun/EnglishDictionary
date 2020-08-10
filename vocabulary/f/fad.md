@@ -2,7 +2,8 @@
 
 - Word: fad
 
-- Type: noun [C]
+## noun
+
 - Meaning: something that people are interested in for only a short period of time
 - Chinese: 一时的风尚；短暂的狂热
 - Tags: 

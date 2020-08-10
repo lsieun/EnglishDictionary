@@ -2,10 +2,10 @@
 
 - Word: cupcake
 
-- Type: noun [C]
+## noun
+
 - Meaning: a small cake with icing on top
 - Chinese: 纸杯蛋糕
-- Tags: 
-- Eg.: 
+- Tags: food
 - Picture: ![cupcake](images/cupcake.jpg)
 

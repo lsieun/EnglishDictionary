@@ -2,7 +2,8 @@
 
 - Word: specialist
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who is an expert in a particular area of work or study
 - Chinese: 专家
 - Tags: 

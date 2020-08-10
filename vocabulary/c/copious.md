@@ -2,7 +2,8 @@
 
 - Word: copious
 
-- Type: adjective
+## adjective
+
 - Meaning: in large amounts
 - Chinese: 大量的
 - Tags: 

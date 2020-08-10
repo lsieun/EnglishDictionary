@@ -2,7 +2,8 @@
 
 - Word: forthcoming
 
-- Type: adjective
+## adjective
+
 - Meaning: going to happen, be published, etc. very soon
 - Chinese: 即将发生（或出版等）的
 - Tags: time:future

@@ -1,20 +1,11 @@
 # doorway
 
 - Word: doorway
-- Cognate: 
-- Story: 
 
-- Type: noun [C]
-- Plural: 
-- Single: 
-- Comparative: 
+## noun
+
 - Meaning: an entrance to a building or room, especially one that has a door
 - Chinese: 门口；门道
-- Tags: 
-- Synonyms: 
-- Antonyms: 
-- Similar: 
-- Use: 
-- Eg.: 
+- Tags: building
 - Picture: ![](images/doorway.jpg)
 

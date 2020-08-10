@@ -2,7 +2,8 @@
 
 - Word: drowsy
 
-- Type: adjective
+## adjective
+
 - Meaning: tired and almost asleep
 - Chinese: 困倦的；昏昏欲睡的
 - Tags: 

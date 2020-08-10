@@ -2,7 +2,8 @@
 
 - Word: float
 
-- Type: verb [I]
+## verb
+
 - Meaning: to move slowly on water or in the air
 - Chinese: 浮动；漂流；飘动；飘移
 - Tags: 

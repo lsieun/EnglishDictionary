@@ -3,7 +3,8 @@
 - Word: invariant
 - Cognate: vary
 
-- Type: adjective
+## adjective
+
 - Meaning: never changing; a feature (quantity or property or function) that remains unchanged when a particular transformation is applied to it
 - Chinese: 不变的；恒定的
 - Tags: 

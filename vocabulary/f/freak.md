@@ -2,7 +2,8 @@
 
 - Word: freak
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person with a very strong interest in a particular subject; a person who is considered to be unusual because of the way they behave, look or think
 - Chinese: 狂热爱好者; （行为、外表、想法）怪异的人
 - Tags: person, GOT

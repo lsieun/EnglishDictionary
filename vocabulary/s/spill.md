@@ -2,7 +2,8 @@
 
 - Word: spill
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: an act of letting a liquid come or fall out of a container; the amount of liquid that comes or falls out
 - Chinese: 洒出（量）；泼出（量）；溢出（量）；泄漏（量）
 - Tags: 

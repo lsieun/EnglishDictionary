@@ -2,7 +2,8 @@
 
 - Word: superior
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person of higher rank, status or position
 - Chinese: 级别（或地位、职位）更高的人；上级；上司
 - Tags: 

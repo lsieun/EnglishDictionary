@@ -1,11 +1,12 @@
 # dessert
 
 - Word: dessert
+- Similar: desert
 
-- Type: noun [C or U]
+## noun
+
 - Meaning: sweet food eaten at the end of a meal
 - Chinese: 餐后甜点
 - Tags: food
-- Similar: desert
 - Eg.: If you make the main course, I'll make a dessert.
 

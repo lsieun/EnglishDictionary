@@ -2,7 +2,8 @@
 
 - Word: unto
 
-- Type: prep
+## prep
+
 - Meaning: towards sb/sth
 - Chinese: 朝；向；到；对
 - Tags: 

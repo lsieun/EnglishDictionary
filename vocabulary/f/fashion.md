@@ -2,7 +2,8 @@
 
 - Word: fashion
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make or shape sth, especially with your hands
 - Chinese: （尤指用手工）制作，使成形，塑造
 - Tags: 

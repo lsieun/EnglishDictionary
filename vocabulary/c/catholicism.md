@@ -2,9 +2,9 @@
 
 - Word: catholicism
 
-- Type: noun [U]
+## noun
+
 - Meaning: Roman Catholicism
 - Chinese: 罗马天主教
-- Tags: 
-- Eg.: 
+- Tags: religion
 

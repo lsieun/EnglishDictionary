@@ -2,7 +2,8 @@
 
 - Word: glob
 
-- Type: noun [C]
+## noun
+
 - Meaning: a small amount of a liquid or substance in a round shape
 - Chinese: 一小滴；一小团
 - Tags: 

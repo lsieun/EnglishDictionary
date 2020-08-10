@@ -2,7 +2,8 @@
 
 - Word: terror
 
-- Type: noun [U]
+## noun
+
 - Meaning: a feeling of extreme fear
 - Chinese: 惊恐；恐惧
 - Tags: emotion::fear

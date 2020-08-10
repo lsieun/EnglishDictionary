@@ -2,7 +2,8 @@
 
 - Word: warrant
 
-- Type: verb [T]
+## verb
+
 - Meaning: to make sth necessary or appropriate in a particular situation
 - Chinese: 使有必要；使正当；使恰当
 - Tags: 

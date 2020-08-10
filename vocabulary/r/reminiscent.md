@@ -2,7 +2,8 @@
 
 - Word: reminiscent
 
-- Type: adjective
+## adjective
+
 - Meaning: reminding you of sb/sth
 - Chinese: 使回忆起（人或事）
 - Tags: 

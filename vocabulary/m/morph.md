@@ -4,7 +4,8 @@
 - Story: To morph is to change from one shape to another. A cute bunny(兔子), for example, might morph into a killer dragon in a fairy tale or an animated film.
 - Story: Morph comes from the word `metamorphosis`, which is a Greek word meaning "a transforming." As a verb, it has only been around since the 1980s, when computers allowed animators(动画设计师；漫画家) to make things change shape in an apparently seamlessly way. With the right skills, you can morph a toaster(烤面包片器) into a highly intelligent robot that helps fight crime, offers dating advice to the protagonist(主角) of the film, and still makes an excellent piece of toast.
 
-- Type: verb [T]
+## verb
+
 - Meaning: to change, or make sb/sth change into sth different
 - Chinese: （使）变化；（使）改变
 - Tags: 

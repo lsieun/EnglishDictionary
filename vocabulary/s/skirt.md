@@ -2,7 +2,8 @@
 
 - Word: skirt
 
-- Type: verb [T]
+## verb
+
 - Meaning: to avoid talking about a subject, especially because it is difficult or embarrassing
 - Chinese: 绕开，回避（话题）
 - Tags: person::talk

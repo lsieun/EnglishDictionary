@@ -2,7 +2,8 @@
 
 - Word: revision
 
-- Type: noun [C]
+## noun
+
 - Meaning: a change or set of changes to sth
 - Chinese: （一项、一轮等）修订，修改
 - Tags: 

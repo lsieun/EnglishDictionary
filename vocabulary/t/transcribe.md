@@ -2,7 +2,8 @@
 
 - Word: transcribe
 
-- Type: verb [T]
+## verb
+
 - Meaning: to record thoughts, speech or data in a written form, or in a different written form from the original
 - Chinese: 记录；抄录；把…转成（另一种书写形式）
 - Tags: 

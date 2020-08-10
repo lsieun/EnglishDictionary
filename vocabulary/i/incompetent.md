@@ -2,7 +2,8 @@
 
 - Word: incompetent
 
-- Type: adjective
+## adjective
+
 - Meaning: not having the skill or ability to do your job or a task as it should be done
 - Chinese: 无能力的；不胜任的；不称职的
 - Tags: 

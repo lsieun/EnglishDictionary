@@ -2,7 +2,8 @@
 
 - Word: rapture
 
-- Type: noun [U]
+## noun
+
 - Meaning: a feeling of extreme pleasure and happiness
 - Chinese: 狂喜；欢天喜地；兴高采烈
 - Tags: 

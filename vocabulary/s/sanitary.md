@@ -4,7 +4,8 @@
 - Story: When something's sanitary, it's extremely clean. It's important for hospitals to be sanitary.
 - Story: The adjective sanitary is useful when you need something stronger than just "clean." Sanitary implies the absence of germs(细菌；病菌) as well as a clean appearance — you probably hope that your favorite restaurant's kitchen is sanitary, and your visiting friends will appreciate your bathroom being sanitary as well. The origin of sanitary is the Latin word sanitas, or "health," from the root sanus, which means both "healthy" and "sane."
 
-- Type: adjective
+## adjective
+
 - Meaning: relating to being clean and healthy, esp. to the protection of health by the removal of dirt and waste, including human waste
 - Chinese: 卫生的；环境卫生的；公共卫生的
 - Tags: health

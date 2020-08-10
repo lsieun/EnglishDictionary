@@ -2,7 +2,8 @@
 
 - Word: psychologist
 
-- Type: noun [C]
+## noun
+
 - Meaning: a scientist who studies and is trained in psychology
 - Chinese: 心理学家；心理学研究者
 - Tags: person

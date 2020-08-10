@@ -2,7 +2,8 @@
 
 - Word: solicit
 
-- Type: verb [T]
+## verb
+
 - Meaning: to ask sb for sth, such as support, money or information; to try to get sth or persuade sb to do sth
 - Chinese: 索求，请求…给予（援助、钱或信息）
 - Tags: 

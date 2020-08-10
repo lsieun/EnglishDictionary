@@ -2,7 +2,8 @@
 
 - Word: oatmeal
 
-- Type: noun [U]
+## noun
+
 - Meaning: flour made from crushed oats, used to make biscuits/cookies, porridge(麦片粥), etc.
 - Chinese: 燕麦粉；燕麦片
 - Tags: food

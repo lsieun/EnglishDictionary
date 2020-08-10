@@ -2,7 +2,8 @@
 
 - Word: lapse
 
-- Type: verb [I]
+## verb
+
 - Meaning: to gradually become weaker or come to an end
 - Chinese: 衰退；衰弱；（逐渐）消失，结束
 - Tags: 

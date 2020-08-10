@@ -2,7 +2,8 @@
 
 - Word: furnish
 
-- Type: verb [T]
+## verb
+
 - Meaning: to supply or provide sb/sth with sth; to supply sth to sb
 - Chinese: 向（某人或某事物）供应，提供
 - Tags: provide

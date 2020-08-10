@@ -2,13 +2,15 @@
 
 - Word: perspective
 
-- Type: noun [C]
+## noun
+
 - Meaning: a view, especially one in which you can see far into the distance
 - Chinese: 景观；远景
 - Tags: 
 - Eg.: a perspective of the whole valley山谷全景
 
-- Type: noun [U]
+## noun
+
 - Meaning: the art of creating an effect of depth and distance in a picture by representing people and things that are far away as being smaller than those that are nearer the front
 - Chinese: 透视法
 - Tags: 
@@ -17,7 +19,8 @@
 - Eg.: in perspective = An object or person that is in perspective has the correct size and position in comparison with other things in the picture.
 - Eg.: out of perspective = An object or person that is out of perspective does not have the correct size or position in comparison with other things in the picture, and therefore does not look real or natural.
 
-- Type: noun [C]
+## noun
+
 - Meaning: a particular attitude towards sth; a particular way of considering something
 - Chinese: 态度；观点；思考方法
 - Tags: 
@@ -27,7 +30,8 @@
 - Eg.: His experience abroad provides a wider perspective on the problem.他在国外的经历使他以更广阔的视角看待这个问题。
 - Eg.: Because of its geographical position, Germany's perspective on the situation in Russia is very different from Washington's.
 
-- Type: noun [U]
+## noun
+
 - Meaning: the ability to think about problems and decisions in a reasonable way without exaggerating their importance
 - Chinese: 客观判断力；权衡轻重的能力
 - Tags: 

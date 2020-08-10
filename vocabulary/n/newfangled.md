@@ -2,7 +2,8 @@
 
 - Word: newfangled
 
-- Type: adjective
+## adjective
+
 - Meaning: used to describe sth that has recently been invented or introduced, but that you do not like because it is not what you are used to, or is too complicated
 - Chinese: 新奇怪异的；时髦复杂的
 - Tags: 

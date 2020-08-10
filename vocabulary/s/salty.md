@@ -2,7 +2,8 @@
 
 - Word: salty
 
-- Type: adjective
+## adjective
+
 - Meaning: containing or tasting of salt
 - Chinese: 含盐的；咸的
 - Tags: taste

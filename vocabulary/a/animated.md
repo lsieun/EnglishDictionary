@@ -2,7 +2,8 @@
 
 - Word: animated
 
-- Type: noun [C]
+## noun
+
 - Meaning: an animated movie or cartoon consists of a series of drawings that are shown quickly one after another so that they look as if they are moving
 - Chinese: 动画的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: misery
 
-- Type: noun [U]
+## noun
+
 - Meaning: great suffering of the mind or body
 - Chinese: 痛苦；悲惨
 - Tags: pain

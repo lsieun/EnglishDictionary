@@ -2,7 +2,8 @@
 
 - Word: impact
 
-- Type: noun [C]
+## noun
+
 - Meaning: the act of one object hitting another; the force with which this happens
 - Chinese: 撞击；冲撞；冲击力
 - Tags: 

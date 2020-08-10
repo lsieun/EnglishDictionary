@@ -2,7 +2,8 @@
 
 - Word: reasonable
 
-- Type: adjective
+## adjective
+
 - Meaning: acceptable and appropriate in a particular situation
 - Chinese: 可以接受的；合乎情理的；公道的
 - Tags: 

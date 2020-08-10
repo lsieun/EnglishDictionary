@@ -2,7 +2,8 @@
 
 - Word: sans
 
-- Type: prep
+## prep
+
 - Meaning: without
 - Chinese: 无；没有
 - Tags: 

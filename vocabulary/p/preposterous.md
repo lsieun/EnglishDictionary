@@ -2,7 +2,8 @@
 
 - Word: preposterous
 
-- Type: adjective
+## adjective
+
 - Meaning: completely unreasonable, especially in a way that is shocking or annoying
 - Chinese: 荒唐的；极不合情理的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: self-imposed
 
-- Type: adjective
+## adjective
+
 - Meaning: a self-imposed task, duty, etc. is one that you force yourself to do rather than one that sb else forces you to do
 - Chinese: 自己强加的；自愿负担的；自己规定的
 - Tags: 

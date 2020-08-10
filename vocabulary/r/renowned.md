@@ -2,7 +2,8 @@
 
 - Word: renowned
 
-- Type: adjective
+## adjective
+
 - Meaning: famous and respected
 - Chinese: 有名的；闻名的；受尊敬的
 - Tags: fame

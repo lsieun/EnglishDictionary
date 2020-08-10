@@ -2,7 +2,8 @@
 
 - Word: disown
 
-- Type: verb [T]
+## verb
+
 - Meaning: to decide that you no longer want to be connected with or responsible for sb/sth
 - Chinese: 与…断绝关系；否认对…的责任
 - Tags: disown

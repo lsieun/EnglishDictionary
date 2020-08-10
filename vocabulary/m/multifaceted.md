@@ -2,7 +2,8 @@
 
 - Word: multifaceted
 
-- Type: adjective
+## adjective
+
 - Meaning: having many different aspects to be considered
 - Chinese: 多方面的；要从多方面考虑的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: snare
 
-- Type: noun [C]
+## noun
+
 - Meaning: a trick or situation that deceives you or involves you in some problem that you do not know about
 - Chinese: 圈套；陷阱
 - Tags: 

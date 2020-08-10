@@ -2,7 +2,8 @@
 
 - Word: conjure
 
-- Type: verb [T]
+## verb
+
 - Meaning: to do clever tricks such as making things seem to appear or disappear as if by magic
 - Chinese: 变魔术；变戏法；使…变戏法般地出现（或消失）
 - Tags: 

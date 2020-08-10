@@ -2,7 +2,8 @@
 
 - Word: fancy
 
-- Type: noun [S]
+## noun
+
 - Meaning: a feeling that you would like to have or to do sth
 - Chinese: 想要；爱好
 - Tags: 

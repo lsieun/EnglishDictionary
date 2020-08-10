@@ -2,7 +2,8 @@
 
 - Word: tinned
 
-- Type: adjective
+## adjective
+
 - Meaning: preserved in a can
 - Chinese: 罐装的
 - Tags: food::container

@@ -2,7 +2,8 @@
 
 - Word: reap
 
-- Type: verb [T]
+## verb
+
 - Meaning: to obtain sth, especially sth good, as a direct result of sth that you have done
 - Chinese: 取得（成果）；收获
 - Tags: 

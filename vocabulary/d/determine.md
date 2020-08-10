@@ -2,7 +2,8 @@
 
 - Word: determine
 
-- Type: verb [T]
+## verb
+
 - Meaning: to discover the facts about sth; to calculate sth exactly
 - Chinese: 查明；测定；准确算出（这个词，以前，我学的是“人的主观决定”，现在，它的意思是“客观的发现”）
 - Tags: 

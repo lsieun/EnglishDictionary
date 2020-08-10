@@ -2,7 +2,8 @@
 
 - Word: deserving
 
-- Type: adjective
+## adjective
+
 - Meaning: If people or things are deserving, they should be helped because they have good qualities; worthy of being treated in a particular way
 - Chinese: 值得的；应得的（当你的努力付出到一定程度的时候，值得被人帮助了，别人帮你一把，你才会成功）
 - Tags: 

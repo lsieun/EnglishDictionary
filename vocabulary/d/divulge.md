@@ -2,7 +2,8 @@
 
 - Word: divulge
 
-- Type: verb [T]
+## verb
+
 - Meaning: to give sb information that is supposed to be secret
 - Chinese: 泄露，透露（秘密）
 - Tags: secret

@@ -2,7 +2,8 @@
 
 - Word: take
 
-- Type: noun [C]
+## noun
+
 - Meaning: the particular opinion or idea that sb has about sth
 - Chinese: 看法；意见
 - Tags: 

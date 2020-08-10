@@ -2,7 +2,8 @@
 
 - Word: staff
 
-- Type: noun [U]
+## noun
+
 - Meaning: all the workers employed in an organization considered as a group
 - Chinese: 全体职工（或雇员）
 - Tags: person, collection
@@ -12,7 +13,8 @@
 - Eg.: staff development/training 员工培训
 - Eg.: a staff restaurant/meeting 职工食堂╱大会
 
-- Type: verb [T]
+## verb
+
 - Meaning: to provide people to work there
 - Chinese: 为…配备职员
 - Tags: 

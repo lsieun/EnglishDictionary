@@ -2,7 +2,8 @@
 
 - Word: identical
 
-- Type: adjective
+## adjective
+
 - Meaning: similar in every detail
 - Chinese: 完全同样的；相同的
 - Tags: 

@@ -2,7 +2,8 @@
 
 - Word: flavour
 
-- Type: noun [U]
+## noun
+
 - Meaning: how food or drink tastes, or a particular taste itself
 - Chinese: （食物或饮料的）味道
 - Tags: food
@@ -11,7 +12,8 @@
 - Eg.: We sell 32 different flavours (= particular types of taste) of ice cream.
 - Eg.: The tomatoes give extra flavour to the sauce. 番茄使调味汁别有风味。
 
-- Type: verb [T]
+## verb
+
 - Meaning: to add sth to food or drink to give it more flavour or a particular flavour
 - Chinese: 给（食物或饮料）调味；加味于
 - Tags: 

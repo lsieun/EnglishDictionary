@@ -2,7 +2,8 @@
 
 - Word: bygone
 
-- Type: adjective
+## adjective
+
 - Meaning: happening or existing a long time ago
 - Chinese: 很久以前的；以往的
 - Tags: time

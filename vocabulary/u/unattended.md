@@ -2,7 +2,8 @@
 
 - Word: unattended
 
-- Type: adjective
+## adjective
+
 - Meaning: without the owner present; not being watched or cared for
 - Chinese: 主人不在场的；无人看管（或照料）的
 - Tags: 

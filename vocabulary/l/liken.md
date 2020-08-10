@@ -2,7 +2,8 @@
 
 - Word: liken
 
-- Type: verb [T]
+## verb
+
 - Meaning: to compare something or somebody with another, especially in order to point out the similarities
 - Chinese: 将一个事物与别一个事物进行对比，以找出两者的共同之处
 - Tags: 

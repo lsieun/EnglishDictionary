@@ -2,13 +2,14 @@
 
 - Word: sweat
 
-- Type: verb [I or T]
+## verb
+
 - Meaning: when you sweat, drops of liquid appear on the surface of your skin, for example when you are hot, ill/sick or afraid
 - Chinese: 出汗；流汗
 - Tags: 
-- Eg.: 
 
-- Type: verb [I]
+## verb
+
 - Meaning: to worry or feel anxious about sth
 - Chinese: 担心；焦虑；不安
 - Tags: 

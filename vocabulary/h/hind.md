@@ -2,7 +2,8 @@
 
 - Word: hind
 
-- Type: adjective
+## adjective
+
 - Meaning: the **hind** legs or feet of an animal with four legs are those at the back
 - Chinese: （四足动物的腿、蹄）后面的
 - Tags: 

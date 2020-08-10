@@ -2,7 +2,8 @@
 
 - Word: enthrall
 
-- Type: verb [T]
+## verb
+
 - Meaning: to delight or fascinate somebody thoroughly, engaging that person's attention completely
 - Chinese: 迷住；吸引住
 - Tags: person::emotion, force::attract

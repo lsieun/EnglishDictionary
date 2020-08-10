@@ -2,7 +2,8 @@
 
 - Word: unwittingly
 
-- Type: adverb
+## adverb
+
 - Meaning: without being aware of what you are doing or the situation that you are involved in
 - Chinese: 糊里糊涂地；茫然；无意地
 - Tags: 

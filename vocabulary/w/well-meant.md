@@ -2,7 +2,8 @@
 
 - Word: well-meant
 
-- Type: adjective
+## adjective
+
 - Meaning: done, said, etc. in order to be helpful but often not succeeding
 - Chinese: 本意良好的，出于好心的，善意的（但常事与愿违）
 - Tags: heart::kind

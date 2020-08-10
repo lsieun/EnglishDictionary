@@ -2,7 +2,8 @@
 
 - Word: ailment
 
-- Type: noun [C]
+## noun
+
 - Meaning: an illness that is not very serious
 - Chinese: 轻病；小恙
 - Tags: illness

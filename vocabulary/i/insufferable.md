@@ -2,7 +2,8 @@
 
 - Word: insufferable
 
-- Type: adjective
+## adjective
+
 - Meaning: extremely annoying, unpleasant and difficult to bear
 - Chinese: 令人无法忍受的；难以容忍的
 - Tags: 

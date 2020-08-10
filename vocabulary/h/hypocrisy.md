@@ -2,7 +2,8 @@
 
 - Word: hypocrisy
 
-- Type: noun [U]
+## noun
+
 - Meaning: behaviour in which sb pretends to have moral standards or opinions that they do not actually have
 - Chinese: 伪善；虚伪
 - Tags: 

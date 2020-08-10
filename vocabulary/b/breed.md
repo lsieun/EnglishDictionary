@@ -2,7 +2,8 @@
 
 - Word: breed
 
-- Type: noun [C]
+## noun
+
 - Meaning: a particular type of animal that has been developed by people in a controlled way, especially a type of dog, cat or farm animal
 - Chinese: 品种（尤指人工培育的狗、猫或牲畜）
 - Tags: 

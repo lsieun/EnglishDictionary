@@ -2,7 +2,8 @@
 
 - Word: healer
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who cures people of illnesses and disease using natural powers rather than medicine
 - Chinese: 用自然力（而非药物）治疗别人者
 - Tags: person, magic

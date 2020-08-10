@@ -2,7 +2,8 @@
 
 - Word: bulky
 
-- Type: adjective
+## adjective
+
 - Meaning: large and difficult to move or carry
 - Chinese: 庞大的；笨重的
 - Tags: 

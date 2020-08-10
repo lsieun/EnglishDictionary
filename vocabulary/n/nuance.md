@@ -2,7 +2,8 @@
 
 - Word: nuance
 
-- Type: noun [U]
+## noun
+
 - Meaning: a very slight difference in meaning, sound, colour or sb's feelings that is not usually very obvious
 - Chinese: （意义、声音、颜色、感情等方面的）细微差别
 - Tags: 

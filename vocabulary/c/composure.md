@@ -2,7 +2,8 @@
 
 - Word: composure
 
-- Type: noun [U]
+## noun
+
 - Meaning: the state of being calm and in control of your feelings or behaviour
 - Chinese: 沉着；镇静；镇定
 - Tags: situation::difficult, person::mind

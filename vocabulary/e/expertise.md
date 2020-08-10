@@ -2,7 +2,8 @@
 
 - Word: expertise
 
-- Type: noun [U]
+## noun
+
 - Meaning: expert knowledge or skill in a particular subject, activity or job
 - Chinese: 专门知识；专门技能
 - Tags: 

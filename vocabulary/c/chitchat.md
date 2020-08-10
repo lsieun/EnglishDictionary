@@ -1,8 +1,10 @@
 # chitchat
 
 - Word: chitchat
+- Cognate: chat
 
-- Type: noun [U]
+## noun
+
 - Meaning: casual conversation or small talk, or a casual conversation with somebody
 - Chinese: 闲谈；家常话；很随意的聊天
 - Tags: 

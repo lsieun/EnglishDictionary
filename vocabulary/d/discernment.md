@@ -1,8 +1,10 @@
 # discernment
 
 - Word: discernment
+- Cognate: discern
 
-- Type: noun [U]
+## noun
+
 - Meaning: the ability to show good judgement about the quality of sb/sth
 - Chinese: 识别能力；洞察力
 - Tags: cognition

@@ -2,7 +2,8 @@
 
 - Word: astute
 
-- Type: adjective
+## adjective
+
 - Meaning: very clever and quick at seeing what to do in a particular situation, especially how to get an advantage
 - Chinese: 精明的（往好了说）；狡猾的（往坏了说）
 - Tags: mind, clever

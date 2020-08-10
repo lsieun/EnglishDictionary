@@ -2,7 +2,8 @@
 
 - Word: power
 
-- Type: noun [C]
+## noun
+
 - Meaning: the number of times that an amount is to be multiplied by itself
 - Chinese: 乘方；幂
 - Tags: math

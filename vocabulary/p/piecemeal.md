@@ -2,7 +2,8 @@
 
 - Word: piecemeal
 
-- Type: adjective
+## adjective
+
 - Meaning: done or happening gradually at different times and often in different ways, rather than carefully planned at the beginning
 - Chinese: 逐渐做成（或发生）的；零散的
 - Tags: 

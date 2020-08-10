@@ -2,7 +2,8 @@
 
 - Word: effortless
 
-- Type: adjective
+## adjective
+
 - Meaning: needing little or no effort, so that it seems easy
 - Chinese: 不需费力的；容易的
 - Tags: 

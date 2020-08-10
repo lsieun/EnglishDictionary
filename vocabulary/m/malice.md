@@ -2,7 +2,8 @@
 
 - Word: malice
 
-- Type: noun [U]
+## noun
+
 - Meaning: a feeling of hatred for sb that causes a desire to harm them
 - Chinese: 恶意；怨恨
 - Tags: emotion::bad, emotion::dislike

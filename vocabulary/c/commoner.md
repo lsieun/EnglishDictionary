@@ -2,7 +2,8 @@
 
 - Word: commoner
 
-- Type: noun [C]
+## noun
+
 - Meaning: a person who does not come from a royal or noble family
 - Chinese: 平民
 - Tags: person

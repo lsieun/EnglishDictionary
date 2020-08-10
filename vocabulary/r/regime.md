@@ -3,7 +3,8 @@
 - Word: regime
 - Story: A regime is the ruling government of a country. The amount of freedom and restriction that citizens of a country have can change from regime to regime.
 
-- Type: noun [C]
+## noun
+
 - Meaning: a method or system of government, especially one that has not been elected in a fair way
 - Chinese: （尤指未通过公正选举的）统治方式，统治制度，政权，政体
 - Tags: 

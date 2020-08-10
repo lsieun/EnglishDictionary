@@ -2,7 +2,8 @@
 
 - Word: devotee
 
-- Type: noun [C]
+## noun
+
 - Meaning: a very religious person who belongs to a particular group
 - Chinese: 虔诚的宗教信徒
 - Tags: person, religion

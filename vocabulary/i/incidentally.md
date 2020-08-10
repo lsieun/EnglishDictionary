@@ -2,7 +2,8 @@
 
 - Word: incidentally
 
-- Type: adverb
+## adverb
+
 - Meaning: used to introduce a new topic, or some extra information, or a question that you have just thought of
 - Chinese: （引出新话题、附加信息或临时想到的问题）顺便提一句
 - Tags: 

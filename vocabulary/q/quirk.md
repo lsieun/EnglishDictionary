@@ -2,7 +2,8 @@
 
 - Word: quirk
 
-- Type: noun [C]
+## noun
+
 - Meaning: a strange thing that happens, especially by accident
 - Chinese: （尤指偶发的）怪事，奇事
 - Tags: 

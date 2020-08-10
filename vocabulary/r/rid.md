@@ -2,7 +2,8 @@
 
 - Word: rid
 
-- Type: verb [T]
+## verb
+
 - Meaning: to free a person or place of something unwanted or harmful
 - Chinese: 摆脱；使去掉；除去
 - Tags: 

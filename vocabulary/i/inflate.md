@@ -2,7 +2,8 @@
 
 - Word: inflate
 
-- Type: verb [T]
+## verb
+
 - Meaning: to fill sth or become filled with gas or air
 - Chinese: 使充气；膨胀
 - Tags: 

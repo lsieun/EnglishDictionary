@@ -2,7 +2,8 @@
 
 - Word: notoriously
 
-- Type: adverb
+## adverb
+
 - Meaning: in a way that is famous for something bad
 - Chinese: 众所周知的
 - Tags: fame

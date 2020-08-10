@@ -2,7 +2,8 @@
 
 - Word: yearn
 
-- Type: verb [I]
+## verb
+
 - Meaning: to wish very strongly, especially for something that you cannot have or something that is very difficult to have
 - Chinese: 渴望；渴求
 - Tags: emotion::desire

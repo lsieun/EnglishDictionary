@@ -2,7 +2,8 @@
 
 - Word: impoverished
 
-- Type: adjective
+## adjective
+
 - Meaning: very poor; without money
 - Chinese: 赤贫的；不名一文的
 - Tags: money

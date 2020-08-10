@@ -2,7 +2,8 @@
 
 - Word: wrong
 
-- Type: verb [T]
+## verb
+
 - Meaning: to treat someone in an unfair or unacceptable way
 - Chinese: 不公正（或不诚实）对待
 - Tags: 
