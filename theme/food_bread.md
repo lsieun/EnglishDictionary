@@ -8,6 +8,8 @@
 
 - grind: 磨碎；碾碎；把…磨成粉 to break or crush sth into very small pieces between two hard surfaces or using a special machine 磨（粉）to produce sth such as flour by crushing
 
+- bakery: 面包（糕饼）店；面包（糕饼）烘房；面包厂 a place where bread and cakes are made and/or sold
+
 ## 西方
 
 - loaf: 一条（面包）an amount of bread that has been shaped and baked in one piece

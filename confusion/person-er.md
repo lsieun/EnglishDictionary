@@ -2,6 +2,7 @@
 
 - adventurer: 冒险者；冒险家 a person who enjoys exciting new experiences, especially going to unusual places
 - astronomer: 天文学家 a scientist who studies astronomy
+- banker: 银行老板（或要员）；银行家 a person who owns a bank or has an important job at a bank
 - butcher: 屠夫；肉贩 a person whose job is cutting up and selling meat in a shop/store or killing animals for this purpose
 - carrier: 搬运人；运送人；运输工具 a person or thing that carries sth
 - dealer: 交易商；贸易商 a person whose business is buying and selling a particular product

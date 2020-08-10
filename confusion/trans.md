@@ -12,6 +12,9 @@
 - translate: 翻译；译 to express the meaning of speech or writing in a different language
 - translation: 翻译；译 the process of changing sth that is written or spoken into another language
 
+- transmigrate: 移居 to move from one place or country to another 【宗】(轮回)转生；使投生 according to some religions, to pass into another body at or after death
+- transmigration: （死后灵魂的）转生，转世 the passing of a person's soul after their death into another body
+
 - transmission: 传送；传递；传达；传播；传染 the act or process of passing sth from one person, place or thing to another
 - transmit: 传送；输送；发射；播送 to send an electronic signal, radio or television broadcast, etc. 传播；传染 to pass sth from one person to another 传（热、声等）；透（光等）；使通过 to allow heat, light, sound, etc. to pass through
 

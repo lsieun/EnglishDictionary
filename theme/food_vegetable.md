@@ -8,6 +8,8 @@
 
 - eggplant: 茄子 a vegetable with shiny dark purple skin and soft white flesh
 
+- turnip: 萝卜；白萝卜；大头菜 a round white, or white and purple, root vegetable
+
 ## 做菜
 
 - tomato: 番茄；西红柿 a soft fruit with a lot of juice and shiny red skin that is eaten as a vegetable either raw or cooked

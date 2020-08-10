@@ -13,6 +13,7 @@
 - neutron: 中子 a very small piece of matter (= a substance) that carries no electric charge and that forms part of the nucleus (= central part) of an atom
 - electron: 电子 a very small piece of matter (= a substance) with a negative electric charge, found in all atoms
 - quark: 夸克（据信构成质子、中子等的细小粒子）a very small part of matter (= a substance). There are several types of quark and it is thought that protons, neutrons, etc. are formed from them.
+- neutrino: 中微子 an extremely small particle that has no electrical charge, and which rarely reacts with other matter
 
 - fission: （核）裂变，分裂 the act or process of splitting the nucleus (= central part) of an atom, when a large amount of energy is released
 

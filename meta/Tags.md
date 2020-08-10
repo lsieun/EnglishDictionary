@@ -272,6 +272,8 @@ animal::predatory
 
 interesting, attention
 
+- attention::focus
+
 difference
 
 template

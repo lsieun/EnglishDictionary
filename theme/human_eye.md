@@ -15,6 +15,10 @@
 - discern: （依稀）看出，分辨出，听出 to see or hear sth, but not very clearly
 - discerning: 有识别力的；有眼力的；有洞察力的 able to show good judgement about the quality of sb/sth
 
+- daze: 耀眼；使迷乱 to leave somebody wholly or partly unconscious or unable to think clearly, especially as a result of a blow or shock
+
+- shortsighted: 近视(眼)的；目光短浅的
+
 ## 看的结果
 
 - blur: 视线模糊；（使）看不清 if sth blurs your eyes or vision, or your eyes or vision blur, you cannot see things clearly

@@ -21,3 +21,6 @@
 - polar: 极地的；近地极的；南极（或北极）的 connected with, or near the North or South Pole
 
 - walnut: 核桃树；胡桃树 the tree on which walnuts grow 核桃；胡桃 the light brown nut of the walnut tree that has a rough surface and a hard round shell in two halves
+
+- oak: 栎树；橡树 a large tree that produces small nuts called acorns . Oaks are common in northern countries and can live to be hundreds of years old.
+- acorn: 橡子；橡实 the small brown nut of the oak tree, that grows in a base shaped like a cup

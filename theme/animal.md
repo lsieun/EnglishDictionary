@@ -10,6 +10,8 @@
 
 - squirrel: 松鼠 a small animal with a long thick tail and red, grey or black fur. Squirrels eat nuts and live in trees.
 
+- wildlife: 野生动物；野生生物 animals, birds, insects, etc. that are wild and live in a natural environment
+
 ## 声音
 
 - roar: 吼叫；咆哮to make a very loud, deep sound

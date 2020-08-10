@@ -2,6 +2,11 @@
 
 - suite: （尤指旅馆的）一套房间，套房 a set of rooms, especially in a hotel
 
+- sitting-room: 起居室
+- living room: 客厅；起居室 a room in a house where people sit together, watch television, etc.
+
+- lobby: （公共建筑物进口处的）门厅，前厅，大厅 a large area inside the entrance of a public building where people can meet and wait
+
 ## 走廊
 
 - corridor: （建筑物内的）走廊，过道，通道 a long narrow passage in a building, with doors that open into rooms on either side

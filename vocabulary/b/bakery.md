@@ -8,6 +8,6 @@
 - Type: noun [C]
 - Meaning: a place where bread and cakes are made and sometimes sold
 - Chinese: 面包（糕饼）店；面包（糕饼）烘房；面包厂
-- Tags: food, shop
+- Tags: food, shop, place
 - Eg.: 
 

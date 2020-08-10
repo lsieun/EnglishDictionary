@@ -1,5 +1,7 @@
 # food fruit
 
+- juicy: 多汁的；汁液丰富的 containing a lot of juice and good to eat
+
 ## 水果制成品
 
 - jam: 果酱 a thick sweet substance made by boiling fruit with sugar, often sold in jars and spread on bread

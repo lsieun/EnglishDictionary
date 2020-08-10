@@ -7,6 +7,8 @@
 - shrewd: 精明的；敏锐的；有眼光的；精于盘算的 clever at understanding and making judgements about a situation
 - sly: 诡诈的；狡诈的 acting or done in a secret or dishonest way, often intending to trick people
 
+- crafty: 巧妙的；（尤指）狡诈的，诡计多端的 clever at getting what you want, especially by indirect or dishonest methods
+
 - tact: （处事、言谈等的）老练，圆通，得体，乖巧 the ability to deal with difficult or embarrassing situations carefully and without doing or saying anything that will annoy or upset other people
 - tactful: 圆通的；得体的；不得罪人的 careful not to say or do anything that will annoy or upset other people
 - tacit: 心照不宣的；不言而喻的；默示的 that is suggested indirectly or understood, rather than said in words

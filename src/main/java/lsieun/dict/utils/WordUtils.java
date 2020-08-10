@@ -237,19 +237,19 @@ public class WordUtils {
         if ("adj".equalsIgnoreCase(type)) {
             type = "adjective";
         } else if ("nc".equalsIgnoreCase(type)) {
-            type = "noun [C]";
+            type = "noun";
         } else if ("nu".equalsIgnoreCase(type)) {
-            type = "noun [U]";
+            type = "noun";
         } else if ("ns".equalsIgnoreCase(type)) {
-            type = "noun [S]";
+            type = "noun";
         } else if ("ncu".equalsIgnoreCase(type)) {
-            type = "noun [C or U]";
+            type = "noun";
         } else if ("vi".equalsIgnoreCase(type)) {
-            type = "verb [I]";
+            type = "verb";
         } else if ("vt".equalsIgnoreCase(type)) {
-            type = "verb [T]";
+            type = "verb";
         } else if ("vit".equalsIgnoreCase(type)) {
-            type = "verb [I or T]";
+            type = "verb";
         } else if ("adv".equalsIgnoreCase(type)) {
             type = "adverb";
         }

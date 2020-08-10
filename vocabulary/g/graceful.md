@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: polite and kind in your behaviour, especially in a difficult situation
 - Chinese: （尤指在困境中）得体的，有风度的
-- Tags: 
+- Tags: behaviour
 - Synonyms: 
 - Antonyms: 
 - Similar: 

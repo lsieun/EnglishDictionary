@@ -7,3 +7,5 @@
 - scoff: 嘲笑；讥讽 to talk about sb/sth in a way that makes it clear that you think they are stupid or ridiculous
 - smile: 微笑；笑 to make a smile appear on your face
 - sneer: 嘲笑；讥讽；嗤笑 to show that you have no respect for sb by the expression on your face or by the way you speak
+
+- humour: 幽默；幽默感 the quality in sth that makes it funny or amusing; the ability to laugh at things that are amusing

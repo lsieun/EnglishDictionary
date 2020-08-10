@@ -20,6 +20,8 @@
 
 - elapse: （时间）消逝，流逝if a period of timeelapses , it passes
 
+- with time: 随着时间推移；随着时间流逝 happening or changing gradually
+
 ## 早晚
 
 - timely: 及时的；适时的 happening at exactly the right time

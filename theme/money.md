@@ -20,6 +20,11 @@
 
 - pound: 英镑（英国货币单位，等于 100 便士）the unit of money in the UK, worth 100 pence
 
+- affordable: 不算太贵的,负担得起的 inexpensive enough for ordinary people to afford
+
+- bribery: 行贿；受贿；贿赂 the giving or taking of bribes
+- bribe: 贿赂 a sum of money or sth valuable that you give or offer to sb to persuade them to help you, especially by doing sth dishonest
+
 ## 津贴
 
 - allowance: 津贴；补贴；补助 an amount of money that is given to sb regularly or for a particular purpose

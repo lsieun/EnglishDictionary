@@ -10,6 +10,12 @@
 
 - porridge: 麦片粥 a type of soft thick white food made by boiling oats in milk or water, eaten hot, especially for breakfast
 
+- foodstuff: 食物；食品 any substance that is used as food
+
+- omelette: 煎蛋卷，摊鸡蛋，鸡蛋饼（常加入奶酪、肉和蔬菜等） a hot dish of eggs mixed together and fried, often with cheese, meat, vegetables, etc. added
+
+- gruel: （尤指旧时穷人吃的）稀粥，燕麦粥 a simple dish made by boiling oats in milk or water, eaten especially in the past by poor people
+
 ## 吃
 
 - dietary: 饮食的 related to the foods that someone eats

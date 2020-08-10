@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: a person who takes messages between one person or group and another
 - Chinese: 中间人
-- Tags: 
+- Tags: person
 - Synonyms: 
 - Antonyms: 
 - Similar: 

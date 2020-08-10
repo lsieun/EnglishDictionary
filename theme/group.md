@@ -24,6 +24,7 @@
 - coalition: 联合；结合；联盟 the act of two or more groups joining together
 - commission: （通常为政府管控或调查某事的）委员会 an official group of people who have been given responsibility to control sth, or to find out about sth, usually for the government
 - committee: （投票选出的）委员会 a group of people who are chosen, usually by a larger group, to make decisions or to deal with a particular subject
+- confederation: 联盟；联合体 an organization consisting of countries, businesses, etc. that have joined together in order to help each other
 - congress: 代表大会 a large formal meeting or series of meetings where representatives from different groups discuss ideas, make decisions, etc.
 - convention: 习俗；常规；惯例 the way in which sth is done that most people in a society expect and consider to be polite or the right way to do it （国家或首脑间的）公约，协定，协议 an official agreement between countries or leaders
 - institution: （大学、银行等规模大的）机构 a large important organization that has a particular purpose, for example, a university or bank

@@ -1,6 +1,7 @@
 # animal fish
 
 - fin: （鱼的）鳍 a thin flat part that sticks out from the body of a fish, used for swimming and keeping balance
+- gill: 鳃 the organ that fish and some other water animals use to breathe, consisting of a membrane containing many blood vessels through which oxygen passes.
 
 ## home
 

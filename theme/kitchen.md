@@ -6,3 +6,5 @@
 - chopstick: 筷子 either of a pair of thin sticks that are used for eating with, especially in some Asian countries
 - plate: 盘子；碟子 a flat, usually round, dish that you put food on
 
+- cabinet: 储藏柜；陈列柜 a piece of furniture with doors, drawers and/or shelves, that is used for storing or showing things
+

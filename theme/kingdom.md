@@ -19,7 +19,12 @@
 - banish: 放逐；流放；把（某人）驱逐出境 to order sb to leave a place, especially a country, as a punishment
 - oust: 剥夺；罢免；革职 to force sb out of a job or position of power, especially in order to take their place
 
+- absolve: 宣告…无罪；判定…无责 to state formally that sb is not guilty or responsible for sth
+
 ## soldier
+
+- recruit: 吸收（新成员）；征募（新兵）to find new people to join a company, an organization, the armed forces, etc.
+- recruitment: 征兵;招聘;招兵买马 the process of finding people to join the military, or a company or organization
 
 - allegiance: （对政党、宗教、统治者的）忠诚，效忠，拥戴 a person's continued support for a political party, religion, ruler, etc.
 

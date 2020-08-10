@@ -2,6 +2,7 @@
 
 
 - annihilate: 消灭；歼灭；毁灭 to destroy sb/sth completely
+- crackdown: 严厉的打击；镇压 severe action taken to restrict the activities of criminals or of people opposed to the government or sb in authority
 - devastate: 彻底破坏；摧毁；毁灭 to completely destroy a place or an area
 - eliminate: 排除；清除；消除 to remove or get rid of sth/sb
 - extinction: （植物、动物、生活方式等的）灭绝，绝种，消亡 a situation in which a plant, an animal, a way of life, etc. stops existing

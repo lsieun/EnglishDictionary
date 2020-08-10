@@ -4,3 +4,4 @@
 - intentional: 故意的；有意的；存心的 done deliberately
 
 - malicious: 怀有恶意的；恶毒的 having or showing hatred and a desire to harm sb or hurt their feelings
+- malice: 恶意；怨恨 a feeling of hatred for sb that causes a desire to harm them

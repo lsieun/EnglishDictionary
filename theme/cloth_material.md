@@ -16,6 +16,7 @@ cotton是植物产的，wool是羊毛（动物）产的，silk是蚕（虫子）
 - velvet: 丝绒；立绒；经绒；天鹅绒 a type of cloth made from silk, cotton or nylon, with a thick soft surface
 - flannel: 法兰绒 a type of soft light cloth, containing cotton or wool, used for making clothes
 
+- texture: 质地；手感 the way a surface, substance or piece of cloth feels when you touch it, for example how rough, smooth, hard or soft it is
 
 ## 合成品
 

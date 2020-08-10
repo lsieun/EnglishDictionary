@@ -10,7 +10,7 @@
 - Comparative: 
 - Meaning: a very large amount of something, especially a larger amount than you need, want, or can deal with
 - Chinese: 过多；过量；过剩
-- Tags: 
+- Tags: more
 - Synonyms: 
 - Antonyms: 
 - Similar: 

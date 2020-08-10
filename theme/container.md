@@ -7,3 +7,5 @@
 
 
 - jug: （有把有嘴的）壶，罐 a container with a handle and a lip, for holding and pouring liquids
+
+- pail: 桶；一桶的量 an open metal or plastic container with a handle, used for carrying liquid and soft substances such as sand or earth

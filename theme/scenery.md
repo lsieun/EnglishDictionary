@@ -1,5 +1,7 @@
 # scenery
 
+- mirage: 幻景；海市蜃楼 an effect caused by hot air in deserts or on roads, that makes you think you can see sth, such as water, which is not there
+
 ## 景色
 
 - outlook: 景色；景致；景观 a view from a particular place

@@ -18,6 +18,7 @@
 - yell: 叫喊；大喊；吼叫 to shout loudly, for example because you are angry, excited, frightened or in pain
 
 - spout: 滔滔不绝地说；喋喋不休地说 to speak a lot about sth; to repeat sth in a boring or annoying way
+- retell: （通常以不同的方式）复述，重新讲述 to tell a story again, often in a different way
 
 ## 暗示
 

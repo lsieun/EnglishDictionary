@@ -14,6 +14,7 @@
 - metallurgy: 冶金学 the scientific study of metals and their uses
 - philosophy: 哲学 the study of the nature and meaning of the universe and of human life
 - physics: 物理学 the scientific study of matter and energy and the relationships between them, including the study of forces, heat, light, sound, electricity and the structure of atoms
+- psychiatry: 精神病学；精神病治疗 the study and treatment of mental illness
 - psychology: 心理学 the scientific study of the mind and how it influences behaviour
 
 I study psychology to learn about how people think. 我学心理学是为了了解人们如何思考。

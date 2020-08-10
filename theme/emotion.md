@@ -19,6 +19,11 @@
 
 - countenance: 面容；脸色；面部表情 a person's face or their expression
 
+- self-esteem: 自尊（心） a feeling of being happy with your own character and abilities
+- self-respect: 自尊（心） a feeling of pride in yourself that what you do, say, etc. is right and good
+
+- sympathise: 同情 to feel sorry for sb; to show that you understand and feel sorry about sb's problems
+
 ### 不高兴/不愤怒
 
 - solemn: 冷峻的；表情严肃的 not happy or smiling; 庄严的；严正的；郑重的done, said, etc. in a very serious and sincere way

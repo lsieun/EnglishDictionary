@@ -19,6 +19,10 @@ It’s usually held that ... 人们经常认为……
 
 He's been harboring a grudge against her ever since his promotion was refused.
 
+- assertion: 认定；断言 a statement saying that you strongly believe sth to be true
+
+- delusion: 错觉；谬见；妄想 a false belief or opinion about yourself or your situation
+
 ## 赞同
 
 ## 不赞同
