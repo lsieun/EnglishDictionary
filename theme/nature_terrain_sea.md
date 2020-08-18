@@ -47,6 +47,8 @@ beach和shore均可指“海滨”｡比较说来 , beach较为平坦,覆盖着�
 
 ![](images/Gulf-of-Mexico-Map.jpg)
 
+- coastline: 海岸线；海岸地形（或轮廓）；沿海地带 the land along a coast, especially when you are thinking of its shape or appearance
+
 ## 近水域
 
 - tide: 潮；潮汐；潮水 a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls

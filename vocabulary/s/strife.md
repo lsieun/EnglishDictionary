@@ -1,6 +1,9 @@
 # strife
 
 - Word: strife
+- Similar: stifle
+- Story: Strife is the act or state of fighting or arguing violently. The years leading up to the U.S. Civil War were characterized by great strife between northern and southern states over slavery and the role of a federal government.
+- Story: This word applies to major issues and events, such as war and religious conflict: a period of civil strife. Like its Old French source, the original meaning of the English noun strife and the English verb strive had to do with an argument or quarrel. But the verb strive has lost that earlier sense, and now means to try hard to do or achieve something.
 
 ## noun
 

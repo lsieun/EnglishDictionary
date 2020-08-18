@@ -2,6 +2,7 @@
 
 - booth: 临时货摊（或放映棚等） a small tent or temporary structure at a market, an exhibition or a fairground, where you can buy things, get information or watch sth
 - cart: 手推车；手拉车 a light vehicle with wheels that you pull or push by hand
+- trolly: 手推车
 
 - bazaar: （某些东方国家的）集市 (in some Eastern countries) a street or an area of a town where there are many small shops
 - pedlar: （旧时的）流动小贩 a person who in the past travelled from place to place trying to sell small objects
@@ -14,6 +15,7 @@ There are many stalls in the open-air bazaar.
 ## 人
 
 - wholesaler: 水果和蔬菜批发商 fruit and vegetable wholesalers; someone whose job is to sell large quantities of goods to stores or small businesses
+- wholesale: 批发的；趸售的 connected with goods that are bought and sold in large quantities, especially so they can be sold again to make a profit
 
 ## 券
 

@@ -18,3 +18,5 @@
 - nestle: 依偎；舒适地坐（或卧） to sit or lie down in a warm or soft place
 
 - hesitant: 犹豫的；踌躇的；不情愿的 slow to speak or act because you feel uncertain, embarrassed or unwilling
+
+- hypocrisy: 伪善；虚伪 behaviour in which sb pretends to have moral standards or opinions that they do not actually have

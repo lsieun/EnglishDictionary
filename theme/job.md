@@ -5,6 +5,7 @@
 - vocational: 职业的；职业技术的；业务知识的 connected with the skills, knowledge, etc. that you need to have in order to do a particular job
 
 - accountant: 会计；会计师 a person whose job is to keep or check financial accounts
+- accountancy: 会计工作；会计职业 the work or profession of an accountant
 - architect: 建筑师 a person whose job is designing buildings, etc.
 - athlete: 运动员 a person who competes in sports
 - attendant: 服务员；侍者 a person whose job is to serve or help people in a public place

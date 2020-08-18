@@ -2,6 +2,7 @@
 
 - emotion: 强烈的感情；激情；情感；情绪 a strong feeling such as love, fear or anger; the part of a person's character that consists of feelings
 - sentiment: （基于情感的）观点，看法；情绪 a feeling or an opinion, especially one based on emotions
+- sentimental: 情感的（而非理性的） connected with your emotions, rather than reason
 
 - anger and happiness
 - love and hate
@@ -23,6 +24,12 @@
 - self-respect: 自尊（心） a feeling of pride in yourself that what you do, say, etc. is right and good
 
 - sympathise: 同情 to feel sorry for sb; to show that you understand and feel sorry about sb's problems
+
+- passionate: 热诚的；狂热的 having or showing strong feelings of enthusiasm for sth or belief in sth
+
+- sarcastic: 讽刺的；嘲讽的；挖苦的 showing or expressing sarcasm
+- sarcasm: 讽刺；嘲讽；挖苦 a way of using words that are the opposite of what you mean in order to be unpleasant to sb or to make fun of them
+- satire: 讽刺；讥讽；讽刺作品 a way of criticizing a person, an idea or an institution in which you use humour to show their faults or weaknesses; a piece of writing that uses this type of criticism
 
 ### 不高兴/不愤怒
 

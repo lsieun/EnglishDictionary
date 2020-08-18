@@ -20,6 +20,8 @@
 
 ## river
 
+- glacier: 冰川 a large mass of ice, formed by snow on mountains, that moves very slowly down a valley
+
 - brook: 溪；小河；小川 a small river
 
 - ditch: 沟；渠 a long channel dug at the side of a field or road, to hold or take away water

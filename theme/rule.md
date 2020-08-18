@@ -9,3 +9,4 @@
 - ordain: 主宰；掌握；规定 to order or command sth; to decide sth in advance
 - stipulate: 规定；明确要求 to state clearly and firmly that sth must be done, or how it must be done
 
+- tenet: 原则；信条；教义 one of the principles or beliefs that a theory or larger set of beliefs is based on

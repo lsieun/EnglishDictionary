@@ -14,6 +14,9 @@
 - discretion: 谨慎；慎重；审慎 care in what you say or do, in order to keep sth secret or to avoid causing embarrassment to or difficulty for sb; the quality of being discreet
 - meticulous: 细心的；小心翼翼的 paying careful attention to every detail
 - prudent: 谨慎的；慎重的；精明的 sensible and careful when you make judgements and decisions; avoiding unnecessary risks
+
+- reluctance: 不情愿 unwillingness or lack of enthusiasm
+
 - sincere: 诚实的；坦率的 saying only what you really think or feel
 
 - optimist: 乐观的人；乐天派 a person who always expects good things to happen or things to be successful

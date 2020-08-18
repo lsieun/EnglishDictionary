@@ -31,6 +31,7 @@
 
 女式
 
+- corset: （尤指旧时妇女束腰的）紧身内衣 a piece of women's underwear, fitting the body tightly, worn especially in the past to make the waist look smaller
 - blouse: （女式）短上衣，衬衫 a piece of clothing like a shirt, worn by women
 
  关于blouse，它有许多不同的样式，下面就是两种。

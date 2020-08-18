@@ -19,6 +19,9 @@
 
 - spout: 滔滔不绝地说；喋喋不休地说 to speak a lot about sth; to repeat sth in a boring or annoying way
 - retell: （通常以不同的方式）复述，重新讲述 to tell a story again, often in a different way
+- recount: 叙述 to say what happened
+
+- explicate: 详细解释，详细分析（想法或文学作品） to explain an idea or a work of literature in a lot of detail
 
 ## 暗示
 

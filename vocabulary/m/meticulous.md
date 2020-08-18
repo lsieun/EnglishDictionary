@@ -8,6 +8,6 @@
 
 - Meaning: paying careful attention to every detail
 - Chinese: 细心的；小心翼翼的
-- Tags: attitude
+- Tags: attitude, attention
 - Eg.: He's always meticulous in keeping the records up to date. 他总是十分细心地适时更新存档资料。
 

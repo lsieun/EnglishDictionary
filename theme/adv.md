@@ -9,3 +9,9 @@
 - drastically: 彻底地；大幅度地；大大地 to a very great and usually very worrying degree
 
 You look drastically thinner than before. 你看上去比之前瘦多了。
+
+
+
+- basically: 从根本上说；本质上 in the most important ways, without considering things that are less important 总的说来；从根本上说 used when you are giving your opinion or stating what is important about a situation
+
+- supposedly: 据信；据传；据说 according to what is generally thought or believed but not known for certain

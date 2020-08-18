@@ -7,3 +7,5 @@
 
 - litter: （在公共场所乱扔的）垃圾，废弃物，杂物  small pieces of rubbish/garbage such as paper, cans and bottles, that people have left lying in a public place
 - rubbish: 垃圾；废弃物 things that you throw away because you no longer want or need them
+
+- dustbin: （常置于房外的）垃圾桶，垃圾箱 a large container with a lid, used for putting rubbish/garbage in, usually kept outside the house

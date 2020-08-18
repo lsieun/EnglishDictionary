@@ -1,6 +1,7 @@
 # predicament
 
 - Word: predicament
+- Similar: predicate
 
 ## noun
 

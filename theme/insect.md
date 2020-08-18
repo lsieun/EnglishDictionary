@@ -6,6 +6,7 @@
 
 - bedbug: 臭虫；床虱 a small flat insect that lives especially in beds, where it bites people and sucks their blood
 
+- cockroach: 蟑螂 a large brown insect with wings, that lives in houses, especially where there is dirt
 - cricket: 蟋蟀；蛐蛐 a small brown jumping insect that makes a loud high sound by rubbing its wings together
 
 - grasshopper: 蝗虫；蚱蜢；蚂蚱 an insect with long back legs, that can jump very high and that makes a sound with its legs

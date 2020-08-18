@@ -20,6 +20,7 @@
 - chair: 椅子 a piece of furniture for one person to sit on, with a back, a seat and four legs
 - couch: 长沙发；长榻 a long comfortable seat for two or more people to sit on
 - sofa: 长沙发 a long comfortable seat with a back and arms, for two or more people to sit on
+- stool: 凳子 a seat with legs but with nothing to support your back or arms
 
 ## table
 

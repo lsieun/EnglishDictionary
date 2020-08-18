@@ -14,7 +14,7 @@
 
 - threshold: 阈；界；起始点 the level at which sth starts to happen or have an effect 门槛；门口 the floor or ground at the bottom of a doorway , considered as the entrance to a building or room
 
-
+- measure up: 符合标准；达标 to be good enough to meet a standard
 
 ## 使用标准
 

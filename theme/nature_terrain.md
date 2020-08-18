@@ -8,11 +8,11 @@ Much of humankind's history can be traced by its effort to alter the terrain. We
 
 
 - desert: 沙漠；荒漠；荒原 a large area of land that has very little water and very few plants growing on it. Many deserts are covered by sand.
-
-
+- forest: 森林；林区 a large area of land that is thickly covered with trees
+- mountain: 高山；山岳 a very high hill, often with rocks near the top
+- plain: 平原 a large area of flat land
+- rainforest: （热带）雨林 a thick forest in tropical parts of the world that have a lot of rain
 - shore: （海洋、湖泊等大水域的）岸，滨 the land along the edge of the sea or ocean, a lake or another large area of water
-
-
 
 ## 专有名词
 

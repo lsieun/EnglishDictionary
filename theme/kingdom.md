@@ -11,6 +11,10 @@
 - emperor: 皇帝 the ruler of an empire
 - empress: 皇后 the wife of an emperor 女皇 a woman who is the ruler of an empire
 
+- imperial: 帝国的；皇帝的 connected with an empire
+
+- dictator: 独裁者 a ruler who has complete power over a country, especially one who has gained it using military force
+
 ## traitor
 
 - treason: 危害国家罪，叛国罪（如战时通敌）the crime of doing sth that could cause danger to your country, such as helping its enemies during a war

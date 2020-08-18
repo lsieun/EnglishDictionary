@@ -14,3 +14,6 @@
 - stalk: （叶）柄；（花）梗；（果实的）柄；（植物的）茎，秆 a thin stem that supports a leaf, flower or fruit and joins it to another part of the plant or tree; the main stem of a plant
 - stem: （花草的）茎；（花或叶的）梗，柄 the main long thin part of a plant above the ground from which the leaves or flowers grow; a smaller part that grows from this and supports flowers or leaves
 - spine: （植物的）刺；（动物的）刺毛 any of the sharp pointed parts like needles on some plants and animals
+
+- sugarcane: 甘蔗 a tall tropical plant with thick stems that is used for producing sugar
+

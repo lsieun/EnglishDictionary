@@ -27,6 +27,7 @@
 - breast: （女子的）乳房 either of the two round soft parts at the front of a woman's body that produce milk when she has had a baby （男子的）退化乳房 the similar, smaller part on a man's body, which does not produce milk 胸部；胸脯 the top part of the front of your body, below your neck
 
 - belly: 腹部；肚子 the part of the body below the chest
+- tummy: 胃；肚子 the stomach or the area around the stomach
 
 - waist: 腰；腰部 the area around the middle of the body between the ribs and the hips, often narrower than the areas above and below
 - hip: 臀部；髋 the area at either side of the body between the top of the leg and the waist; the joint at the top of the leg

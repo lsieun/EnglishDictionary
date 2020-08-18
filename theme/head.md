@@ -5,3 +5,6 @@
 
 - dizzy: 头晕目眩的；眩晕的 feeling as if everything is spinning around you and that you are not able to balance
 - dazzle: （强光等）使目眩，使眼花 if a strong light dazzles you, it is so bright that you cannot see for a short time
+
+
+- light-headed: 头晕的；眩晕的  not completely in control of your thoughts or movements; slightly faint

@@ -5,6 +5,7 @@ import java.util.List;
 public class Word {
     public String name;
     public String cognate; // 同源词
+    public String similar; // 形似词
     public List<String> stories;
     public List<Definition> definitions;
 

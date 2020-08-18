@@ -10,5 +10,7 @@
 
 - gust: 一阵强风；一阵狂风 a sudden strong increase in the amount and speed of wind that is blowing
 
-
+- hurricane: （尤指西大西洋的）飓风 a violent storm with very strong winds, especially in the western Atlantic Ocean
 - tornado: 龙卷风；旋风 a violent storm with very strong winds which move in a circle. There is often also a long cloud which is narrower at the bottom than the top.
+- typhoon: 台风 a violent tropical storm with very strong winds
+

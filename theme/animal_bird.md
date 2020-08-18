@@ -16,12 +16,15 @@
 - woodpecker: 啄木鸟 a bird with a long beak that it uses to make holes in trees when it is looking for insects to eat
 
 - sparrow: 麻雀 a small brown and grey bird, common in many parts of the world
+- swallow: 燕 a small bird with long pointed wings and a tail with two points, that spends the winter in Africa but flies to northern countries for the summer
 
 - peck: 啄；鹐 to move the beak forward quickly and hit or bite sth
 
 ## water
 
 - crane: 鹤 a large bird with long legs and a long neck 起重机；吊车 a tall machine with a long arm, used to lift and move building materials and other heavy objects
+
+- seagull: 海鸥 a common gray and white seabird
 
 ## Attack
 

@@ -8,7 +8,7 @@
 
 - Meaning: a false belief or opinion about yourself or your situation
 - Chinese: 错觉；谬见；妄想
-- Tags: opinion
+- Tags: opinion, vision
 - Eg.: the delusions of the mentally ill 精神病患者的妄想
 - Eg.: Don't go getting delusions of grandeur(= a belief that you are more important than you actually are). 不要变得妄自尊大。
 

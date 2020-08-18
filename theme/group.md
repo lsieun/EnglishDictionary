@@ -5,6 +5,8 @@
 - superior: 级别（或地位、职位）更高的人；上级；上司 a person of higher rank, status or position
 - leader: 领导者；领袖；首领 a person who leads a group of people, especially the head of a country, an organization, etc.
 
+- drove: （移动的）人群，畜群 a large number of people or animals, often moving or doing sth as a group
+
 ## 代表
 
 - delegate: 授（权）；把（工作、权力等）委托（给下级）to give part of your work, power or authority to sb in a lower position than you

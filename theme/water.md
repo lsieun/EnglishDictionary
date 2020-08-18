@@ -14,3 +14,6 @@
 - sewage: （下水道的）污水，污物 used water and waste substances that are produced by human bodies, that are carried away from houses and factories through special pipes(= sewers )
 
 - saturate: 使湿透；浸透 to make sth completely wet 使充满；使饱和 to fill sth/sb completely with sth so that it is impossible or useless to add any more
+
+- irrigate: 灌溉 to supply water to an area of land through pipes or channels so that crops will grow
+- irritate: 使烦恼（尤指不断重复的事情） to annoy sb, especially by sth you continuously do or by sth that continuously happens

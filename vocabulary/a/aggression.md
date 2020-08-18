@@ -1,0 +1,21 @@
+# aggression
+
+- Word: aggression
+- Cognate: 
+- Similar: 
+- Story: Aggression is hostile, purposely unfriendly behavior that can sometimes be violent. A motorist who shows aggression for another may follow too closely, honk the horn, or otherwise try to intimidate.
+- Story: When someone deliberately tries to make another person feel intimidated or threatened, it's an act of aggression. Forceful, unfriendly behavior towards others is one example of aggression, and one country's hostile action toward another is also a kind of aggression. It's been used since the 1600s to mean "an unprovoked attack," from the Latin root word aggressionem, "attack," and in 1912 aggression was first used to mean generally "hostile behavior."
+
+## noun
+
+- Plural: 
+- Single: 
+- Meaning: a violent attack or threats by one person against another person or by one country against another country
+- Chinese: 侵犯；挑衅；侵略
+- Tags: behaviour
+- Synonyms: 
+- Antonyms: 
+- Use: 
+- Eg.: 
+- Picture: 
+

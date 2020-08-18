@@ -4,8 +4,12 @@
 - plantation: 种植园，种植场（尤指热带国家种植咖啡、甘蔗、橡胶等的大庄园）a large area of land, especially in a hot country, where crops such as coffee, sugar, rubber, etc. are grown
 - orchard: 果园 a piece of land, normally separated from the surrounding area, in which fruit trees are grown
 
+- farming: 务农；农场经营 the business of managing or working on a farm
+- farm: 农场 an area of land, and the buildings on it, used for growing crops and/or keeping animals
+
 ## 灌溉
 
+- irrigate: 灌溉 to supply water to an area of land through pipes or channels so that crops will grow
 - irrigation: 灌溉；水利 the practice of supplying land with water so that crops and plants will grow
 - pump: 抽水机；泵；打气筒 a machine that is used to force liquid, gas or air into or out of sth
 

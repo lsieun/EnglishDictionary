@@ -10,6 +10,7 @@
 - considerable: 相当多（或大、重要等）的 great in amount, size, importance, etc.
 - surplus: 过剩的；剩余的；多余的 more than is needed or used
 
+- sizable: 相当大的,大的 fairly large
 
 ## 中等
 

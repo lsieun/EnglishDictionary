@@ -1,6 +1,8 @@
 # emotion contempt
 
 - contempt: （名词）蔑视；轻蔑；鄙视 the feeling that sb/sth is without value and deserves no respect at all
+- contemptuous: 蔑视的；鄙视的；表示轻蔑的 feeling or showing that you have no respect for sb/sth
+
 - deplore: 公开谴责；强烈反对 to strongly disapprove of sth and criticize it, especially publicly
 - derogatory: （形容词）贬低的；贬义的 showing strong disapproval and not showing respect
 - disdain: 鄙视；蔑视；鄙弃 to think that sb/sth is not good enough to deserve your respect

@@ -15,6 +15,8 @@
 
 - porch: 门廊；门厅 a small area at the entrance to a building, such as a house or a church, that is covered by a roof and often has walls
 
+- passage: 通道；走廊 a long narrow area with walls on either side that connects one room or place with another
+
 ## 会议
 
 - auditorium: 礼堂；会堂 a large building or room in which public meetings, concerts, etc. are held

@@ -9,5 +9,6 @@
 - Meaning: extremely beautiful or carefully made
 - Chinese: 精美的；精致的
 - Tags: 
+- Synonyms: delicate
 - Eg.: exquisite craftsmanship 精美的工艺
 

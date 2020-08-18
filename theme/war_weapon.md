@@ -14,6 +14,7 @@
 - submachine-gun: 冲锋枪
 - artillery: （统称）火炮 large, heavy guns which are often moved on wheels
 - pistol: 手枪 a small gun that you can hold and fire with one hand
+- revolver: 左轮手枪 a small gun that has a container for bullets that turns around so that shots can be fired quickly without having to stop to put more bullets in
 
 ## sea
 

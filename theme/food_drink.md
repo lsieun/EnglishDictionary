@@ -33,4 +33,4 @@ laws governing the sale of alcoholic beverages 控制酒类销售的法规
 - cocktail: 鸡尾酒 a drink usually made from a mixture of one or more spirits (= strong alcoholic drinks) and fruit juice. It can also be made without alcohol.
 - wine: 葡萄酒 an alcoholic drink made from the juice of grapes that has been left to ferment. There are many different kinds of wine. （用植物或除葡萄以外的水果酿制的）酒，果酒 an alcoholic drink made from plants or fruits other than grapes
 - liquor: 烈性酒 strong alcoholic drink
-
+- whisky: 威士忌 a strong alcoholic drink made from malted grain. It is sometimes drunk with water and/or ice.

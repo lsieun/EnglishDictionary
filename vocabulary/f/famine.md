@@ -8,6 +8,6 @@
 
 - Meaning: a lack of food during a long period of time in a region
 - Chinese: 饥荒
-- Tags: 
+- Tags: disaster
 - Eg.: a severe famine 严重饥荒
 

@@ -10,6 +10,9 @@
 
 - siege: （军队对城镇的）围困，包围，围攻，封锁 a military operation in which an army tries to capture a town by surrounding it and stopping the supply of food, etc. to the people inside （警察对建筑物的）包围，封锁 a situation in which the police surround a building where people are living or hiding, in order to make them come out
 
+- fortify: 筑防御工事；（尤指）筑城防御 to make a place more able to resist attack, especially by building high walls
+- forty: 四十
+
 ## 人
 
 - battalion: （有组织的）队伍 a large group of people, especially an organized group with a particular purpose

@@ -9,9 +9,16 @@
 
 - corpse: 尸体;尸首 the body of a dead person
 
+- fatal: 致命的 causing or ending in death
+- fatality: （事故、战争、疾病等中的）死亡 a death that is caused in an accident or a war, or by violence or disease
+
 - crucify: 把（某人）钉（或捆）在木十字架上处死 to kill sb as a punishment by fastening them to a wooden cross
 
 - wreath: 花圈（用于祭奠） an arrangement of flowers and leaves, especially in the shape of a circle, placed on graves, etc. as a sign of respect for sb who has died
+
+- decease: 死亡；亡故 the death of a person
+- deceased: adj. 死去了的；已死的；亡故的 dead
+- deceased: n. 死者；已故者 a person who has died, especially recently
 
 ## ceremony
 

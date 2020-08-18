@@ -2,6 +2,10 @@
 
 - mudra: 手印 a symbolic position in which the hands are held in Hindu dancing and ritual
 
+- sutra: （梵文的）箴言，格言，经 a rule or statement in Sanskrit literature, or a set of rules
+
+- Buddhahood: 佛果；成佛 the state of spiritual enlightenment attained by the Buddha
+
 ## temple
 
 - temple: （非基督教的）庙宇，寺院，神殿，圣堂 a building used for the worship of a god or gods, especially in religions other than Christianity

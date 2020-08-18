@@ -5,7 +5,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import lsieun.dict.core.Definition;
+import lsieun.dict.core.PartOfSpeech;
 import lsieun.dict.core.Word;
+import lsieun.dict.core.WordConst;
 import lsieun.utils.StringUtils;
 import lsieun.utils.io.FileUtils;
 
@@ -24,7 +26,22 @@ public class WordUtils {
         Definition def = null;
         for (String line : lines) {
             if (StringUtils.isBlank(line)) continue;
-            if (line.startsWith("#")) continue;
+            if (line.startsWith("# ")) {
+                w = new Word();
+                continue;
+            }
+            if (line.startsWith("## ")) {
+                String content = line.replaceFirst("## ", "");
+                content = processContent(content);
+                def = new Definition();
+                def.type = content;
+
+                if (w.definitions == null) {
+                    w.definitions = new ArrayList<>();
+                }
+                w.definitions.add(def);
+                continue;
+            }
 
             int index = line.indexOf(":");
             if (index < 0) continue;
@@ -38,8 +55,7 @@ public class WordUtils {
             firstPart = firstPart.trim();
             if (StringUtils.isBlank(firstPart)) continue;
 
-            secondPart = secondPart.trim();
-            secondPart = secondPart.replaceAll("( )\\1+", " ");
+            secondPart = processContent(secondPart);
             if (StringUtils.isBlank(secondPart)) continue;
 
             if ("Word".equals(firstPart)) {
@@ -54,6 +70,11 @@ public class WordUtils {
                 continue;
             }
 
+            if ("Similar".equals(firstPart)) {
+                w.similar = secondPart;
+                continue;
+            }
+
             if ("Story".equals(firstPart)) {
                 if (StringUtils.isBlank(secondPart)) continue;
 
@@ -65,16 +86,6 @@ public class WordUtils {
             }
 
 
-            if ("Type".equals(firstPart)) {
-                def = new Definition();
-                def.type = secondPart;
-
-                if (w.definitions == null) {
-                    w.definitions = new ArrayList<>();
-                }
-                w.definitions.add(def);
-                continue;
-            }
             if (def == null) continue;
 
             if ("Meaning".equals(firstPart)) {
@@ -126,6 +137,11 @@ public class WordUtils {
         return w;
     }
 
+    public static String processContent(String content) {
+        if (content == null) return "";
+        return content.trim().replaceAll("( )\\1+", " ");
+    }
+
     public static void rewriteWord(String word) {
         String filepath = getWordFilePath(word);
         rewriteFile(filepath);
@@ -150,62 +166,80 @@ public class WordUtils {
     public static List<String> getWordLines(Word w) {
         List<String> lines = new ArrayList<>();
 
-        lines.add(String.format("# %s", w.name));
+        lines.add(getH1(w.name));
         lines.add("");
 
-        lines.add(String.format("- %s: %s", "Word", w.name));
+        lines.add(getItemLine("Word", w.name));
         if (StringUtils.isNotBlank(w.cognate)) {
-            lines.add(String.format("- %s: %s", "Cognate", w.cognate));
+            lines.add(getItemLine("Cognate", w.cognate));
+        }
+        if (StringUtils.isNotBlank(w.similar)) {
+            lines.add(getItemLine("Similar", w.similar));
         }
         if (w.stories != null && w.stories.size() > 0) {
             for (String story : w.stories) {
-                lines.add(String.format("- %s: %s", "Story", story));
+                lines.add(getItemLine("Story", story));
             }
         }
+        if (w.definitions != null) {
+            String similar = "";
+            for (Definition def : w.definitions) {
+                if (StringUtils.isNotBlank(def.similar)) {
+                    similar += ", " + def.similar;
+                }
+            }
+            if (StringUtils.isNotBlank(similar)) {
+                lines.add(getItemLine("Similar", similar));
+            }
+        }
+
         lines.add("");
 
         if (w.definitions != null) {
             for (Definition def : w.definitions) {
-                lines.add(String.format("- %s: %s", "Type", def.type));
+                String type = def.type;
+                int index = type.indexOf("[");
+                if (index > -1) {
+                    type = type.substring(0, index);
+                }
+                type = type.trim();
+
+                lines.add(getH2(type));
+                lines.add("");
                 if (StringUtils.isNotBlank(def.plural)) {
-                    lines.add(String.format("- %s: %s", "Plural", def.plural));
+                    lines.add(getItemLine("Plural", def.plural));
                 }
                 if (StringUtils.isNotBlank(def.single)) {
-                    lines.add(String.format("- %s: %s", "Single", def.single));
+                    lines.add(getItemLine("Single", def.single));
                 }
                 if (StringUtils.isNotBlank(def.comparative)) {
-                    lines.add(String.format("- %s: %s", "Comparative", def.comparative));
+                    lines.add(getItemLine("Comparative", def.comparative));
                 }
-                lines.add(String.format("- %s: %s", "Meaning", def.meaning_en));
-                lines.add(String.format("- %s: %s", "Chinese", def.meaning_ch));
+                lines.add(getItemLine("Meaning", def.meaning_en));
+                lines.add(getItemLine("Chinese", def.meaning_ch));
                 if (StringUtils.isNotBlank(def.tags)) {
-                    lines.add(String.format("- %s: %s", "Tags", def.tags));
+                    lines.add(getItemLine("Tags", def.tags));
                 } else {
-                    lines.add(String.format("- %s: ", "Tags"));
+                    lines.add(getItemLine("Tags", ""));
                 }
                 if (StringUtils.isNotBlank(def.synonyms)) {
-                    lines.add(String.format("- %s: %s", "Synonyms", def.synonyms));
+                    lines.add(getItemLine("Synonyms", def.synonyms));
                 }
                 if (StringUtils.isNotBlank(def.antonyms)) {
-                    lines.add(String.format("- %s: %s", "Antonyms", def.antonyms));
-                }
-                if (StringUtils.isNotBlank(def.similar)) {
-                    lines.add(String.format("- %s: %s", "Similar", def.similar));
+                    lines.add(getItemLine("Antonyms", def.antonyms));
                 }
                 if (StringUtils.isNotBlank(def.use)) {
-                    lines.add(String.format("- %s: %s", "Use", def.use));
+                    lines.add(getItemLine("Use", def.use));
                 }
                 if (def.examples != null && def.examples.size() > 0) {
                     for (String str : def.examples) {
-                        lines.add(String.format("- %s: %s", "Eg.", str));
+                        lines.add(getItemLine("Eg.", str));
                     }
-                } else {
-                    lines.add(String.format("- %s: ", "Eg."));
                 }
 
                 if (def.pictures != null) {
                     for (String str : def.pictures) {
-                        lines.add(String.format("- %s: %s", "Picture", str));
+                        lines.add(getItemLine("Picture", str));
                     }
                 }
 
@@ -219,12 +253,13 @@ public class WordUtils {
     public static List<String> getWordLines(String vocabulary, String type) {
         List<String> lines = new ArrayList<>();
 
-        lines.add(String.format("# %s", vocabulary));
+        lines.add(getH1(vocabulary));
         lines.add("");
 
-        lines.add(String.format("- %s: %s", "Word", vocabulary));
-        lines.add(String.format("- %s: ", "Cognate"));
-        lines.add(String.format("- %s: ", "Story"));
+        lines.add(getItemLine("Word", vocabulary));
+        lines.add(getItemLine("Cognate", ""));
+        lines.add(getItemLine("Similar", ""));
+        lines.add(getItemLine("Story", ""));
         lines.add("");
 
         lines.addAll(getDefinitionLines(type));
@@ -234,42 +269,76 @@ public class WordUtils {
 
 
     public static List<String> getDefinitionLines(String type) {
+        PartOfSpeech part_of_speech = PartOfSpeech.NULL;
+
         if ("adj".equalsIgnoreCase(type)) {
             type = "adjective";
+            part_of_speech = PartOfSpeech.ADJECTIVE;
         } else if ("nc".equalsIgnoreCase(type)) {
             type = "noun";
+            part_of_speech = PartOfSpeech.NOUN;
         } else if ("nu".equalsIgnoreCase(type)) {
             type = "noun";
+            part_of_speech = PartOfSpeech.NOUN;
         } else if ("ns".equalsIgnoreCase(type)) {
             type = "noun";
+            part_of_speech = PartOfSpeech.NOUN;
         } else if ("ncu".equalsIgnoreCase(type)) {
             type = "noun";
+            part_of_speech = PartOfSpeech.NOUN;
         } else if ("vi".equalsIgnoreCase(type)) {
             type = "verb";
+            part_of_speech = PartOfSpeech.VERB;
         } else if ("vt".equalsIgnoreCase(type)) {
             type = "verb";
+            part_of_speech = PartOfSpeech.VERB;
         } else if ("vit".equalsIgnoreCase(type)) {
             type = "verb";
+            part_of_speech = PartOfSpeech.VERB;
         } else if ("adv".equalsIgnoreCase(type)) {
             type = "adverb";
+            part_of_speech = PartOfSpeech.ADVERB;
         }
 
         List<String> lines = new ArrayList<>();
-        lines.add(String.format("- %s: %s", "Type", type));
-        lines.add(String.format("- %s: ", "Plural"));
-        lines.add(String.format("- %s: ", "Single"));
-        lines.add(String.format("- %s: ", "Comparative"));
-        lines.add(String.format("- %s: ", "Meaning"));
-        lines.add(String.format("- %s: ", "Chinese"));
-        lines.add(String.format("- %s: ", "Tags"));
-        lines.add(String.format("- %s: ", "Synonyms"));
-        lines.add(String.format("- %s: ", "Antonyms"));
-        lines.add(String.format("- %s: ", "Similar"));
-        lines.add(String.format("- %s: ", "Use"));
-        lines.add(String.format("- %s: ", "Eg."));
-        lines.add(String.format("- %s: ", "Picture"));
+        lines.add(getH2(type));
+        lines.add("");
+
+        switch (part_of_speech) {
+            case NOUN:
+                lines.add(getItemLine("Plural", ""));
+                lines.add(getItemLine("Single", ""));
+                break;
+            case ADJECTIVE:
+                lines.add(getItemLine("Comparative", ""));
+                break;
+            default:
+                // do nothing
+                break;
+        }
+
+        lines.add(getItemLine("Meaning", ""));
+        lines.add(getItemLine("Chinese", ""));
+        lines.add(getItemLine("Tags", ""));
+        lines.add(getItemLine("Synonyms", ""));
+        lines.add(getItemLine("Antonyms", ""));
+        lines.add(getItemLine("Use", ""));
+        lines.add(getItemLine("Eg.", ""));
+        lines.add(getItemLine("Picture", ""));
         lines.add("");
         return lines;
+    }
+
+    public static String getH1(String title) {
+        return String.format(WordConst.H1_FORMAT, title);
+    }
+
+    public static String getH2(String title) {
+        return String.format(WordConst.H2_FORMAT, title);
+    }
+
+    public static String getItemLine(String item, String content) {
+        return String.format(WordConst.ITEM_FORMAT, item, content);
     }
 
     /**

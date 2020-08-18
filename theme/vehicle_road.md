@@ -18,6 +18,7 @@
 
 ## 高速
 
+- expressway: （美国）高速公路(in the US) a wide road that allows traffic to travel fast through a city or other area where many people live
 - freeway: （美国）高速公路 (in the US) a wide road, where traffic can travel fast for long distances. You can only enter and leave freeways at special ramps.
 - highway: （尤指城镇间的）公路，干道，交通要道 a main road for travelling long distances, especially one connecting and going through cities and towns
 - motorway: （英国）高速公路 (in Britain) a wide road, with at least two lanes in each direction, where traffic can travel fast for long distances between large towns. You can only enter and leave motorways at special junctions.

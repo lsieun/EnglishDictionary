@@ -6,7 +6,7 @@
 
 - Meaning: the most important or successful part of sth
 - Chinese: 顶点；顶峰；鼎盛时期 (虽然是可数名词，但常常是单数形式)
-- Tags: 
+- Tags: top
 - Use: ~ of sth
 - Eg.: By the age of 32 she had reached the pinnacle of her career.
 

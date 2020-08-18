@@ -20,7 +20,7 @@ public class DirectoryUtils {
         File[] files = dirFile.listFiles();
         if (files == null || files.length < 1) return null;
 
-        List<String> fileNameList = new ArrayList();
+        List<String> fileNameList = new ArrayList<>();
         for (File file : files) {
             String fileName = file.getName();
 
@@ -39,13 +39,15 @@ public class DirectoryUtils {
         File[] files = getDirFile(vocabularyPath).listFiles();
         if (files == null || files.length < 1) return null;
 
-        List<String> fileNameList = new ArrayList();
+        List<String> fileNameList = new ArrayList<>();
         for (File file : files) {
             if(!file.isDirectory()) continue;
             String fileName = file.getName();
             String subDir = vocabularyPath + File.separator + fileName;
             List<String> list = getAllMarkdownFiles(subDir);
-            fileNameList.addAll(list);
+            if (list != null && list.size() > 0) {
+                fileNameList.addAll(list);
+            }
         }
         System.out.println("Read Vocabulary Files: " + fileNameList.size());
         return fileNameList;

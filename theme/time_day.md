@@ -11,6 +11,7 @@
 - sunrise: 日出 the time when the sun first appears in the sky in the morning
 - sunset: 日落；傍晚 the time when the sun goes down and night begins
 
+- daytime: 白天；白昼；日间 the period during the day between the time when it gets light and the time when it gets dark
 
 ##  晚上
 

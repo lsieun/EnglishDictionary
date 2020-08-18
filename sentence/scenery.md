@@ -23,6 +23,20 @@
 - semantic: 
 - vocabulary: 
 
+## 004
+
+- sentence: The fog greatly reduced visibility on the road.
+- chinese: 浓雾大大降低了路上的可见度。
+- semantic: 
+- vocabulary: fog, visibility
+
+## 005
+
+- sentence: Fog severely restricted visibility.
+- chinese: 浓雾严重影响了能见度。
+- semantic: 
+- vocabulary: fog, restrict, visibility
+
 ## xxx
 
 - sentence: 

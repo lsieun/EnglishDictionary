@@ -16,6 +16,8 @@
 - spray: 喷剂；喷雾的液体 a substance that is forced out of a container such as an aerosol , in very small drops
 - hair spray: 喷发胶；喷发定型剂；定型喷雾 a substance sprayed onto the hair to hold it in place
 
+- shampoo: 洗发水；洗发露 a liquid soap that is used for washing your hair
+
 - dryer: 烘干机；脱水机；干燥机 a machine for drying sth
 - hair dryer: 电吹风；风筒；吹风筒 a device that uses heated air for drying hair, either handheld or in the shape of a dome that fits over the head
 

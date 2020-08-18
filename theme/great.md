@@ -1,12 +1,21 @@
 # great
 
+- accomplished: 才华高的；技艺高超的；熟练的 very good at a particular thing; having a lot of skills
 - distinguished: 卓越的；杰出的；著名的 very successful and admired by other people
+
+- eminent: （尤指在某专业中）卓越的，著名的，显赫的 famous and respected, especially in a particular profession
+
 - profound: 知识渊博的；理解深刻的；深邃的 showing great knowledge or understanding
 
 - marvellous: 极好的；非凡的 extremely good; wonderful
 - miraculous: 奇迹般的；不可思议的；不平凡的 like a miracle ; completely unexpected and very lucky
+
+- phenomenal: 了不起的；非凡的 very great or impressive
+
+- resounding: 巨大的；令人瞩目的 very great
+
 - salient: 最重要的；显著的；突出的 most important or noticeable
 - noteworthy: 值得注意的；显著的；重要的 deserving to be noticed or to receive attention because it is unusual, important or interesting
 
 - sublime: 崇高的；壮丽的；宏伟的；令人赞叹的 of very high quality and causing great admiration
-
+- supreme: （级别或地位）最高的，至高无上的 highest in rank or position

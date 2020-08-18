@@ -25,6 +25,8 @@
 - bribery: 行贿；受贿；贿赂 the giving or taking of bribes
 - bribe: 贿赂 a sum of money or sth valuable that you give or offer to sb to persuade them to help you, especially by doing sth dishonest
 
+- profitable: 有利润的；赢利的 that makes or is likely to make money
+
 ## 津贴
 
 - allowance: 津贴；补贴；补助 an amount of money that is given to sb regularly or for a particular purpose

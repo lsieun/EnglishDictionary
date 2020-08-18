@@ -25,7 +25,9 @@
 
 - epilogue: （剧本、电影的）收场白，尾声；（书籍的）后记，跋 a speech, etc. at the end of a play, book, or film/movie that comments on or acts as a conclusion to what has happened
 
+- hero: 英雄，豪杰（尤指男性） a person, especially a man, who is admired by many people for doing sth brave or good
 - heroine: （故事、小说、电影等中的）女主人公，女主角 the main female character in a story, novel, film/movie, etc.
+- heroin: 海洛因 a powerful illegal drug made from morphine, that some people take for pleasure and can become addicted to
 
 ## 类型
 
@@ -41,6 +43,7 @@
 - literature: 文学；文学作品 pieces of writing that are valued as works of art, especially novels, plays and poems (in contrast to technical books and newspapers, magazines, etc.)
 - prose: 散文 writing that is not poetry
 
+- satire: 讽刺；讥讽；讽刺作品 a way of criticizing a person, an idea or an institution in which you use humour to show their faults or weaknesses; a piece of writing that uses this type of criticism
 
 ## book
 
