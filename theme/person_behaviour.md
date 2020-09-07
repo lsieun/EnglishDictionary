@@ -20,3 +20,9 @@
 - hesitant: 犹豫的；踌躇的；不情愿的 slow to speak or act because you feel uncertain, embarrassed or unwilling
 
 - hypocrisy: 伪善；虚伪 behaviour in which sb pretends to have moral standards or opinions that they do not actually have
+
+## 具体动作
+
+- hop: 单脚跳行 to move by jumping on one foot 齐足（或双足）跳行 to move by jumping with all or both feet together
+
+- prostrate: 俯伏；拜倒 to lie on your front with your face looking downwards, especially as an act of worship

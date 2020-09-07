@@ -8,5 +8,5 @@
 
 - Meaning: the end or failure of an institution, an idea, a company, etc.
 - Chinese: 终止；失败；倒闭
-- Tags: 
+- Tags: death
 

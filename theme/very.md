@@ -18,3 +18,7 @@ I'm terribly sorry─did I hurt you?
 
 It's terribly important for parents to be consistent.
 父母要做到始终如一，这是极为重要的。
+
+## U
+
+- utterly: 完全地；彻底地 completely; often used for emphasizing how bad someone or something is

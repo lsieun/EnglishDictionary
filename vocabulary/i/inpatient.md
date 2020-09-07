@@ -1,6 +1,7 @@
 # inpatient
 
 - Word: inpatient
+- Similar: impatient
 
 ## noun
 

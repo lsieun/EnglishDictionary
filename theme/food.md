@@ -16,6 +16,8 @@
 
 - gruel: （尤指旧时穷人吃的）稀粥，燕麦粥 a simple dish made by boiling oats in milk or water, eaten especially in the past by poor people
 
+
+
 ## 吃
 
 - dietary: 饮食的 related to the foods that someone eats
@@ -25,9 +27,4 @@
 
 - crisp: 脆的；酥脆的 pleasantly hard and dry
 
-## person
 
-- cook: n. 做饭的人；炊事员；厨师 a person who cooks food or whose job is cooking
-- chef: n. 厨师；（尤指餐馆、旅馆等的）主厨，厨师长 a professional cook, especially the most senior cook in a restaurant, hotel, etc.
-
-A chef is a skilled cook who manages the kitchen in a restaurant or hotel. 主厨是指在饭店或酒店掌管厨房的熟练厨师。

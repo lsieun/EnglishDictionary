@@ -10,6 +10,7 @@
 - empire: 帝国 a group of countries or states that are controlled by one ruler or government
 - emperor: 皇帝 the ruler of an empire
 - empress: 皇后 the wife of an emperor 女皇 a woman who is the ruler of an empire
+- express: 表示；表达；表露 to show or make known a feeling, an opinion, etc. by words, looks or actions
 
 - imperial: 帝国的；皇帝的 connected with an empire
 
@@ -17,6 +18,7 @@
 
 ## traitor
 
+- exile: 流放；流亡；放逐 the state of being sent to live in another country that is not your own, especially for political reasons or as a punishment
 - treason: 危害国家罪，叛国罪（如战时通敌）the crime of doing sth that could cause danger to your country, such as helping its enemies during a war
 - traitor: 背叛者；叛徒；卖国贼 a person who gives away secrets about their friends, their country, etc.
 

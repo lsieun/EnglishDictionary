@@ -1,7 +1,7 @@
 # lateral
 
 - Word: lateral
-- Similar: unilateral
+- Similar: unilateral, bilateral, multilateral
 
 ## adjective
 

@@ -12,34 +12,5 @@
 
 - tuberculosis: 结核病 a serious infectious disease in which swellings appear on the lungs and other parts of the body
 
-- sore: 痛处；伤处；疮 a painful, often red, place on your body where there is a wound or an infection
-- stiff: 僵硬的；一动就疼的 when a person is stiff, their muscles hurt when they move them
-
-- illness: （身体或精神上的）疾病，病 the state of being physically or mentally ill
 - injury: （对躯体的）伤害，损伤 harm done to a person's or an animal's body, for example in an accident
 
-- cramp: 痛性痉挛；抽筋 a sudden pain that you get when the muscles in a particular part of your body contract, usually caused by cold or too much exercise
-
-## Nose
-
-- sneeze: 打喷嚏 to have air come suddenly and noisily out through your nose and mouth in a way that you cannot control, for example because you have a cold
-
-## tooth
-
-- toothache: 牙痛 a pain in your teeth or in one tooth
-
-## 长期
-
-- bedridden: 长期卧床的 having to stay in bed all the time because you are sick, injured or old
-- diabetes: 糖尿病a medical condition which makes the patient produce a lot of urine and feel very thirsty. There are several types of diabetes.
-
-- pneumonia: 肺炎 a serious illness affecting one or both lungs that makes breathing difficult
-
-## 流行病
-
-- vaccine: 疫苗 a substance that is put into the blood and that protects the body from a disease
-
-- contagious: （疾病）接触传染的 a contagious disease spreads by people touching each other
-
-- epidemic: 流行病 a large number of cases of a particular disease happening at the same time in a particular community
-- flu: 流行性感冒；流感 an infectious disease like a very bad cold, that causes fever, pains and weakness

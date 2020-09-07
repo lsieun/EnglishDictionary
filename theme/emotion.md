@@ -10,6 +10,7 @@
 - admiration and disdain
 - fondness and aversion
 
+- contented: （尤指因生活好而）满意的，惬意的，满足的 showing or feeling happiness or satisfaction, especially because your life is good
 - discontent: 不满；不满足；不满足的缘由 a feeling of being unhappy because you are not satisfied with a particular situation; sth that makes you have this feeling
 
 - vanity: 自负；自大；虚荣；虚荣心 too much pride in your own appearance, abilities or achievements

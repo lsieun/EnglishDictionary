@@ -29,7 +29,9 @@
 - watt: 瓦，瓦特（电功率单位）a unit for measuring electrical power
 
 - capacitor: 电容器 a device used to store an electrical charge
+- conductivity: 电导率 the ability of an object or substance to transmit heat, electricity, or sound
 
+- resistor: 电阻器 a device that has resistance to an electric current in a circuit
 - transistor: 晶体管 a small electronic device used in computers, radios, televisions, etc. for controlling an electric current as it passes along a circuit
 - semiconductor: 半导体 a solid substance that conducts electricity in particular conditions, better than insulators but not as well as conductors
 - insulator: 隔热（或绝缘、隔音等的）材料（或装置）a material or device used to prevent heat, electricity, or sound from escaping from sth

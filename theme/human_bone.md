@@ -2,6 +2,7 @@
 
 - bone: 骨头；骨 any of the hard parts that form the skeleton of the body of a human or an animal
 - skeleton: 骨骼；骨架；骨骼标本 the structure of bones that supports the body of a person or an animal; a model of this structure
+- backbone: 脊梁骨；脊柱 the row of small bones that are connected together down the middle of the back
 
 ## top
 

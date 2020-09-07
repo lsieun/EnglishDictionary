@@ -37,3 +37,4 @@
 
 - voyage: 航行；（尤指）航海，航天 a long journey, especially by sea or in space
 - cruise: 乘船游览；航行 a journey by sea, visiting different places, especially as a holiday/vacation
+- sail: （船）航行；（人）乘船航行 to travel on water using sails or an engine

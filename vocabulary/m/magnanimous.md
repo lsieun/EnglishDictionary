@@ -8,6 +8,6 @@
 
 - Meaning: kind, generous and forgiving, especially towards an enemy or a rival
 - Chinese: 宽宏的，大度的（尤指对敌人或对手）
-- Tags: 
+- Tags: attitude, temper
 - Eg.: He was magnanimous in defeat and praised his opponent's skill. 他对失败表现得很洒脱，并且赞扬了对手的才能。
 

@@ -14,4 +14,8 @@ You look drastically thinner than before. 你看上去比之前瘦多了。
 
 - basically: 从根本上说；本质上 in the most important ways, without considering things that are less important 总的说来；从根本上说 used when you are giving your opinion or stating what is important about a situation
 
+- rather: （纠正所说的话或提供更确切的信息）更确切地讲，更准确地说 used to correct sth you have said, or to give more accurate information
+
+She worked as a secretary, or rather, a personal assistant. 她当了秘书；确切地讲，是私人助理。
+
 - supposedly: 据信；据传；据说 according to what is generally thought or believed but not known for certain

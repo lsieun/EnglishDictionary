@@ -404,12 +404,12 @@ public class WordUtils {
         word = word.trim();
 
         char ch = word.charAt(0);
-        String childpath = String.format("%s/%s.md", ch, word);
+        String childpath = String.format("%s%s%s.md", ch, File.separator, word);
         childpath = childpath.toLowerCase();
 
         String root_path = PropertyUtils.getProperty("english.dictionary.filepath") + File.separator + "vocabulary";
         String filepath = root_path + File.separator + childpath.toLowerCase();
-        System.out.println("file://" + filepath);
+        System.out.println("file:///" + filepath.replaceAll("\\\\", "/"));
         return filepath;
     }
 

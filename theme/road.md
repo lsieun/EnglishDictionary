@@ -12,13 +12,18 @@
 
 - detour: 绕行的路；迂回路；兜圈子 a longer route that you take in order to avoid a problem or to visit a place 临时绕行路；临时支路 a road or route that is used when the usual one is closed
 
+## 人行道
+
 - pavement: （马路边的）人行道 a flat part at the side of a road for people to walk on
 
 ![](images/pavement.jpg)
 
+- sidewalk: （马路边的）人行道 a flat part at the side of a road for people to walk on
+
 ## 高速
 
 - expressway: （美国）高速公路(in the US) a wide road that allows traffic to travel fast through a city or other area where many people live
+- flyover: 高架桥；跨线桥；立交桥 a bridge that carries one road over another one
 - freeway: （美国）高速公路 (in the US) a wide road, where traffic can travel fast for long distances. You can only enter and leave freeways at special ramps.
 - highway: （尤指城镇间的）公路，干道，交通要道 a main road for travelling long distances, especially one connecting and going through cities and towns
 - motorway: （英国）高速公路 (in Britain) a wide road, with at least two lanes in each direction, where traffic can travel fast for long distances between large towns. You can only enter and leave motorways at special junctions.

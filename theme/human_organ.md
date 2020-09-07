@@ -36,6 +36,7 @@
 ![](images/bowel.jpg)
 
 - intestine: 肠 a long tube in the body between the stomach and the anus. Food passes from the stomach to the small intestine and from there to the large intestine.
+- gut: 肠道；消化道 the tube in the body through which food passes when it leaves the stomach
 
 - appendix: 阑尾 a small bag of tissue that is attached to the large intestine. In humans, the appendix has no clear function.
 

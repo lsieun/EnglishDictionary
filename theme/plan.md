@@ -1,5 +1,6 @@
 # plan
 
+- conspire: 密谋；图谋；阴谋 to secretly plan with other people to do sth illegal or harmful
 - conspiracy: 密谋策划；阴谋 a secret plan by a group of people to do sth harmful or illegal
 
 - schedule: 工作计划；日程安排 a plan that lists all the work that you have to do and when you must do each thing

@@ -4,8 +4,11 @@
 - bomb: 炸弹 a weapon designed to explode at a particular time or when it is dropped or thrown
 - missile: 导弹 a weapon that is sent through the air and that explodes when it hits the thing that it is aimed at
 
+- armament: 军备；武器 weapons, especially large guns, bombs, tanks, etc.
 - arsenal: （统称）武器 a collection of weapons such as guns and explosives 兵工厂；武器库；军火库 a building where military weapons and explosives are made or stored
 - ammunition: 弹药 a supply of bullets, etc. to be fired from guns
+
+- disarm: 缴（某人）的械；解除（某人）的武装 to take a weapon or weapons away from sb 裁军；裁减军备（尤指核武器）to reduce the size of an army or to give up some or all weapons, especially nuclear weapons
 
 ## gun
 

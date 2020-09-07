@@ -4,6 +4,9 @@
 
 - cataclysm: （突然降临的）大灾难，大灾变，大动乱 a sudden disaster or a violent event that causes change, for example a flood or a war
 - catastrophe: 灾难；灾祸；横祸 a sudden event that causes many people to suffer
+- tribulation: 忧患；苦难；磨难；痛苦 great trouble or suffering
+- retribution: 严惩；惩罚；报应 severe punishment for sth seriously wrong that sb has done
+- havoc: 灾害；祸患；浩劫 a situation in which there is a lot of damage, destruction or confusion
 - hazard: 危险；危害 a thing that can be dangerous or cause damage
 
 ## water

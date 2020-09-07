@@ -24,13 +24,4 @@ laws governing the sale of alcoholic beverages 控制酒类销售的法规
 - yoghurt: 酸奶,乳酪,酸乳 a food made from milk that has become thick and slightly sour, sometimes with fruit added to it
 - dairy: 乳制品 milk, eggs, cheese and other milk products 牛奶场；乳品场 a place on a farm where milk is kept and where butter and cheese are made 乳品公司；乳品店 a company that sells milk, eggs, cheese and other milk products
 
-## wine
 
-- alcohol: 含酒精饮料；酒 drinks such as beer, wine, etc. that can make people drunk
-- beer: 啤酒 an alcoholic drink made from malt and flavoured with hops. There are many types of beer.
-- brandy: 白兰地（酒）a strong alcoholic drink made from wine
-- champagne: 香槟酒 a French sparkling white wine (= one with bubbles) that is drunk on special occasions
-- cocktail: 鸡尾酒 a drink usually made from a mixture of one or more spirits (= strong alcoholic drinks) and fruit juice. It can also be made without alcohol.
-- wine: 葡萄酒 an alcoholic drink made from the juice of grapes that has been left to ferment. There are many different kinds of wine. （用植物或除葡萄以外的水果酿制的）酒，果酒 an alcoholic drink made from plants or fruits other than grapes
-- liquor: 烈性酒 strong alcoholic drink
-- whisky: 威士忌 a strong alcoholic drink made from malted grain. It is sometimes drunk with water and/or ice.

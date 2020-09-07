@@ -9,3 +9,5 @@
 - consulate: 领事馆 the building where a consul works
 - consul: 领事 a government official who is the representative of his or her country in a foreign city
 - consult: 咨询；请教 to go to sb for information or advice
+
+- theatre: 戏院；剧场；露天剧场 a building or an outdoor area where plays and similar types of entertainment are performed 电影院 a building in which films/movies are shown

@@ -25,4 +25,5 @@
 
 ## 不好的态度
 
-- arrogant: 傲慢的；自大的 behaving in a proud, unpleasant way, showing little thought for other people
+- arrogant: adj. 傲慢的；自大的 behaving in a proud, unpleasant way, showing little thought for other people
+- arrogance: n. 傲慢；自大 the behaviour of a person when they feel that they are more important than other people, so that they are rude to them or do not consider them

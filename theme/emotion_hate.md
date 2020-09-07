@@ -9,3 +9,5 @@
 He punctured the bicycle tyres out of pure malice. 他扎自行车轮胎完全是出于恶意。
 
 - nasty: 不友好的；恶意的；令人不愉快的 unkind; unpleasant
+
+- enmity: 敌意；敌对；仇恨 feelings of hatred towards sb

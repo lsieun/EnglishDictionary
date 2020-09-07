@@ -1,5 +1,7 @@
 # direction
 
+- anterior: 前部的；前面的 at or near the front
+
 ##  内外
 
 - interior: 内部；里面 the inside part of sth

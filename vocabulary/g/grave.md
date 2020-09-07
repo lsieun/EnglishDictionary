@@ -15,6 +15,6 @@
 - Synonyms: 
 - Antonyms: 
 - Use: 
-- Eg.: 
+- Eg.: We were in grave danger. 我们处于极大的危险之中。
 - Picture: 
 

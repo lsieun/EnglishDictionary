@@ -1,5 +1,6 @@
 # stone
 
+- cornerstone: 基石；奠基石 a stone at the corner of the base of a building, often laid in a special ceremony
 - rock: 岩石 the hard solid material that forms part of the surface of the earth and some other planets
 - rocky: 岩石的；多岩石的 made of rock; full of rocks
 - stone: 石头；石料；岩石 a hard solid mineral substance that is found in the ground, often used for building

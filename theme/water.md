@@ -8,6 +8,7 @@
 - vapor: (使…)蒸发；(使…)汽化 to change into a vapor, or cause sth. to change into a vapor
 - vapour: 蒸气；潮气；雾气 a mass of very small drops of liquid in the air, for example steam
 
+- transpire: （植物）水分蒸发，蒸腾 when plants or leavestranspire , water passes out from their surface
 
 - outlet: 出口；排放管 a pipe or hole through which liquid or gas can flow out
 

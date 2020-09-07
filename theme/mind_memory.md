@@ -7,6 +7,7 @@
 
 - souvenir: 纪念物；纪念品；（度假时买回来送人的）礼物 a thing that you buy and/or keep to remind yourself of a place, an occasion or a holiday/vacation; something that you bring back for other people when you have been on holiday/vacation
 
+- recollect: 记起；回忆起；记得 to remember sth, especially by making an effort to remember it
 - recollection: 记忆力；回忆；记忆 the ability to remember sth; the act of remembering sth
 - reminiscence: 怀旧的谈话；回忆录 a spoken or written description of sth that sb remembers about their past life
 

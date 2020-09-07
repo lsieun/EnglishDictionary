@@ -1,6 +1,7 @@
 # quest
 
 - Word: quest
+- Similar: question
 
 ## noun
 

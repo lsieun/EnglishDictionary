@@ -11,3 +11,6 @@
 
 - reverse: 相反的；反面的；反向的 opposite to what has been mentioned
 - revere: 尊敬；崇敬 to feel great respect or admiration for sb/sth
+
+- perverse: 执拗的；任性的；不通情理的 showing deliberate determination to behave in a way that most people think is wrong, unacceptable or unreasonable
+- pervert: 败坏；使走样；误导；误用 to change a system, process, etc. in a bad way so that it is not what it used to be or what it should be 性变态者 a person whose sexual behaviour is not thought to be normal or acceptable by most people

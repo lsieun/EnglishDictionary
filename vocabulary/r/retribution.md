@@ -7,7 +7,7 @@
 
 - Meaning: severe punishment for sth seriously wrong that sb has done; deserved and severe punishment
 - Chinese: 严惩；惩罚；报应 （一个人做过坏事，而应有的惩罚）
-- Tags: 
+- Tags: punishment
 - Use: ~ (for sth)
 - Eg.: People are seeking retribution for the latest terrorist outrages. 人们在设法对恐怖分子最近的暴行进行严惩。
 - Eg.: fear of divine retribution(= punishment from God) 对上帝的惩罚的畏惧

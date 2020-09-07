@@ -1,5 +1,12 @@
 # plant tree
 
+## 树枝(树的一部分)
+
+- bough: 大树枝 a large branch of a tree
+- twig: 细枝；小枝；嫩枝 a small very thin branch that grows out of a larger branch on a bush or tree
+
+## 各种树
+
 松柏: 松树叶是针型，且针叶分布在树枝的四周呈散射状，而柏树的每一个小鳞苞都是一片单独的叶子，它们紧紧地连着茎。
 
 - pine: 松树 an evergreen forest tree with leaves like needles

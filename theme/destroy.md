@@ -4,6 +4,7 @@
 
 - annihilate: 消灭；歼灭；毁灭 to destroy sb/sth completely
 - devastate: 彻底破坏；摧毁；毁灭 to completely destroy a place or an area
+- eradicate: 根除；消灭；杜绝 to destroy or get rid of sth completely, especially sth bad
 - extinction: （植物、动物、生活方式等的）灭绝，绝种，消亡 a situation in which a plant, an animal, a way of life, etc. stops existing
 - extinguish: 毁灭；消灭；使破灭 to destroy sth
 - obliterate: 毁掉；覆盖；清除 to remove all signs of sth, either by destroying or covering it completely
@@ -18,4 +19,6 @@
 
 ## 慢慢消灭
 
+- dissolution: 消失；消亡 the process in which sth gradually disappears
+- dissolve: 溶解 to mix with a liquid and become part of it
 - erode: 侵蚀；腐蚀；风化 to gradually destroy the surface of sth through the action of wind, rain, etc.

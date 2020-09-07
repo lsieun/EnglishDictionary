@@ -31,6 +31,8 @@
 - plaintiff: 原告；起诉人 a person who makes a formal complaint against sb in court
 - defendant: 被告人；被告 the person in a trial who is accused of committing a crime, or who is being sued by another person
 
+- deposition: 书面证词 a formal statement, taken from sb and used in court
+
 ## Object
 
 - gavel: （会议主席、拍卖商或法官用的）小槌 a small hammer used by a person in charge of a meeting or an auction , or by a judge in court, in order to get people's attention
@@ -39,6 +41,7 @@
 
 - lawsuit: 诉讼；起诉 a claim or complaint against sb that a person or an organization can make in court
 - prosecute: 起诉；控告；检举 to officially charge sb with a crime in court
+- prosecution: 起诉，检举，诉讼 the process of trying to prove in court that sb is guilty of a crime(= of prosecuting them) ; the process of being officially charged with a crime in court
 - sue: 控告；提起诉讼 to make a claim against sb in court about sth that they have said or done to harm you
 - sentence: 判决；宣判；判刑 to say officially in court that sb is to receive a particular punishment
 - testimony: 证词；证言；口供 a formal written or spoken statement saying what you know to be true, usually in court

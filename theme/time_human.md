@@ -9,3 +9,4 @@
 - juvenile: 少年 a young person who is not yet an adult
 - junior: 为 11 或 13 岁以下儿童设立的 for children under the age of 11 or 13
 - infant: 婴儿；幼儿 a baby or very young child
+- adolescence: 青春期；青春 the time in a person's life when he or she develops from a child into an adult

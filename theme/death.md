@@ -2,6 +2,7 @@
 
 - resurrect: 起死回生；使复活 to bring a dead person back to life
 
+- demise: 死亡；逝世；一命呜呼 death
 - passing: （事物的）结束，消亡；（人的）亡故，逝世 the fact of sth ending or of sb dying
 - perish: 死亡；暴死 to die, especially in a sudden violent way
 

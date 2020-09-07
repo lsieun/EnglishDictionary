@@ -11,4 +11,6 @@ an annual meeting/event/report 年会；一年一度的大事；年度报告
 
 The exhibition is held annually. 这个展览每年举行一次。
 
+- bimonthly: 两月一次（的）；一月两次（的）produced or happening every two months or twice each month
+
 - once in a while: 偶尔;有时 sometimes, but not very often

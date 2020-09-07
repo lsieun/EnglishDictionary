@@ -9,7 +9,7 @@
 
 - Meaning: seeming evil or dangerous; making you think sth bad will happen
 - Chinese: 邪恶的；险恶的；不祥的；有凶兆的
-- Tags: 
+- Tags: evil
 - Eg.: There was something cold and sinister about him. 他给人一种冷酷阴险的感觉。
 - Eg.: There is another, more sinister, possibility. 还有另一种更糟糕的可能。
 

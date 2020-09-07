@@ -11,3 +11,5 @@
 
 - legislate: 制定法律；立法 to make a law affecting sth
 - legislation: 立法；制定法律 the process of making and passing laws
+
+- prohibit: （尤指以法令）禁止 to stop sth from being done or used especially by law

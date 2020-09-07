@@ -3,6 +3,7 @@
 - analyst: 分析者；化验员 a person whose job involves examining facts or materials in order to give an opinion on them
 - beneficiary: 遗产继承人 a person who receives money or property when sb dies
 - bully: 仗势欺人者；横行霸道者 a person who uses their strength or power to frighten or hurt weaker people
+- celebrity: 名人；名流 a famous person
 - clown: 丑角；小丑 an entertainer who wears funny clothes and a large red nose and does silly things to make people laugh
 - confidant: （可吐露秘密的）知己，密友 a person that you trust and who you talk to about private or secret things
 - culprit: 犯错的人；罪犯 a person who has done sth wrong or against the law
@@ -13,8 +14,10 @@
 - missionary: 传教士 a person who is sent to a foreign country to teach people about Christianity
 - occupant: （房屋、建筑等的）使用者，居住者 a person who lives or works in a particular house, room, building, etc.
 - outlaw: （尤指过去的人）亡命徒，逃犯(used especially about people in the past) a person who has done sth illegal and is hiding to avoid being caught
+- passerby: 过路人;经过者
 - patron: 老主顾；顾客；常客 a person who uses a particular shop/store, restaurant, etc. （艺术家、作家的）赞助人，资助者 a person who gives money and support to artists and writers
 - pickpocket: 扒手；小偷 a person who steals money, etc. from other people's pockets, especially in crowded places
+- psychic: （自称）有特异功能的人，有通灵术的人 a person who claims to have strange mental powers so that they can do things that are not possible according to natural laws, such as predicting the future and speaking to dead people
 - respondent: 回答问题的人；（尤指）调查对象 a person who answers questions, especially in a survey
 - saboteur: （为防止敌方利用或为表示抗议的）蓄意破坏者 a person who does deliberate damage to sth to prevent an enemy from using it, or to protest about sth
 - solitary: 独居者 a person who chooses to live alone
@@ -24,4 +27,5 @@
 
 - vegetarian: 素食者；吃素的人 a person who does not eat meat or fish
 - villain: 恶棍；坏蛋 a person who is morally bad or responsible for causing trouble or harm
+- visionary: 有眼力的人；有远见卓识的人 a person who has the ability to think about or plan the future in a way that is intelligent or shows imagination
 - wizard: （传说中的）男巫，术士 (in stories) a man with magic powers 行家；能手；奇才 a person who is especially good at sth

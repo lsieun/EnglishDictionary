@@ -1,5 +1,6 @@
 # story
 
+- anecdote: 逸事；趣闻 a short, interesting or amusing story about a real person or event
 - legend: 传说；传奇故事 a story from ancient times about people and events, that may or may not be true; this type of story
 - legendary: 传奇的；传说的 mentioned in stories from ancient times 非常著名的；享有盛名的 very famous and talked about a lot by people, especially in a way that shows admiration
 

@@ -19,3 +19,4 @@
 - overall: 外套；罩衣a loose coat worn over other clothes to protect them from dirt, etc.
 
 - pajamas: （一套）睡衣裤 a loose jacket and pants/trousers worn in bed
+- robe: 袍服，礼袍（常于典礼中穿着以显示身份）a long loose outer piece of clothing, especially one worn as a sign of rank or office at a special ceremony

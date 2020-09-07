@@ -1,0 +1,21 @@
+# seminar
+
+- Word: seminar
+- Cognate: 
+- Similar: 
+- Story: A seminar means a class or meeting, but it carries with it extra weight. An educational seminar indicates a small, advanced study, while a meeting labeled as such means an intense exchange of ideas.
+- Story: The Latin seminarium originally referred to a plant nursery, a place of great growth. From this came the German seminar, referring to a formal educational group led by a professor. While university seminars are most frequently small-group studies of a particular issue, the word is also applied to large lectures and commercial pitches. Like the seminar you attended on how to get rich by selling carrot peelers to your neighbors.
+
+## noun
+
+- Plural: 
+- Single: 
+- Meaning: a class at a university or college when a small group of students and a teacher discuss or study a particular topic
+- Chinese: （大学教师带领学生作专题讨论的）研讨课
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Use: 
+- Eg.: 
+- Picture: 
+

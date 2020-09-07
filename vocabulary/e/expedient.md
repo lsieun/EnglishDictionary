@@ -1,0 +1,21 @@
+# expedient
+
+- Word: expedient
+- Cognate: 
+- Similar: expedition
+- Story: The adjective expedient describes something that provides an easy way to achieve a goal or result, but it's not necessarily a moral solution.
+- Story: Politically expedient means something you do to advance yourself politically. Use expedient when you want to hint that a particular solution or strategy has certain benefits and advantages but is not completely fair. However, expedient can also be used as a noun to describe something practical for a particular purpose.
+
+## noun
+
+- Plural: 
+- Single: 
+- Meaning: an action that is useful or necessary for a particular purpose, but not always fair or right
+- Chinese: 权宜之计；应急办法
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Use: 
+- Eg.: 
+- Picture: 
+

@@ -7,6 +7,8 @@
 
 ![](images/sausage.jpeg)
 
+- mutton: 羊肉 meat from a fully grown sheep
+
 ## 牛肉
 
 - beef: 牛肉 meat that comes from a cow

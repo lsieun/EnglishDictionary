@@ -1,5 +1,6 @@
 # human eye
 
+- optical: 视力的；视觉的；光学的 connected with the sense of sight or the relationship between light and sight
 - glare: 怒目而视 to look at sb/sth in an angry way
 - stare: 盯着看；凝视；注视 to look at sb/sth for a long time
 - glimpse: 一瞥；一看 a look at sb/sth for a very short time, when you do not see the person or thing completely

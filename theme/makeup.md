@@ -1,5 +1,6 @@
 # makeup
 
+- cosmetic: 化妆品；美容品 a substance that you put on your face or body to make it more attractive
 - makeup: 化妆品 substances such as creams, powders, lipstick, or mascara that people, especially women and actors, put on their faces in order to look more attractive or change their appearance
 - headdress: （特殊场合戴的）头巾，头饰 a covering worn on the head on special occasions
 
