@@ -8,6 +8,7 @@
 
 - profound: 知识渊博的；理解深刻的；深邃的 showing great knowledge or understanding
 
+- majestic: 雄伟的；威严的；壮观的 impressive because of size or beauty
 - magnificent: 壮丽的；宏伟的；值得赞扬的 extremely attractive and impressive; deserving praise
 - marvellous: 极好的；非凡的 extremely good; wonderful
 - miraculous: 奇迹般的；不可思议的；不平凡的 like a miracle ; completely unexpected and very lucky

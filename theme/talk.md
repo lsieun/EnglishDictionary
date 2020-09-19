@@ -1,5 +1,6 @@
 # Talk
 
+- expound: 详解；详述；阐述 to explain sth by talking about it in detail
 - verbal: 口头（而非书面）的 spoken, not written
 
 - slogan: 标语；口号 a word or phrase that is easy to remember, used for example by a political party or in advertising to attract people's attention or to suggest an idea quickly

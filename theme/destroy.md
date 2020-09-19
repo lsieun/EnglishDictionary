@@ -3,6 +3,7 @@
 ## 彻底消灭
 
 - annihilate: 消灭；歼灭；毁灭 to destroy sb/sth completely
+- decimate: 大量毁灭，大批杀死（某地区的动物、植物或人）to kill large numbers of animals, plants or people in a particular area
 - devastate: 彻底破坏；摧毁；毁灭 to completely destroy a place or an area
 - eradicate: 根除；消灭；杜绝 to destroy or get rid of sth completely, especially sth bad
 - extinction: （植物、动物、生活方式等的）灭绝，绝种，消亡 a situation in which a plant, an animal, a way of life, etc. stops existing

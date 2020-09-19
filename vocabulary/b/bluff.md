@@ -8,6 +8,6 @@
 
 - Meaning: to try to make sb believe that you will do sth that you do not really intend to do, or that you know sth that you do not really know
 - Chinese: 虚张声势；唬人；吹牛
-- Tags: 
+- Tags: talk
 - Eg.: I don't think he'll shoot─I think he's just bluffing. 我认为他不会开枪，我想他不过是在吓唬人。
 

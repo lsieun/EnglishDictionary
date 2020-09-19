@@ -3,6 +3,8 @@
 - transcendent: （形容词）卓越的；杰出的；极其伟大的 going beyond the usual limits; extremely great
 - transcend: （动词）超出，超越（通常的界限） to be or go beyond the usual limits of sth
 
+- transfigure: 使改观；美化…的外表 to change the appearance of a person or thing so that they look more beautiful
+
 - transform: 使改变形态 to change the form of sth 使改变外观（或性质）；使改观 to completely change the appearance or character of sth, especially so that it is better
 - transformer: 变压器 a device for reducing or increasing the voltage of an electric power supply, usually to allow a particular piece of electrical equipment to be used
 

@@ -22,6 +22,8 @@
 
 - with time: 随着时间推移；随着时间流逝 happening or changing gradually
 
+- year in and year out: 年复一年
+
 ## 早晚
 
 - timely: 及时的；适时的 happening at exactly the right time

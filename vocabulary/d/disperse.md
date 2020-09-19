@@ -8,6 +8,6 @@
 
 - Meaning: to spread or to make sth spread over a wide area
 - Chinese: 散布；散发；传播
-- Tags: 
+- Tags: spread
 - Eg.: The seeds are dispersed by the wind. 这些种子由风传播。
 
