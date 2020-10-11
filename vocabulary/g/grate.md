@@ -1,6 +1,7 @@
 # grate
 
 - Word: grate
+- Similar: grateful
 
 ## verb
 

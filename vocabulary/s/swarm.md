@@ -8,6 +8,6 @@
 
 - Meaning: a large group of insects, especially bees , moving together in the same direction
 - Chinese: 一大群（蜜蜂等昆虫）
-- Tags: 
+- Tags: group
 - Eg.: a swarm of bees/locusts/flies 一大群蜜蜂╱蝗虫╱苍蝇
 

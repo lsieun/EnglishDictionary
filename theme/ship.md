@@ -3,6 +3,7 @@
 - citizenship: 公民权利（或资格）the legal right to belong to a particular country
 - craftsmanship: 手艺；技艺 the level of skill shown by sb in making sth beautiful with their hands
 - friendship: 友谊；朋友关系 a relationship between friends
+- internship: （学生或毕业生的）实习期 a period of time during which a student or new graduate gets practical experience in a job, for example during the summer holiday/vacation
 
 - membership: 会员资格；成员资格 the state of being a member of a group, a club, an organization, etc.
 - musicianship: 音乐才能；音乐技能 skill in performing or writing music
