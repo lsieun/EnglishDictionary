@@ -8,7 +8,7 @@
 
 - Meaning: to pay back the money that you have borrowed from sb
 - Chinese: 归还；偿还；清偿
-- Tags: 
+- Tags: money
 - Eg.: to repay a debt/loan/mortgage 偿还债务╱贷款╱按揭贷款
 - Eg.: I fully intend to repay them the money that they lent me. 我非常想把他们借给我的钱还给他们。
 

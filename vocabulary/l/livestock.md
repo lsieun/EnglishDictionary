@@ -8,5 +8,5 @@
 
 - Meaning: the animals kept on a farm, for example cows or sheep
 - Chinese: 牲畜；家畜
-- Tags: 
+- Tags: animal
 

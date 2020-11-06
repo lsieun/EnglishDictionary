@@ -8,7 +8,7 @@
 
 - Meaning: very bad and unacceptable, often in a way that shocks people
 - Chinese: 令人震惊的；令人愤慨的
-- Tags: emotion
+- Tags: emotion, bad
 - Eg.: a deplorable incident 令人愤慨的事件
 - Eg.: They were living in the most deplorable conditions. 他们生活在最糟糕的环境里。
 - Eg.: The acting was deplorable. 那演技糟透了。

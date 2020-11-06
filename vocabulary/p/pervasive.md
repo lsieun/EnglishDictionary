@@ -9,7 +9,7 @@
 
 - Meaning: present or noticeable in every part of a thing or place
 - Chinese: 遍布的；充斥各处的；弥漫的
-- Tags: 
+- Tags: common
 - Eg.: The influence of Freud is pervasive in her books.
 - Eg.: a pervasive smell of diesel
 - Eg.: Reforms are being undermined by the all-pervasive corruption in the country.

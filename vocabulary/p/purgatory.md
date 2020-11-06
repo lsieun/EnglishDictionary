@@ -1,6 +1,7 @@
 # purgatory
 
 - Word: purgatory
+- Cognate: purge
 
 ## noun
 

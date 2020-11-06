@@ -9,7 +9,7 @@
 
 - Meaning: to lie and roll about in water or mud, to keep cool or for pleasure
 - Chinese: （为保持凉爽或嬉戏在烂泥、水里）打滚，翻滚
-- Tags: 
+- Tags: enjoy
 - Eg.: hippos wallowing in the river 在河里打滚的河马
 - Eg.: He loves to wallow in a hot bath after a game. 他在比赛后喜欢泡个热水澡。
 

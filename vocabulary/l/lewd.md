@@ -8,6 +8,6 @@
 
 - Meaning: referring to sex in a rude and offensive way
 - Chinese: 粗野下流的；淫荡的；猥亵的
-- Tags: 
+- Tags: sex
 - Eg.: lewd behaviour/jokes/suggestions 粗俗下流的行为╱玩笑╱暗示
 

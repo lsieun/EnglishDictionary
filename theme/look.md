@@ -8,3 +8,5 @@
 - censor: 删剪（书籍、电影等中被认为犯忌、违反道德或政治上危险的内容） to remove the parts of a book, film/movie, etc. that are considered to be offensive, immoral or a political threat
 - censorship: 审查；检查；审查制度 the act or policy of censoring books, etc.
 
+- detectable: 能发觉的；能检查出来的 able to be detected
+
