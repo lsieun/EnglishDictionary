@@ -1,0 +1,20 @@
+# demanding
+
+- Word: demanding
+- Cognate: 
+- Similar: 
+- Story: Something that's demanding calls for more work or skill than the typical task. Babysitting might seem like an easy job, but depending on the kids it can actually be incredibly demanding.
+- Story: A demanding job might require a lot of physical work, like farming, or a lot of patience and diplomacy, like being a teacher or a marriage counselor. When a person is described as demanding, it usually means that he or she has very high standards or is especially hard to satisfy. The word comes from the Old French demander, "to request or demand," by way of the Latin demandare, "entrust."
+
+## adjective
+
+- Comparative: 
+- Meaning: expecting a lot of work or attention from others; not easily satisfied
+- Chinese: 要求极严的；苛求的；难满足的
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Use: 
+- Eg.: 
+- Picture: 
+

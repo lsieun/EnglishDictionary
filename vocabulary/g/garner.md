@@ -8,6 +8,6 @@
 
 - Meaning: to obtain or collect sth such as information, support, etc.
 - Chinese: 获得，得到，收集（信息、支持等）
-- Tags: 
+- Tags: get
 - Use: ~ sth
 
