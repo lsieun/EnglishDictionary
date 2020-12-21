@@ -8,6 +8,6 @@
 
 - Meaning: to make something ready or suitable for a particular purpose
 - Chinese: 使……适合
-- Tags: 
+- Tags: change
 - Eg.: Our program is geared to the needs of children.
 

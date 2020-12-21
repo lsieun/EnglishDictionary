@@ -7,6 +7,6 @@
 
 - Meaning: causing a lot of angry public discussion and disagreement
 - Chinese: 引起争论的；有争议的
-- Tags: 
+- Tags: judgement
 - Eg.: a highly controversial topic 颇有争议的话题
 
