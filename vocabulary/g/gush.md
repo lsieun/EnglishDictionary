@@ -8,7 +8,7 @@
 
 - Meaning: to suddenly let out large amounts of a liquid
 - Chinese: 大量涌出，大量泄出（液体）
-- Tags: 
+- Tags: liquid
 - Eg.: blood gushing from a wound 从伤口冒出的血
 - Eg.: Water gushed out of the pipe. 水从管子中涌出。
 - Eg.: The tanker was gushing oil. 油箱在大量喷油。

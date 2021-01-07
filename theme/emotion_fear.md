@@ -4,3 +4,6 @@
 
 - fright: 惊吓；恐怖 a feeling of fear
 - frightful: 极坏的；很糟的 used to emphasize how bad sth is
+- frighten: vt. 使惊吓；使惊恐 to make sb suddenly feel afraid
+
+- scare: 惊吓；使害怕；使恐惧 to frighten sb
