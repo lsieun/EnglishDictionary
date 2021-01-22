@@ -1,0 +1,20 @@
+# intrigue
+
+- Word: intrigue
+- Cognate: 
+- Similar: 
+- Story: An intrigue is a secret plot. If you ever become the monarch of a small island kingdom, keep watch for signs of any intrigue against you.
+- Story: Intrigue comes from the Latin verb intricare, to entangle, and is related to intricate. It can be a noun, meaning underhanded plot, or a verb for the act of plotting. Agents of two opposing powers intrigue against each other. In the late nineteenth century it also came to mean the feeling of curiosity or interest. If someone's ideas intrigue you, you want to know more about them.
+- Story: Naruto-149
+
+## verb
+
+- Meaning: to make sb very interested and want to know more about sth
+- Chinese: 激起…的兴趣；引发…的好奇心
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Use: 
+- Eg.: 
+- Picture: 
+

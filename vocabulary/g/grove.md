@@ -12,7 +12,7 @@
 - Single: 
 - Meaning: a small group of trees
 - Chinese: 树丛；小树林
-- Tags: 
+- Tags: tree
 - Synonyms: 
 - Antonyms: 
 - Use: 

@@ -7,6 +7,7 @@
 - communism: 共产主义 a political movement that believes in an economic system in which the state controls the means of producing everything on behalf of the people. It aims to create a society in which everyone is treated equally.
 - confucianism: 儒学；儒家；儒家思想
 - criticism: 批评；批判；责备；指责 the act of expressing disapproval of sb/sth and opinions about their faults or bad qualities; a statement showing disapproval （尤指对书、音乐等的）评论文章，评论 the work or activity of making fair, careful judgements about the good and bad qualities of sb/sth, especially books, music, etc.
+- cynicism: 冷嘲热讽 the attitude or behaviour of someone who is willing to let other people be harmed in order to get an advantage
 - egotism: 自我主义;自我中心癖;自高自大 the possession of an exaggerated sense of self-importance and superiority to other people; the tendency to speak or write too much about yourself
 - fascism: 法西斯主义 an extreme right-wing political system or attitude which is in favour of strong central government and which does not allow any opposition
 - feudalism: 封建制度；封建主义 the social system that existed during the Middle Ages in Europe in which people were given land and protection by a nobleman, and had to work and fight for him in return

@@ -9,7 +9,7 @@
 
 - Meaning: to agree or have the same opinion
 - Chinese: 同意；赞同
-- Tags: 
+- Tags: opinion
 - Use: ~ (with sb) (in sth).~ (with sth).~ (that…).(+ speech)
 - Eg.: Historians have concurred with each other in this view. 历史学家在这个观点上已取得一致意见。
 - Eg.: The new report concurs with previous findings.

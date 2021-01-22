@@ -12,7 +12,7 @@
 - Single: 
 - Meaning: a swelling on the surface of the skin that is filled with liquid and is caused, for example, by rubbing or burning
 - Chinese: （皮肤上摩擦或烫等引起的）水疱，疱
-- Tags: 
+- Tags: illness
 - Synonyms: 
 - Antonyms: 
 - Use: 

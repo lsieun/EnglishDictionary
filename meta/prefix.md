@@ -1,7 +1,10 @@
 # prefix
 
+- axx: 强调
 - be-: behead, belabor（be+一个熟悉的单词）
+- con: 在一起
 - contra/contro: 相反的 controversial, contradict, controversy
+- de: (1)向下;(2)远离
 - heter: heterogeneous, 表示“异”；“hetero-”的变体
 - homo: homogenous 同源
 - inter:
@@ -10,6 +13,7 @@
 - para: parallel, parable, paranormal
 - per: persevere, peruse
 - peri: 周围、周边、边缘 perimeter
+- pre: 在前
 - psych: =mind, psychiatric
 - un: unforeseen
 - ob

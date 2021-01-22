@@ -9,7 +9,7 @@
 
 - Meaning: to control or limit sth, especially sth bad
 - Chinese: 控制，抑制，限定，约束（尤指不好的事物）
-- Tags: 
+- Tags: control
 - Eg.: He needs to learn to curb his temper. 他得学着控制自己的脾气。
 - Eg.: A range of policies have been introduced aimed at curbing inflation. 为了抑制通货膨胀实施了一系列的政策。
 

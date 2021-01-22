@@ -1,0 +1,22 @@
+# insomnia
+
+- Word: insomnia
+- Cognate: 
+- Similar: 
+- Story: A person who has trouble falling or staying asleep is suffering from insomnia. If after a hot bath, a glass of warm milk, and hours of counting sheep, you still find yourself lying wide awake in bed, it's time to admit you have insomnia.
+- Story: There's no cure for insomnia, but people with insomnia are advised to go to bed at the same time every night and to try to avoid stress. The noun insomnia was borrowed from Latin insomnis "sleepless," from the prefix in-, "not," plus somnus, "sleep." Somnus is actually related to Greek hypnos "sleep," the source of English words such as hypnosis and hypnotic.
+- Story: Naruto-135-009
+
+## noun
+
+- Plural: 
+- Single: 
+- Meaning: the condition of being unable to sleep
+- Chinese: 失眠（症）
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Use: 
+- Eg.: 
+- Picture: 
+

@@ -15,3 +15,4 @@
 
 - marginal: 小的；微不足道的；不重要的 small and not important
 - negligible: 微不足道的；不重要的；不值一提的 of very little importance or size and not worth considering
+- trivial: 不重要的；琐碎的；微不足道的 not important or serious; not worth considering

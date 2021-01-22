@@ -9,7 +9,7 @@
 
 - Meaning: connected with mental processes of understanding
 - Chinese: 认知的；感知的；认识的
-- Tags: understanding
+- Tags: understanding, mind
 - Eg.: a child's cognitive development 儿童的认知发展
 - Eg.: cognitive psychology 认知心理学
 

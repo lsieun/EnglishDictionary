@@ -3,6 +3,7 @@
 - Word: loathe
 - Story: **If you loathe someone or something, you hate them very much**. You might not choose to eat raw carrots if you dislike them, but if you loathe them, you might have a hard time even having them on your plate.
 - Story: **This word suggests a strong feeling of disgust**. Near synonyms are abhor and detest. The verb loathe descends from Middle English lothen, from Old English lāthian. The related adjective loathsome means "hateful or disgusting," and the adjective loath means "not willing to do something," as in "I'm loath to cheat on a test, but I don't see what choice I have."
+- Story: Naruto-132-008
 
 ## verb
 

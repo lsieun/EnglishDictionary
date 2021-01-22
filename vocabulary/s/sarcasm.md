@@ -9,7 +9,7 @@
 
 - Meaning: a way of using words that are the opposite of what you mean in order to be unpleasant to sb or to make fun of them
 - Chinese: 讽刺；嘲讽；挖苦
-- Tags: 
+- Tags: talk
 - Eg.: ‘That will be useful,’ she snapped with heavy sarcasm(= she really thought it would not be useful at all). “还真有用咧。”她狠狠挖苦道。
 - Eg.: a hint/touch/trace of sarcasm in his voice 他话语中的几分嘲讽
 
