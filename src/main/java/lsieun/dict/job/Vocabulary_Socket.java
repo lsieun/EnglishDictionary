@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Optional;
 
 public class Vocabulary_Socket {
-    private static final String REQUEST_LINE = "GET /dictionary/definition.ajax?search=%s&lang=en HTTP/1.1";
+    private static final String REQUEST_LINE = "GET /dictionary/%s HTTP/1.1";
 
     public static void main(String[] args) {
         String word = Common.WORD;

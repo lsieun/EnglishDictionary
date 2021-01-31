@@ -7,6 +7,7 @@
 
 - membership: 会员资格；成员资格 the state of being a member of a group, a club, an organization, etc.
 - musicianship: 音乐才能；音乐技能 skill in performing or writing music
+- viewership: （电视节目或频道的）观众人数，观众类型 the number or type of people who watch a particular television programme or television channel
 - scholarship: 学问；学术；学术研究 the serious study of an academic subject and the knowledge and methods involved 奖学金 an amount of money given to sb by an organization to help pay for their education
 
 - warship: 军舰；舰艇 a ship used in war

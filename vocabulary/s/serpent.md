@@ -12,7 +12,7 @@
 - Single: 
 - Meaning: a snake, especially a large one
 - Chinese: 蛇；（尤指）大蛇
-- Tags: 
+- Tags: animal
 - Synonyms: 
 - Antonyms: 
 - Use: 

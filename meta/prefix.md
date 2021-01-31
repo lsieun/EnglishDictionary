@@ -2,20 +2,28 @@
 
 - axx: 强调
 - be-: behead, belabor（be+一个熟悉的单词）
-- con: 在一起
+- co: (1)在一起, coexist
+- con: (1)在一起
 - contra/contro: 相反的 controversial, contradict, controversy
 - de: (1)向下;(2)远离
 - heter: heterogeneous, 表示“异”；“hetero-”的变体
 - homo: homogenous 同源
+- hypo: 下
+- in: (1)否定 inconstant (2)进入
 - inter:
     - inter: 内部的
     - inter: 两个东西之间相互的 interplay
-- para: parallel, parable, paranormal
+- ortho: 正， -hetero-表示“不正”
+- neg: (1)否定 neglect, negligence
+- para: (1)辅助;(2)准（基本上“是”，但又不确切“是”） parallel, parable, paranormal
 - per: persevere, peruse
 - peri: 周围、周边、边缘 perimeter
-- pre: 在前
+- pre: (1)在前
 - psych: =mind, psychiatric
-- un: unforeseen
+- quasi: 相似 quasi-static
+- re: (1)再次;(2)后退
+- un: (1)否定 unforeseen, unstable
+- under: (1)在下;(2)不足 understaffed
 - ob
 - pre
     - prejudge/prejudice

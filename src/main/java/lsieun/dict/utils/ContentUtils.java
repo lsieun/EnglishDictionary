@@ -20,7 +20,7 @@ public class ContentUtils {
 
     public static void story(String html) {
         final Document doc = Jsoup.parse(html);
-        Element divBlock = doc.select("div.blurb").first();
+        Element divBlock = doc.select("div.word-area").first();
         final Elements ps = divBlock.select("p");
         ps.forEach(item -> System.out.println(item.text()));
     }
