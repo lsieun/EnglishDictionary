@@ -21,5 +21,7 @@
 - salient: 最重要的；显著的；突出的 most important or noticeable
 - noteworthy: 值得注意的；显著的；重要的 deserving to be noticed or to receive attention because it is unusual, important or interesting
 
+- splendid: 极佳的；非常好的 excellent; very good
+
 - sublime: 崇高的；壮丽的；宏伟的；令人赞叹的 of very high quality and causing great admiration
 - supreme: （级别或地位）最高的，至高无上的 highest in rank or position

@@ -5,7 +5,7 @@
 - al: (1)名词后缀 testimonial;(2)形容词后缀 controversial
 - ancy: 名词后缀
 - ant: (1)名词后缀，表人 contestant;(2)形容词后缀 protestant,distant
-- ary: (1)形容词后缀 supplementary;(2)名词后缀 dictionary, constabulary, statuary
+- ary: (1)形容词后缀 supplementary, plenary;(2)名词后缀 dictionary, constabulary, statuary
 - ate/ite/ute: (1)动词后缀;(2)名词后缀 statute
 - aur/ior: (1)名词后缀; behave vt. 行为 -- behavior/behaviour(2)形容词后缀
 - e: (1)名词后缀;(2)动词后缀
@@ -18,7 +18,7 @@
 - ing: (1)形容词后缀;(2)动名词后缀
 - ism: (1)名词后缀, 什么什么主义（观念的集合）racism
 - ist: 名词后缀，表人
-- ive: (1)形容词后缀
+- ive: (1)形容词后缀 assimilative;(2)名词后缀
 - ize: (1)动词后缀 organize
 - logy: 表示 the study of sth，我猜想，它会不会和logic是相关的呢？ etymology
 - ly: (1)形容词后缀 friendly, costly; (2)副词后缀 constantly, deeply

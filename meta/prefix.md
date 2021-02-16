@@ -22,6 +22,7 @@
 - psych: =mind, psychiatric
 - quasi: 相似 quasi-static
 - re: (1)再次;(2)后退
+- semi: (1)半
 - un: (1)否定 unforeseen, unstable
 - under: (1)在下;(2)不足 understaffed
 - ob

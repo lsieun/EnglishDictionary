@@ -21,6 +21,7 @@
 - journalism: 新闻业；新闻工作 the work of collecting and writing news stories for newspapers, magazines, radio or television
 - marxism: 马克思主义 the political and economic theories of Karl Marx (1818-83) which explain the changes and developments in society as the result of opposition between the social classes
 - mechanism: 方法；机制 a method or a system for achieving sth
+- medievalism: 中世纪主义；中世纪性质；中世纪主张 the customs, practices, or beliefs during the Middle Ages in Europe
 - patriotism: 爱国主义；爱国精神 love of your country and willingness to defend it
 - polymorphism: 【生】多态性(现象) the characteristic of existing in different forms
 - racism: 种族主义；种族偏见 the belief that some races of people are better than others

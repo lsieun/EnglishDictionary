@@ -1,6 +1,8 @@
 # fathom
 
 - Word: fathom
+- Story: To fathom something is to understand it thoroughly, and is usually used in the negative, as in "I can't fathom why he doesn't want to go along with us."
+- Story: Fathom is from Middle English fadme, from Old English fæthm "outstretched arms." The Old English and modern English noun also refers to a unit of length used to measure the depth of water. To understand something thoroughly is "to get to the bottom of it."
 
 ## verb
 
