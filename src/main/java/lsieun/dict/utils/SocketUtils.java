@@ -14,7 +14,7 @@ public class SocketUtils {
     private static final InetSocketAddress address;
 
     static {
-        byte[] ip_bytes = {99, 84, 55, 2};
+        byte[] ip_bytes = {99, 84, (byte) 233, (byte) 191};
         try {
             InetAddress inetAddress = InetAddress.getByAddress("www.vocabulary.com", ip_bytes);
             address = new InetSocketAddress(inetAddress, 443);

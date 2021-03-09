@@ -5,6 +5,7 @@
 - cur: incur, concur
 - estim: 计算 estimate=estim + ate
 - flat: inflation, deflation, conflation
+- `graph`: 最开始是“用手写” --> 引申为“画”（写的一种特殊形式） --> 再引申为“图”（画的最张结果）
 - gress: digress, progress, ingress, egress
 - hemo: 血
 - hydro: 水、液体、流体

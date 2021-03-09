@@ -28,6 +28,7 @@
 - socialism: 社会主义 a set of political and economic theories based on the belief that everyone has an equal right to a share of a country's wealth and that the government should own and control the main industries
 - stalinism: 斯大林主义 the policies and beliefs of Stalin, especially that the Communist party should be the only party and that the central government should control the whole political and economic system
 - terrorism: 恐怖主义 the use of violent action in order to achieve political aims or to force a government to act
+- theism: 有神论belief in the existence of God or gods
 - totalitarianism: 极权主义；极权政治 absolute control by the state or a governing branch of a highly centralized institution.
 - tourism: 旅游业；观光业 the business activity connected with providing accommodation, services and entertainment for people who are visiting a place for pleasure
 

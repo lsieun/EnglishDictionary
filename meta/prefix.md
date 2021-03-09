@@ -6,10 +6,10 @@
 - con: (1)在一起
 - contra/contro: 相反的 controversial, contradict, controversy
 - de: (1)向下;(2)远离
-- heter: heterogeneous, 表示“异”；“hetero-”的变体
+- heter: heterogeneous, 表示“异”或“多而复杂的”；“hetero-”的变体
 - homo: homogenous 同源
 - hypo: 下
-- in: (1)否定 inconstant (2)进入
+- in: (1)否定 inconstant (2)进入 income
 - inter:
     - inter: 内部的
     - inter: 两个东西之间相互的 interplay
@@ -24,6 +24,7 @@
 - re: (1)再次;(2)后退
 - semi: (1)半
 - un: (1)否定 unforeseen, unstable
+- `uni`: (1)单一，整体 uniform, unique, unicycle
 - under: (1)在下;(2)不足 understaffed
 - ob
 - pre

@@ -1,6 +1,8 @@
 # hype
 
 - Word: hype
+- Story: As a noun, hype means extravagant(过分的；不切实际的) claims about a person or product. All the hype about a miraculous new kind of mop(拖把；墩布) might influence you to buy one, but after trying it out you'll realize it's just a mop.
+- Story: Experts speculate that the word hype may be a back formation of hyperbole, or it may come from hyper — old-fashioned slang for a person who swindled(欺骗；欺诈) someone. As a verb, to hype something is to blatantly promote it. If you hype your favorite restaurant enough, your friends will finally try it. If they all hate it, though, they might never listen to you again!
 
 ## noun
 

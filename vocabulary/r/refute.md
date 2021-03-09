@@ -1,0 +1,19 @@
+# refute
+
+- Word: refute
+- Cognate: 
+- Similar: 
+- Story: The verb refute is to prove that something is wrong. When the kids you're babysitting swear they brushed their teeth, you can refute their claim by presenting the dry toothbrushes.
+- Story: Evidence and arguments are used to refute something. So are facts. For example, if children who eat chocolate before going to bed go straight to sleep, that refutes the idea that sugar keeps them up. Refute comes from the Latin refutare for "to check, suppress." A near synonym is confute, but save refute as an everyday word for proving something is false.
+
+## verb
+
+- Meaning: to say that sth is not true or fair
+- Chinese: 反驳；否认
+- Tags: 
+- Synonyms: 
+- Antonyms: 
+- Use: 
+- Eg.: 
+- Picture: 
+

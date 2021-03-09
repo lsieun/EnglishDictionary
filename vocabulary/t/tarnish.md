@@ -10,7 +10,7 @@
 
 - Meaning: to spoil the good opinion people have of sb/sth
 - Chinese: 玷污，败坏，损坏（名声等）
-- Tags: 
+- Tags: fame
 - Synonyms: 
 - Antonyms: 
 - Use: 

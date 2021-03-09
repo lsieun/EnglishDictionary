@@ -118,7 +118,7 @@ public class WordUtils {
             } else if ("Picture".equals(firstPart)) {
                 if (StringUtils.isBlank(secondPart)) continue;
 
-                int lastIndex = filepath.lastIndexOf("/");
+                int lastIndex = filepath.lastIndexOf(File.separator);
                 String dir = filepath.substring(0, lastIndex);
                 int left = secondPart.indexOf("(");
                 int right = secondPart.indexOf(")");

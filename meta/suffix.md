@@ -11,13 +11,14 @@
 - e: (1)名词后缀;(2)动词后缀
 - ed: (1)形容词后缀
 - er: (1)名词后缀，表人
+- `-ery`: scenery
 - ette: (1)名词后缀，表“小”
 - fy: (1)动词后缀 testify
 - ic: (1)形容词后缀
 - icle: (1)名词后缀，表“小”
 - ing: (1)形容词后缀;(2)动名词后缀
-- ism: (1)名词后缀, 什么什么主义（观念的集合）racism
-- ist: 名词后缀，表人
+- ism: (1)名词后缀, 什么什么主义（观念的集合）racism, journalism
+- ist: 名词后缀，表人journalist
 - ive: (1)形容词后缀 assimilative;(2)名词后缀
 - ize: (1)动词后缀 organize
 - logy: 表示 the study of sth，我猜想，它会不会和logic是相关的呢？ etymology
