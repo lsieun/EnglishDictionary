@@ -19,6 +19,7 @@
 - imperialism: 帝国统治；帝国主义 a system in which one country controls other countries, often after defeating them in a war （商业、文化等向外国的）扩张；扩张主义 the fact of a powerful country increasing its influence over other countries through business, culture, etc.
 - imperialist: 帝国主义者；帝国统治拥护者 a person, such as a politician, who supports imperialism
 - journalism: 新闻业；新闻工作 the work of collecting and writing news stories for newspapers, magazines, radio or television
+- magnetism: 磁性；磁力 a physical property (= characteristic) of some metals such as iron, produced by electric currents, that causes forces between objects, either pulling them towards each other or pushing them apart
 - marxism: 马克思主义 the political and economic theories of Karl Marx (1818-83) which explain the changes and developments in society as the result of opposition between the social classes
 - mechanism: 方法；机制 a method or a system for achieving sth
 - medievalism: 中世纪主义；中世纪性质；中世纪主张 the customs, practices, or beliefs during the Middle Ages in Europe

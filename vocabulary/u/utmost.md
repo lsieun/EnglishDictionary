@@ -8,7 +8,7 @@
 
 - Meaning: greatest; most extreme
 - Chinese: 最大的；极度的
-- Tags: 
+- Tags: degree
 - Eg.: This is a matter of the utmost importance. 这是个极其重要的问题。
 - Eg.: You should study this document with the utmost care. 你对这份文件的研究应该慎之又慎。
 

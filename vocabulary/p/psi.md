@@ -1,6 +1,7 @@
 # psi
 
 - Word: psi
+- Story: any purportedly psychic phenomenon, as psychokinesis, telepathy, clairvoyance, or the like.
 
 ## noun
 

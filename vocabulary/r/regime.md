@@ -1,6 +1,7 @@
 # regime
 
 - Word: regime
+- Similar: regimen
 - Story: A regime is the ruling government of a country. The amount of freedom and restriction that citizens of a country have can change from regime to regime.
 
 ## noun

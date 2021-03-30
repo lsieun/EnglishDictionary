@@ -11,7 +11,7 @@
 - Meaning: to have and show a lot of respect for sb/sth, especially sb/sth that is considered to be holy or very important
 - Chinese: 敬重；崇敬；敬仰
 - Tags: respect
-- Synonyms: 
+- Synonyms: worship, adore
 - Antonyms: 
 - Use: 
 - Eg.: 
