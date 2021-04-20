@@ -1,6 +1,8 @@
 # defile
 
 - Word: defile
+- Story: When you defile something, you make it dirty or make it lose its purity. Think of a snowy field in which someone has tossed their old cans and wrappers. The litter defiles the winter wonderland.
+- Story: For something to be defiled, it first must be pure. You can't defile a garbage dump or a messy room. Defile is often used in a religious context. If you were to burn a copy of the Bible or spray-paint the walls of a church, it could be said that you defiled the holy book or place.
 
 ## verb
 

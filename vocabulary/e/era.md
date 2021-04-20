@@ -1,6 +1,8 @@
 # era
 
 - Word: era
+- Story: An era is a period of time distinguished by a particular character. “It was the Eisenhower(艾森豪威尔) era, when people were more willing to serve in the military.”
+- Story: Era has a couple of great things about it. First, it is used whenever you talk about dinosaurs to describe the various geologic time periods, for instance the Paleozoic Era, or the Jurassic Era. Second, it is a word beloved of crossword puzzle editors, so if you’re looking for a three-letter word for an age, look no further. Third, it sometimes confuses people who are talking about the ERA, or the Equal Rights Amendment, a vestige of the era of political feminism.
 
 ## noun
 

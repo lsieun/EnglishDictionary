@@ -4,6 +4,7 @@
 - age: 名词后缀，表地点
 - aire: 名词后缀 questionnaire, millionaire, billionaire
 - al: (1)名词后缀 testimonial;(2)形容词后缀 controversial
+- `an`: (1)名词后缀; (2)形容词后缀
 - ancy: 名词后缀
 - ant: (1)名词后缀，表人 contestant;(2)形容词后缀 protestant,distant
 - ary: (1)形容词后缀 supplementary, plenary;(2)名词后缀 dictionary, constabulary, statuary

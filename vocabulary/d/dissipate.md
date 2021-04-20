@@ -1,6 +1,8 @@
 # dissipate
 
 - Word: dissipate
+- Story: To dissipate is to disperse or fade away — as a bad smell will dissipate (usually) if you wait long enough.
+- Story: Dissipate can also mean “spend or use wastefully.” If you win the lottery, you might suddenly find yourself with a group of new friends encouraging you to dissipate your money (on them). Note that dissipate can be used with or without an object: "Once you dissipate your wealth, your new group of friends will dissipate without a trace."
 
 ## verb
 

@@ -11,6 +11,8 @@
 - hydro: 水、液体、流体
 - jud: judge, prejudge, prejudice
 - miss: dismissive
+- `oro-`: word-forming element meaning "mountain," from Greek oros "mountain". orogeny
+- `sphere`: 圈、球 atmosphere
 - st:
 - stall: install
 - therm: 热 thermostat

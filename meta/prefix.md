@@ -1,6 +1,7 @@
 # prefix
 
 - axx: 强调
+- `aqu`: 水  
 - be-: behead, belabor（be+一个熟悉的单词）
 - co: (1)在一起, coexist
 - con: (1)在一起

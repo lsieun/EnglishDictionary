@@ -1,6 +1,8 @@
 # enthrall
 
 - Word: enthrall
+- Story: When something is so fascinating that it holds all your attention, it is said to enthrall — whether it's a thrilling action-adventure film, a breathtaking work of art, or even the person you have a crush on.
+- Story: If you’ve even fallen under someone’s spell, it won’t surprise you to learn that when enthrall first entered the English language it carried the meaning of “to hold in mental or moral bondage” or “to enslave.” Nowadays the verb enthrall is used to describe something so wonderful and captivating that the person experiencing it feels like a slave. If you enthrall someone, you make them powerless — in a sense, a slave to your charms.
 
 ## verb
 
