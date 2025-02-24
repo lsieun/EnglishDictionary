@@ -19,7 +19,7 @@ import javax.swing.text.Document;
 
 import lsieun.dict.core.Word;
 import lsieun.dict.utils.*;
-import lsieun.utils.StringUtils;
+
 
 public class ClientGUI extends JFrame {
     public static final int WIDTH = 1200;

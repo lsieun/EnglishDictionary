@@ -8,8 +8,7 @@ import lsieun.dict.core.Definition;
 import lsieun.dict.core.PartOfSpeech;
 import lsieun.dict.core.Word;
 import lsieun.dict.core.WordConst;
-import lsieun.utils.StringUtils;
-import lsieun.utils.io.FileUtils;
+
 
 public class WordUtils {
 

@@ -3,7 +3,6 @@ package lsieun.dict.utils;
 import java.util.ArrayList;
 import java.util.List;
 
-import lsieun.utils.StringUtils;
 
 public class Trie {
     public static final char[] chars = new char[]{
